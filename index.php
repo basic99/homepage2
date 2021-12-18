@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
-    <title>Fixed top navbar example · Bootstrap v5.1</title>
+    <title>Jim White&lsquo;s Homepage</title>
 
 
     <!-- Bootstrap core CSS -->
