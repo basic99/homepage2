@@ -27,3 +27,7 @@ body {
 h1 {
   text-align: center;
 }
+
+main p {
+  font-size: 1.1em;
+}
