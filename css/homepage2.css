@@ -21,4 +21,9 @@ body {
 
 .marspic {
   overflow-x: hidden;
+  margin-bottom: 25px;
+}
+
+h1 {
+  text-align: center;
 }
