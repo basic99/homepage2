@@ -19,7 +19,7 @@
 
 
     <!-- Custom styles for this template -->
-    <link href="navbar-top-fixed.css" rel="stylesheet">
+    <!-- <link href="navbar-top-fixed.css" rel="stylesheet"> -->
   </head>
   <body>
 
@@ -58,6 +58,7 @@
     </div>
   </div>
 </nav>
+  <img src='img/mars_wp_hdr.png' />
 
 <main class="container">
   <div class="bg-light p-5 rounded">
