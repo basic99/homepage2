@@ -12,6 +12,9 @@
         <li class="nav-item">
           <a class="nav-link" href="#">Reading List</a>
         </li>
+         <li class="nav-item">
+          <a class="nav-link" href="#">Blog</a>
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Map</a>
         </li>
