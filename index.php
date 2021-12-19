@@ -29,8 +29,8 @@ include "menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h1>Home</h1>
-    <p>This example is a quick exercise to illustrate how fixed to top navbar works. As you scroll, it will remain fixed to the top of your browser’s viewport.</p>
+    <h1>My Homepage</h1>
+
    <p> My name is Jim White and I grew up in Durham, North Carolina, but now live in Cary, North Carolina. I received my BA at UNC and majored in <a href="http://www.physics.unc.edu/">physics</a> and <a href="http://psychology.unc.edu/">psychology</a>. I also have a MS from NCSU from the <a href="http://www.mse.ncsu.edu/">materials engineering</a> department.During the 1990s I worked in telecommunications for <a href="http://www.nortelnetworks.com/index.html">Nortel Networks</a> at Research Triangle Park. Since 2006 I have worked at North Carolina State University part-time at the <a href="http://www.basic.ncsu.edu/">Biodiversity and Spatial Information Center</a> in <a href="http://www.engr.ncsu.edu/maps/">David Clark Labs</a> developing web mapping application, and now full-time as a programmer with the department of <a href="https://cals.ncsu.edu/entomology-and-plant-pathology/">Entomology and Plant Pathology</a>. A page I made while I was working as a contractor is  <a href="http://whitecodingandmaps.com">White Coding and Maps</a>.
 
   <p>I have traveled overseas 3 times. Famous places I have visited are the pyramids, the <a href="http://www.louvre.fr/llv/commun/home.jsp?bmLocale=en">Louvre</a>, and the<a href="http://www.hrp.org.uk/TowerOfLondon/"> Tower of London</a>, and the not so famous <a href="https://uk.arken.dk/">Arken</a> Museum in Copenhagen . Things that I enjoy doing are working on the computer, genealogy, jogging, and following the <a title="Stanley Cup Champions" href="http://jimserver.net/wp/stanley-cup-champions/">Hurricanes</a>.
