@@ -30,7 +30,50 @@ include "menu.php";
   <div class="col-md-2"></div>
   <div class="col-md-8">
     <h1>Home</h1>
-    <p >This example is a quick exercise to illustrate how fixed to top navbar works. As you scroll, it will remain fixed to the top of your browser’s viewport.</p>
+    <p>This example is a quick exercise to illustrate how fixed to top navbar works. As you scroll, it will remain fixed to the top of your browser’s viewport.</p>
+   <p> My name is Jim White and I grew up in Durham, North Carolina, but now live in Cary, North Carolina. I received my BA at UNC and majored in <a href="http://www.physics.unc.edu/">physics</a> and <a href="http://psychology.unc.edu/">psychology</a>. I also have a MS from NCSU from the <a href="http://www.mse.ncsu.edu/">materials engineering</a> department.During the 1990s I worked in telecommunications for <a href="http://www.nortelnetworks.com/index.html">Nortel Networks</a> at Research Triangle Park. Since 2006 I have worked at North Carolina State University part-time at the <a href="http://www.basic.ncsu.edu/">Biodiversity and Spatial Information Center</a> in <a href="http://www.engr.ncsu.edu/maps/">David Clark Labs</a> developing web mapping application, and now full-time as a programmer with the department of <a href="https://cals.ncsu.edu/entomology-and-plant-pathology/">Entomology and Plant Pathology</a>. A page I made while I was working as a contractor is  <a href="http://whitecodingandmaps.com">White Coding and Maps</a>.
+
+  <p>I have traveled overseas 3 times. Famous places I have visited are the pyramids, the <a href="http://www.louvre.fr/llv/commun/home.jsp?bmLocale=en">Louvre</a>, and the<a href="http://www.hrp.org.uk/TowerOfLondon/"> Tower of London</a>, and the not so famous <a href="https://uk.arken.dk/">Arken</a> Museum in Copenhagen . Things that I enjoy doing are working on the computer, genealogy, jogging, and following the <a title="Stanley Cup Champions" href="http://jimserver.net/wp/stanley-cup-champions/">Hurricanes</a>.
+
+  <p>I continue to enjoy learning about physics and math. The latest atom smashers at the <a href="http://www.bnl.gov/RHIC/">Relativistic Heavy Ion Collider</a> and under construction at <a href="http://public.web.cern.ch/Public/Welcome.html">CERN</a> are creating a <a href="http://www.bnl.gov/RHIC/QGP.htm">quark gluon plasma</a>. CERN was also where Tim Berners-Lee created the <a href="http://info.cern.ch/">first web page</a>. He invented the HTTP protocol and HTML, and started the <a href="http://www.w3.org/">World Wide Web Consortium (W3C)</a>. An interesting web site concerning the history of physics is the <a href="http://www-outreach.phy.cam.ac.uk/camphy/">Cavendish Laboratory</a> site.
+<h2>Links</h2>
+<h4>Genealogy</h4>
+<ul>
+  <li><a href="http://www.nationalarchives.gov.uk/records/wills.htm">The National Archives(UK)</a></li>
+  <li><a href="http://www.mdarchives.state.md.us/megafile/msa/speccol/sc2900/sc2908/html/volumes.html">Archives of Maryland Online</a></li>
+  <li><a href="http://www.medievalgenealogy.org.uk/index.html">Medieval English Genealogy</a></li>
+  <li><a href="http://www.genuki.org.uk/big/eng/">GENUKI UK and Ireland Genealogy</a></li>
+  <li><a href="http://www.familysearch.org/Eng/Search/frameset_search.asp?PAGE=igi/search_IGI.asp">International Genealogical Index</a></li>
+  <li><a href="http://www.virginiamemory.com/collections/collections_by_topic">Library of Virginia Land Office grants </a></li>
+  <li><a href="http://statelibrary.dcr.state.nc.us/iss/gr/genealog.htm">North Carolina Genealogy Library</a></li>
+  <li><a href="http://www.ah.dcr.state.nc.us/archives/">North Carolina State Archives</a></li>
+  <li><a href="http://docsouth.unc.edu/csr/index.html/volumes">Colonial and State Records of North Carolina</a></li>
+  <li><a href="https://histfam.familysearch.org/searchform.php">Family Search Community Trees</a></li>
+  <li><a href="http://www.brantleyassociation.com/southampton_project/southampton_project_list.htm">Southampton Records</a></li>
+</ul>
+<h4>Computer and GIS</h4>
+<ul>
+  <li><a href="http://grass.itc.it/">GRASS GIS</a></li>
+  <li><a href="http://www.opengeospatial.org/">The Open Geospatial Consortium, Inc.</a></li>
+  <li><a href="http://www.gdal.org/">Geospatial Data Abstraction Library</a></li>
+  <li><a href="http://postgis.refractions.net/"> PostGIS</a></li>
+  <li><a href="http://www.epsg-registry.org/">EPSG Geodetic Parameter Registry</a></li>
+  <li><a href="http://www.nomachine.com/index.php"> NoMachine Desktop Virtualization</a></li>
+  <li><a href="http://developer.mozilla.org/en/docs/Main_Page">Mozilla Developer Center</a></li>
+  <li><a href="http://fuzzytolerance.info/">Fuzzy Tolerance GIS blog</a></li>
+  <li><a href="http://www.zeldman.com/">Zeldman web design</a></li>
+</ul>
+<h4>Cool Stuff</h4>
+<ul>
+  <li><a href="http://www.pcgs.com/">Professional Coin Grading Service</a></li>
+  <li><a href="http://www.teach12.com/">The Teaching Company</a></li>
+  <li><a href="http://show.mappingworlds.com//world/?lang=EN">Show World interactive map</a></li>
+  <li><a href="http://app.typrx.com/">typrX Typing Races</a></li>
+  <li><a href="http://www.encyclopediavirginia.org/White_John_d_1593">John White (d. 1593)</a></li>
+  <li><a href="http://hint.fm/wind/">Wind Map</a></li>
+  <li><a href="http://www.hockeybuzz.com/cap-central/">NHL Salary Cap Info</a></li>
+  <li><a href="http://www.watchingdurhambullsbaseball.com">Durham Bulls</a></li>
+</ul>
   </div>
   </div>
 
