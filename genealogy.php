@@ -29,8 +29,7 @@ include "menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h1>Home</h1>
-    <h2></h2>
+    <h2>Genealogy</h2>
 I have been researching my genealogy off and on since 1990. Mostly I have worked on my paternal line, and have been able to trace back to my immigrant ancestor, <a title="Descendants of  Thomas White" href="http://jimserver.net/wp/descendants-of-thomas-white-2/">Thomas White</a>, who arrived in Virginia before 1640.I feel that the available records support my conclusion, although connections of the earliest generations are perhaps less certain than the later ones. In connection with this research I have written several  articles - one in The Virginia Genealogist and another in The Bulletin of the Maryland Genealogical Society.
 <ul>
   <li><a title="The White Family of Norfolk County" href="http://jimserver.net/the-white-family-of-norfolk-county/">The White Family of Norfolk County, Virginia</a></li>
