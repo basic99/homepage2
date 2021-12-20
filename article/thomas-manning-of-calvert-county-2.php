@@ -13,7 +13,7 @@
 
 
     <style>
-      .western {
+      .western, .sdendnote-western {
         font-size: 1em;
       }
     </style>
