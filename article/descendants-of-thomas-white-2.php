@@ -28,8 +28,8 @@ include "../menu.php";
 </div>
 <main class="container">
 <div class="row g-5 bg-light rounded">
-  <div class="col-md-1"></div>
-  <div class="col-md-10">
+  <div class="col-md-2"></div>
+  <div class="col-md-9">
     <h2>Descendants Of Thomas White</h2>
     <p style="text-align: center; margin-bottom: 0.0000in; margin-top: 0.0000in; margin-right: 0.0000in;" dir="ltr"><span style="font-weight: bold; font-family: 'Arial'; background: #ffffff;">
 </span></p>
