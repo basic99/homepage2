@@ -519,15 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "menu.php",
-			"settings":
-			{
-				"buffer_size": 1758,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -855,13 +846,17 @@
 	"expanded_folders":
 	[
 		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/img"
+		"/var/www/html/homepage2/article",
+		"/var/www/html/homepage2/css",
+		"/var/www/html/homepage2/template"
 	],
 	"file_history":
 	[
-		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/css/homepage2.css",
 		"/var/www/html/homepage2/menu.php",
+		"/var/www/html/homepage2/genealogy.php",
+		"/var/www/html/homepage2/article/descendants-of-thomas-white-2.php",
+		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/template/index.php",
 		"/var/www/html/tbas2_1/pages/js/main_wrefset.js",
 		"/var/www/html/tbas2_1/docs/cipres_tbas.py",
@@ -984,9 +979,7 @@
 		"/var/www/html/tbas2_1/docs/cipres_tbas_mafft2.py",
 		"/var/www/html/tbas2_1/docs/cipres_tbas_mafft_denovo.py",
 		"/home/jim/Desktop/martin.txt",
-		"/var/www/html/tbas2_1/docs/cipres_tbas_mafft_denovo.py.bak",
-		"/home/jim/Desktop/debug/mafft/run.sh",
-		"/home/jim/Desktop/debug/mafft/existing_alignment.fasta"
+		"/var/www/html/tbas2_1/docs/cipres_tbas_mafft_denovo.py.bak"
 	],
 	"find":
 	{
@@ -1021,45 +1014,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "menu.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1758,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								806,
-								806
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"file": "img/lewellin.png",
-					"semi_transient": true,
-					"stack_index": 0,
-					"type": "image"
-				}
 			]
 		}
 	],
