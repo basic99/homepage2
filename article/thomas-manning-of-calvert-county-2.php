@@ -16,6 +16,10 @@
       .western, .sdendnote-western {
         font-size: 1em;
       }
+      blockquote {
+        padding-left: 30px;
+        font-size: .95em;
+      }
     </style>
 
   </head>
