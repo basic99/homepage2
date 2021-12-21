@@ -13,10 +13,7 @@
 
 
     <style>
-      blockquote {
-        padding-left: 30px;
-        font-size: .95em;
-      }
+
     </style>
 
   </head>

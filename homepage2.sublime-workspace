@@ -845,17 +845,21 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2"
+		"/var/www/html/homepage2",
+		"/var/www/html/homepage2/template"
 	],
 	"file_history":
 	[
+		"/home/jim/Desktop/obit.txt",
+		"/var/www/html/homepage2/genealogy.php",
+		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
+		"/var/www/html/homepage2/article/white-manning-hodges-london-connection.php",
+		"/var/www/html/homepage2/article/the-white-family-of-norfolk-county.php",
 		"/var/www/html/homepage2/article/Capt_Wm_Peirce.html",
 		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a.html",
 		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a_files/background19.jpg",
 		"/home/jim/Desktop/Capt_Wm_Peirce.pdf",
 		"/var/www/html/homepage2/index.php",
-		"/var/www/html/homepage2/genealogy.php",
-		"/var/www/html/homepage2/article/the-white-family-of-norfolk-county.php",
 		"/var/www/html/homepage2/article/thomas-manning-of-calvert-county-2.php",
 		"/var/www/html/homepage2/article/descendants-of-thomas-white-2.php",
 		"/var/www/html/homepage2/css/homepage2.css",
@@ -973,10 +977,7 @@
 		"/var/www/html/tbas2_1/pages/js/unifrac_run.js",
 		"/var/www/html/tbas2_1/pages/upload_ajax_runner.php",
 		"/var/www/html/tbas2_1/data/SILVA/notes.txt",
-		"/var/www/html/tbas2_1/pages/messages/epa_multi_results.php",
-		"/var/www/html/tbas2_1/docs/tbas_cmds.py",
-		"/var/www/html/tbas2_1/tmp/mafft_results_tmpFMLYOWYF/output.mafft",
-		"/var/www/html/tbas2_1/tmp/mafft_resultsFMLYOWYF/output.mafft"
+		"/var/www/html/tbas2_1/pages/messages/epa_multi_results.php"
 	],
 	"find":
 	{
@@ -994,6 +995,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"/\"",
+			"http://jimserver.net",
 			" genealogy and history",
 			"1655",
 			"sdendnote3sym"
@@ -1636,7 +1639,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 272.0,
+	"side_bar_width": 260.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

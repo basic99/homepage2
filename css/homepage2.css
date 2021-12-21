@@ -14,8 +14,7 @@
 }
 
 body {
-  min-height: 75rem;
-  /*padding-top: 4.5rem;*/
+  min-height: 75rem;  /*padding-top: 4.5rem;*/
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
@@ -31,4 +30,9 @@ h1 {
 
 main p {
   font-size: 1.1em;
+}
+
+blockquote {
+  padding-left: 30px;
+  font-size: .95em;
 }
