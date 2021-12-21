@@ -180,34 +180,34 @@ Norfolk Co.<br>
 36. Note 13, supra.<br>
 37. McIntosh, op. cit., p. 199.<br>
 38. Norfolk Co., Va., Deed Bk. 9, p. 147.<br>
-39. McIntosh, op. cit., p. 151.
-40. Norfolk Co., Va., Will and Deed Bk. D, p. 37.
-41. Nugent, op. cit., v. 1, p. 57.
+39. McIntosh, op. cit., p. 151.<br>
+40. Norfolk Co., Va., Will and Deed Bk. D, p. 37.<br>
+41. Nugent, op. cit., v. 1, p. 57.<br>
 42. IGI statistical results are as follows: Gilyard all entries 85% Yorkshire; John Sykes
-1600-1625 74% Yorkshire.
-43. Nugent, op. cit., v. 1, p. 565.
-44. Virginia Land Patent Bk. 7, p.55; Bk. 4, p. 42; Bk. 5, p. 651.
-45. Nugent, op. cit., v. 2, p. 173.
-46. Ibid., v. 2, p. 298.
-47. Norfolk Co., Va., Deed Bk. 6, p. 32.
-48. Norfolk Co., Va., Deed Bk. 8, p. 8.
-49. Norfolk Co., Va., Deed Bk. 9, p. 578.
-50. Nugent, op. cit., v. 3, p. 202.
-51. Norfolk Co., Va., Deed Bk. 10, pp. 2,10,24,33,38,44.
+1600-1625 74% Yorkshire.<br>
+43. Nugent, op. cit., v. 1, p. 565.<br>
+44. Virginia Land Patent Bk. 7, p.55; Bk. 4, p. 42; Bk. 5, p. 651.<br>
+45. Nugent, op. cit., v. 2, p. 173.<br>
+46. Ibid., v. 2, p. 298.<br>
+47. Norfolk Co., Va., Deed Bk. 6, p. 32.<br>
+48. Norfolk Co., Va., Deed Bk. 8, p. 8.<br>
+49. Norfolk Co., Va., Deed Bk. 9, p. 578.<br>
+50. Nugent, op. cit., v. 3, p. 202.<br>
+51. Norfolk Co., Va., Deed Bk. 10, pp. 2,10,24,33,38,44.<br>
 52. Norfolk Co., Va., Orders, Appraisements, and Wills, 1719-22, p. 40. Robert Gamon
 named a daughter Elizabeth, or possibly Susanna Elizabeth, in his will. His father, John
 Gamon, was granted land on Richford Swamp and was named in Walter Costen's will. The
-identity of John White's wife Elizabeth is not known, but was possibly Elizabeth Gamon.
-53. Norfolk Co., Va., Will and Deed Bk. F, p. 96.
-54. Norfolk Co., Va., Will and Deed Bk. F, p. 107.
-55. Wingo, op. cit.
-56. Nugent, op. cit., v. 3, p. 329.
-57. Isle of Wight Co., Va., Will Bk. 3, p. 251.
-58. Note 1, supra.
+identity of John White's wife Elizabeth is not known, but was possibly Elizabeth Gamon.<br>
+53. Norfolk Co., Va., Will and Deed Bk. F, p. 96.<br>
+54. Norfolk Co., Va., Will and Deed Bk. F, p. 107.<br>
+55. Wingo, op. cit.<br>
+56. Nugent, op. cit., v. 3, p. 329.<br>
+57. Isle of Wight Co., Va., Will Bk. 3, p. 251.<brs>
+58. Note 1, supra.<br>
 59. Margaret M. Walker, Currituck County North Carolina Cemetery Records (Baltimore,
 1995), pp. 296-300. Records of some members of the White family in Currituck Co. were
-kept in an almanac that was printed in England in 1663.
-60. Brunswick Co., Va., Deed Bk. 3, p. 271.
+kept in an almanac that was printed in England in 1663.<br>
+60. Brunswick Co., Va., Deed Bk. 3, p. 271.<br>
 61. The Barlow family of Isle of Wight was descended from Henry Barlow of Lower
 Norfolk Co. Perhaps it is coincidental, but Henry Barlow's son Thomas started appearing
 in Isle of Wight Co. records in 1663, which is about the same time John White married
@@ -227,68 +227,68 @@ Isle of Wight Barlows, but the relationship is not known. On 6 Nov. 1651 the Low
 Norfolk Co. court ordered Thomas Sayer to pay Henry Barlowe 2000 lb. of tobacco
 (Walter, op. cit., p. b-185). On 9 March 1652/3 Henry Barlow was granted 350 acres on
 Julians Creek in Lower Norfolk Co. (Nugent , op. cit., v. 1, p. 274). These records show
-that Henry Barlow probably knew Thomas White.
-62. Isle of Wight Co., Va., Deed Bk. 8, p. 34.
-63. Southampton Co., Va., Deed Bk. 1, p. 106.
-64. Virginia Land Patents Bk. 34, p. 412.
-65. Brunswick Co., Va., Order Bk. 2, f. 260.
-66. Brunswick Co., Va., Will Bk. 5, pt. 2, p. 588.
+that Henry Barlow probably knew Thomas White.<br>
+62. Isle of Wight Co., Va., Deed Bk. 8, p. 34.<br>
+63. Southampton Co., Va., Deed Bk. 1, p. 106.<br>
+64. Virginia Land Patents Bk. 34, p. 412.<br>
+65. Brunswick Co., Va., Order Bk. 2, f. 260.<br>
+66. Brunswick Co., Va., Will Bk. 5, pt. 2, p. 588.<br>
 67. Zae Hargett Gwynn, Abstracts of Wills and Estate Records of Granville County, North
-Carolina 1746-1808 (Rocky Mount, 1973), p. 217.
+Carolina 1746-1808 (Rocky Mount, 1973), p. 217.<br>
 68. Stephen E. Bradley, Brunswick County, Virginia Will Books, v. 2 (Lawrenceville, Va,
-1997), p. 11.
+1997), p. 11.<br>
 69. Mary Best Bell, Colonial Bertie County North Carolina Abstracts of Deed Books B&amp;C
-1725-30 &amp; 1739 (Windsor, N.C., 1963), p. 118.
+1725-30 &amp; 1739 (Windsor, N.C., 1963), p. 118.<br>
 70. Margaret M. Hoffman, Abstracts of Deeds, Edgecombe Precinct, Edgecombe County,
-North Carolina 1732 through 1758 (Weldon, 1969), p. 201.
+North Carolina 1732 through 1758 (Weldon, 1969), p. 201.<br>
 71. Walter Clark, The State Records of North Carolina, v. 23 (reprint; Wilmington, 1994),
-p. 297.
+p. 297.<br>
 72. Walter L. Saunders, The Colonial Records of North Carolina, v. 5 (reprint; Wilmington,
-1993), p. 591.
-73. Granville Co., N.C., tax lists, N.C. Archives, Raleigh, N.C.
+1993), p. 591.<br>
+73. Granville Co., N.C., tax lists, N.C. Archives, Raleigh, N.C.<br>
 74. Margaret M. Hoffman, The Granville District of North Carolina 1748-1763, v. 2
-(Weldon, 1987), pp. 156-160.
-75. Granville Co.,N.C., loose will, Granville Courthouse, Oxford, N.C.
-76. Granville Co., N.C., estate records, N.C Archives, Raleigh, N.C.
+(Weldon, 1987), pp. 156-160.<br>
+75. Granville Co.,N.C., loose will, Granville Courthouse, Oxford, N.C.<br>
+76. Granville Co., N.C., estate records, N.C Archives, Raleigh, N.C.<br>
 77. Chapman, op. cit., p. 118. In his will Joseph Carrell mentioned Sarah White, but did not
 state the relationship. The Carrell family was intermarried with the Barlow family in Isle of
 Wight Co. It is possible that Sarah White was the grand-daughter Sarah Carell of Sarah
 Barlow who was named in her will, dated 19 March 1728/9 (Ibid., p. 107). There was
 another Sarah White that lived in Isle of Wight Co. in 1733. She was the wife of Henry
-White, but her maiden name was probably Baker (Ibid., p. 116).
-78. Gwynn, op. cit., p. 4, will of Philemon Bradford.
-79. Chatham Co., N.C., Will Bk. A, p.4.
+White, but her maiden name was probably Baker (Ibid., p. 116).<br>
+78. Gwynn, op. cit., p. 4, will of Philemon Bradford.<br>
+79. Chatham Co., N.C., Will Bk. A, p.4.<br>
 80. Records of the White family in Chatham Co., N.C., are contained in a small book whose
 financial entries date the book to around 1807. The book is now in the possession of
-Ellington White of Beaufort, S.C.
+Ellington White of Beaufort, S.C.<br>
 81. Granville Co., N.C., loose will, Granville Courthouse, Oxford, N.C. Robert Hicks
-mentioned Fatey (Faith) White in his will, but did not state the relationship.
-82. Gwyn, op. cit., p. 9, will of Sherwood Harris.
-83. Ibid., p. 51.
-84. Granville Co., N.C., estate records, N.C. Archives, Raleigh, N.C.
+mentioned Fatey (Faith) White in his will, but did not state the relationship.<br>
+82. Gwyn, op. cit., p. 9, will of Sherwood Harris.<br>
+83. Ibid., p. 51.<br>
+84. Granville Co., N.C., estate records, N.C. Archives, Raleigh, N.C.<br>
 85. Thomas McAdory Owen, History and Genealogies of Old Granville County, North
-Carolina 1746-1800 (Greenville, S.C., 1993), p. 48.
+Carolina 1746-1800 (Greenville, S.C., 1993), p. 48.<br>
 86. William Lindsey Hopkins, Isle of Wight County, Virginia Deeds 1720-1736 and Deeds
-1741-1749 (Richmond, 1994), p. 72.
-87. Nugent, op. cit., v. 2, p. 56.
-88. Ibid., v. 2, p. 180.
-89. Note 87, supra.
-90. Currituck Co., N.C., Deed Bk. 3, p. 100.
+1741-1749 (Richmond, 1994), p. 72.<br>
+87. Nugent, op. cit., v. 2, p. 56.<br>
+88. Ibid., v. 2, p. 180.<br>
+89. Note 87, supra.<br>
+90. Currituck Co., N.C., Deed Bk. 3, p. 100.<br>
 91. Margaret M. Hoffman, The Province of North Carolina 1663-1729 Abstracts of Land
-Grants (Weldon, 1979), p. 50.
+Grants (Weldon, 1979), p. 50.<br>
 92. Currituck Co., N.C., Deed Bk. 3, p. 17.
 93. William Doub Bennett, Currituck County, North Carolina Eighteenth Century Tax &amp;
-Militia Records (Baltimore, 1994), p. xii.
-94. Nugent, op. cit.,v. 2, p. 397.
-95. Bennett, op. cit., p. 27.
-96. Ibid., pp. 57-8.
-97. Ibid., p. 58.
-98. Saunders, op. cit., v. 4, p. 48.
-99. Currituck Co., N.C., Deed Bk. 3, p. 15.
+Militia Records (Baltimore, 1994), p. xii.<br>
+94. Nugent, op. cit.,v. 2, p. 397.<br>
+95. Bennett, op. cit., p. 27.<br>
+96. Ibid., pp. 57-8.<br>
+97. Ibid., p. 58.<br>
+98. Saunders, op. cit., v. 4, p. 48.<br>
+99. Currituck Co., N.C., Deed Bk. 3, p. 15.<br>
 100. Gordon C. Jones, Abstracts of Wills and Other Records, Currituck and Dare Counties,
-North Carolina 1663-1850 (reprint; Baltimore, 1977), p. 33.
-101. Ibid., p. 33.
-102. Ibid., p. 33.
+North Carolina 1663-1850 (reprint; Baltimore, 1977), p. 33.<br>
+101. Ibid., p. 33.<br>
+102. Ibid., p. 33.<br>
 103. Note 59, supra.</p>
 
 
