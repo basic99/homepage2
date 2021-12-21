@@ -123,40 +123,39 @@ v.Christian
 vi. Keziah, married Michael Elles.<br>
 vii. Mary, married John Tomson.<br>
 vii. Margrett.</div></p>
+  <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
-&nbsp;
-<h2>Notes</h2>
-1. Isle of Wight Co., Va., Will Bk. 3, p.198.
-2. Nell M. Nugent, Cavaliers and Pioneers, v. 2 (Richmond, 1977), p. 79.
-3. Ibid., v. 2, p. 347.
+<p>1. Isle of Wight Co., Va., Will Bk. 3, p.198.<br>
+2. Nell M. Nugent, Cavaliers and Pioneers, v. 2 (Richmond, 1977), p. 79.<br>
+3. Ibid., v. 2, p. 347.<br>
 4. Anne E. Maling, Princess Anne County, Virginia Land and Probate Records
-1691-1755 (Bowie, Md., 1992), p. 1.
-5. Ibid., p. 4.
-6. Ibid., p. 63.
+1691-1755 (Bowie, Md., 1992), p. 1.<br>
+5. Ibid., p. 4.<br>
+6. Ibid., p. 63.<br>
 7. "Virginia Quit Rent Rolls, 1704," The Virginia Magazine of History and Biography,
-1922, p. 29.
-8. Norfolk Co., Va., Deed Bk. 9, p. 271.
-9. Norfolk Co., Va., Will and Deed Bk. F, p. 27.
+1922, p. 29.<br>
+8. Norfolk Co., Va., Deed Bk. 9, p. 271.<br>
+9. Norfolk Co., Va., Will and Deed Bk. F, p. 27.<br>
 10. Elizabeth and Bruce Wingo, Norfolk County, Virginia Tithables, 1730-1750 (Norfolk ,
-1979), pp. 2-7.
-11. Nugent, op. cit., v. 2, p. 153.
+1979), pp. 2-7.<br>
+11. Nugent, op. cit., v. 2, p. 153.<br>
 12. Edward W. James, The Lower Norfolk County Virginia Antiquary, v. 2 (reprint; New
-York, 1951), p. 88.
-13. Ibid., p. 89.
-14. Ibid., p. 90.
-15. Ibid, v. 2, pp. 88-94, 139-141; v. 3, pp. 34-38, 52-57.
-16. Ibid., v. 3, p. 54.
-17. Nugent, op. cit., v. 2, p. 233.
+York, 1951), p. 88.<br>
+13. Ibid., p. 89.<br>
+14. Ibid., p. 90.<br>
+15. Ibid, v. 2, pp. 88-94, 139-141; v. 3, pp. 34-38, 52-57.<br>
+16. Ibid., v. 3, p. 54.<br>
+17. Nugent, op. cit., v. 2, p. 233.<br>
 18. Charles Fleming McIntosh, Lower Norfolk County and Norfolk County Wills
-1637-1710 (reprint; Easley, S.C., 1982), p. 91.
-19. Princess Anne Co., Va., Deed Bk. 1, p. 366.
+1637-1710 (reprint; Easley, S.C., 1982), p. 91.<br>
+19. Princess Anne Co., Va., Deed Bk. 1, p. 366.<br>
 20. John Camden Hotten, The Original Lists of Persons of Quality (reprint; Baltimore,
-1978), p. 126.
-21. Virginia Land Patent Bk. 1, p. 539.
+1978), p. 126.<br>
+21. Virginia Land Patent Bk. 1, p. 539.<br>
 22. IGI statistical results are as follows: Ablesonne 1600-1750 59% Yorkshire, 26 %
 London; Spackford according to IGI is a variant of Spacoforth an unusual name with the
 only entry being a William Spacoforth born in York, Yorkshire in 1760; Thomas Kirke
-1600-1650 41% Lincolnshire, 10% Nottinghamshire, 10%Yorkshire.
+1600-1650 41% Lincolnshire, 10% Nottinghamshire, 10%Yorkshire.<br>
 23. Luke White, son of Jonathan White of Ardsley, bpt. 13 Nov. 1673 (Darfield, Yorkshire,
 parish register). Will of Costyn White of Swinton (near to Ardsley), dated 6 Dec. 1557,
 bequeathed to Ardesley Lane 3s 4d (Doncaster Deanery Wills, vol. 15, pt. 2, fol. 224,
@@ -164,23 +163,23 @@ Borthwick Institute, York). The name Costyn White might refer to a marriage betw
 White family and the Cosin family that lived in adjcent Rawmarsh parish at that time, e.g.
 Alicia and Henricus Cosin bapt. 1560. The names Costen; e.g. Walter Costen, and Costen
 Sikes, Luke White, and Jonathan White all occur in the records of the White family of
-Norfolk Co.
+Norfolk Co.<br>
 24. Alice Granberry Walter, Lower Norfolk County, Virginia Court Records, Book "A"
-1637-1646 &amp; Book "B" 1646-1651/2 (Baltimore, 1994), p. a-172.
-25. Ibid., p. a-174.
-26. Ibid., p. b-153.
-27. Nugent, op. cit., v. 1, p. 247.
-28. Ibid., v. 1, p. 329.
-29. Ibid., v. 1, p. 469.
-30. Lower Norfolk Co., Va., Deed Bk. 6, p. 158.
-31. Lower Norfolk Co., Va., Will and Deed Bk. E, p. 39.
-32. Lower Norfolk Co., Va., Will and Deed Bk. E, p. 90.
-33. Isle of Wight Co., Va., Will &amp; Deed Bk. 1, p. 22.
-34. Isle of Wight Co., Va., Will &amp; Deed Bk. 1, p. 25.
-35. McIntosh, op. cit., p. 36.
-36. Note 13, supra.
-37. McIntosh, op. cit., p. 199.
-38. Norfolk Co., Va., Deed Bk. 9, p. 147.
+1637-1646 &amp; Book "B" 1646-1651/2 (Baltimore, 1994), p. a-172.<br>
+25. Ibid., p. a-174.<br>
+26. Ibid., p. b-153.<br>
+27. Nugent, op. cit., v. 1, p. 247.<br>
+28. Ibid., v. 1, p. 329.<br>
+29. Ibid., v. 1, p. 469.<br>
+30. Lower Norfolk Co., Va., Deed Bk. 6, p. 158.<br>
+31. Lower Norfolk Co., Va., Will and Deed Bk. E, p. 39.<br>
+32. Lower Norfolk Co., Va., Will and Deed Bk. E, p. 90.<br>
+33. Isle of Wight Co., Va., Will &amp; Deed Bk. 1, p. 22.<br>
+34. Isle of Wight Co., Va., Will &amp; Deed Bk. 1, p. 25.<br>
+35. McIntosh, op. cit., p. 36.<br>
+36. Note 13, supra.<br>
+37. McIntosh, op. cit., p. 199.<br>
+38. Norfolk Co., Va., Deed Bk. 9, p. 147.<br>
 39. McIntosh, op. cit., p. 151.
 40. Norfolk Co., Va., Will and Deed Bk. D, p. 37.
 41. Nugent, op. cit., v. 1, p. 57.
@@ -290,7 +289,7 @@ Militia Records (Baltimore, 1994), p. xii.
 North Carolina 1663-1850 (reprint; Baltimore, 1977), p. 33.
 101. Ibid., p. 33.
 102. Ibid., p. 33.
-103. Note 59, supra.
+103. Note 59, supra.</p>
 
 
 
