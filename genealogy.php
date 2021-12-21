@@ -45,13 +45,13 @@ include "menu.php";
 
 <p>I submitted a supplemental application for my ancestor <a href="http://jimserver.net/downloads/WhiteJamesNatNo4791-S1.pdf"> John Lanier </a> who was in Virginia before 1660. He was the grandson of Nicholas Lanier and and Lucreece Bassano. Members of the Lanier and Bassano families were court musicians. <a href="http://en.wikipedia.org/wiki/Nicholas_Lanier_the_Elder"> Nicholas Lanier </a> was from Rouen, France, and the <a href="http://en.wikipedia.org/wiki/Anthony_Bassano">Bassano family </a> was from Italy. A cousin, <a href="http://www.shakespeareanauthorshiptrust.org.uk/pages/candidates/other.htm">Amelia Bassano Lanyer</a>, 1569-1645, was an early female author and is included on the list of possible authors of the plays of Shakespeare. I created a <a href="http://jimserver.net/downloads/lanier_descend_chart.svg">tree</a> of the Laniers using the genealogy program <a href="https://gramps-project.org/wiki/index.php?title=Main_page">Gramps</a>.
 
-<!-- <p>I have written a couple posts about connections to England, which are interesting but a bit rambling and later research has shown not really relavant to the ancestry of Thomas White.
+<p>I have written a couple posts about connections to England, which are interesting but a bit rambling and later research has shown not really relavant to the ancestry of Thomas White.
 <ul>
-  <li><a title="A Possible English Ancestry for Thomas White" href="http://jimserver.net/a-possible-english-ancestry-for-thomas-white/"> White family of Newport-Pagnell</a></li>
-  <li><a title="Ancestry of William White, Clerk" href="http://jimserver.net/ancestry-of-william-white-clerk/">White family of Sempringham</a></li>
-  <li><a title="The Merchant Taylors" href="http://jimserver.net/the-merchant-taylors/">The Merchant Taylors</a></li>
-  <li><a title="White, Manning, Hodges London Connection" href="http://jimserver.net/white-manning-hodges-london-connection/">White, Manning, Hodges London Connection</a></li>
-</ul> -->
+  <li><a title="A Possible English Ancestry for Thomas White" href="/article/a-possible-english-ancestry-for-thomas-white.php"> White family of Newport-Pagnell</a></li>
+  <li><a title="Ancestry of William White, Clerk" href="/article/ancestry-of-william-white-clerk.php">White family of Sempringham</a></li>
+  <li><a title="The Merchant Taylors" href="/article/the-merchant-taylors.php">The Merchant Taylors</a></li>
+  <li><a title="White, Manning, Hodges London Connection" href="/article/white-manning-hodges-london-connection.php">White, Manning, Hodges London Connection</a></li>
+</ul>
 <p>Here are some links for researching possible links to London:
 <ul>
   <li><a href="http://www.british-history.ac.uk/source.aspx?pubid=176">The Inhabitants of London 1638</a></li>
