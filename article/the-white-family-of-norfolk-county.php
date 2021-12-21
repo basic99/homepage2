@@ -91,22 +91,24 @@ iv. (possibly) Samuel, died Brunswick Co., Va., ca. 1771.[68]<br>
 v. Jane, married John Hamore.</div></p>
 
 <p>3. Jonathan<sup>2</sup> White bought 308 acres of land on the Morattock (Roanoke) River in Bertie Co., N.C., from John Mackinne on 8 Feb. 1730/1.[69] On 3 Feb. 1744/5 he sold this land to John Grice.[70] By 1748 he was living in Granville Co., N.C., when he was one of three commissioners appointed by the General Assembly to choose a location for the courthouse.[71] He was also listed as a justice of the peace for Granville Co. in 1756.[72] A Granville Co. list of tithables for 1751 lists John White, Valentine White, and Jonathan White. A list of tithables for 1755 lists Jonathan White with sons William, Jonathan, and Henry.[73] He was granted land from Lord Granville in Granville Co. in 5 grants in 1754 and 1762 for 2100 acres.[74] Jonathan White's will was dated 28 Feb. 1772, and proved in Granville Co. court in Aug. 1772.[75] An account of the estate of Jonathan White, valued at 313.4.3 pounds, was rendered by Thomas Bradford, executor.[76] In his will he named his wife Sarah White. Possibly, she was the same Sarah White mentioned in Joseph Carrell's will in Isle of Wight Co., Va., dated 1 March 1733/4.[77]
-The children of Jonathan and Sarah (Carrell?) White were:
+<p>The children of Jonathan and Sarah (Carrell?) White were:
+<div style='padding-left: 20px;'>
 i. John, married Mary Bradford (b. 15 Nov. 1732)[78], died Chatham Co., N.C.,
-ca. 1798.[79] The children of John and Mary (Bradford) White were:
-a. Sarah, born 8 May 1763.
-b. Lucy, born 11 March 1766.
-c. Philemon, born 8 July 1768.
-d. John, born 11 May 1770.
-e. Penny, born 15 July 1775.[80]
-ii. Jonathan, married Faith (Hicks?).[81]
-iii. William.
-iv. Henry, married Jemima Harris,[82] died Granville Co., N.C., ca.1776.[83]
-v. Burgess.
-vi. Philemon, died Granville Co., N.C., ca. 1803.[84]
-vii. Mary, married Frederick Homes.[85]
+ca. 1798.[79] The children of John and Mary (Bradford) White were:<br>
+<div style='padding-left: 20px;'>
+a. Sarah, born 8 May 1763.<br>
+b. Lucy, born 11 March 1766.<br>
+c. Philemon, born 8 July 1768.<br>
+d. John, born 11 May 1770.<br>
+e. Penny, born 15 July 1775.[80]<br></div>
+ii. Jonathan, married Faith (Hicks?).[81]<br>
+iii. William.<br>
+iv. Henry, married Jemima Harris,[82] died Granville Co., N.C., ca.1776.[83]<br>
+v. Burgess.<br>
+vi. Philemon, died Granville Co., N.C., ca. 1803.[84]<br>
+vii. Mary, married Frederick Homes.[85]</div></p>
 
-4. Elizabeth<sup>2</sup> (White) Carpenter, John Carpenter, and William<sup>3 </sup>Carpenter sold the 50 acres on Flatt Swamp in Isle of Wight Co. adjacent to Valentine White to Benjamin Hale on 22 Sept. 1743. The land was "part of a tract given them by the father of the said Carpenters wives (sic) ."[86] A John Carpenter was listed as a headright with Luke White in a patent in Lower Norfolk Co. to John Manning in 1667,[87] however there are no records of a Carpenter family living in Norfolk Co. It seems that the Carpenter family might have been from from Lancaster Co., Va., where John Carpenter and John Mott were granted 245 acres on 5 Jan. 1677/8 adjacent George Hale.[88]
+<p>4. Elizabeth<sup>2</sup> (White) Carpenter, John Carpenter, and William<sup>3 </sup>Carpenter sold the 50 acres on Flatt Swamp in Isle of Wight Co. adjacent to Valentine White to Benjamin Hale on 22 Sept. 1743. The land was "part of a tract given them by the father of the said Carpenters wives (sic) ."[86] A John Carpenter was listed as a headright with Luke White in a patent in Lower Norfolk Co. to John Manning in 1667,[87] however there are no records of a Carpenter family living in Norfolk Co. It seems that the Carpenter family might have been from from Lancaster Co., Va., where John Carpenter and John Mott were granted 245 acres on 5 Jan. 1677/8 adjacent George Hale.[88]
 <h4>Luke White</h4>
 Luke<sup>1</sup> White was listed as a headright on a patent granted to John Manning for 300 acres in Norfolk Co. on Gatters Creek on 14 Sept. 1667.[89] Although no further records were located for him, he was probably the father of Luke<sup>2</sup> White who was living in Currituck Co., N.C., by 25 July 1709 when he proved the power of attorney for William Powell to Edward Poyner.[90] Luke White was granted 175 acres in Currituck Co. next to Thomas Taylor on 2 Oct. 1712.[91] Thomas Vince and Margaret his wife sold Luke White 143 acres near Poyners Point in Currituck Co. on 12 April 1714.[92]
 
