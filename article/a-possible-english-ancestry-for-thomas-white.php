@@ -65,7 +65,7 @@ First I bequeath my soule unto God from whence it each into first being and unto
 
 I wish ... my will it Mr. Jeremiah White minister of God and Mr. Hulett ... merchant my husbands brothers the which be left to be the orphans guardians Also my will to have them to be their guard and to have full power to be this my will perform for the good of the orphans my husbands two children after the decesase of ... when .. shall please God.. this world ...</blockquote>
 
-
+<img class="img-fluid"  src='/img/martha_white_will.png' /><br><br>
 <del>A Jeremiah White was baptized 14 April 1653 at Halberton, Devon. His parents were listed as William White and Margaret(IGI). It is likely that this is one of William White's children and the other was named for her mother, Margaret. An examination of <a href="http://bit.ly/x66JSB">matriculation records</a> of Cambridge and Oxford found the entry of William White, born 1629 at Elworthy, Somerset, that is probably the minister in Virginia. His record states he went to school at Tiverton in Devon. Halberton mentioned as the probable baptism place of Jeremiah White is a small town near to Tiverton.</del>
 
 Jeremiah White, minister, guardian of the orphans of William White was almost certainly Jeremiah White who was Chaplain to Cromwell. His matriculation record at Cambridge shows he was born in 1629, although his parents or place of birth are not given (<a href="http://bit.ly/wZoRiT">http://venn.lib.cam.ac.uk</a>). There are 2 entries in the IGI that match his age. One in the county of Lincoln, and the other was on 12 Feb. 1629 at Saint Mary Abchurch, London. The parents were Oliver White and Jane.
