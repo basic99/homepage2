@@ -56,7 +56,7 @@ include "menu.php";
 <ul>
   <li><a href="http://www.british-history.ac.uk/source.aspx?pubid=176">The Inhabitants of London 1638</a></li>
   <li><a href="http://www.british-history.ac.uk/report.aspx?compid=38869">Parishes in London and Westminster, outside the City of London</a></li>
-  <li><a href="http://jimserver.net/downloads/london_parishes.pdf">Parishes in City of London</a></li>
+  <li><a href="/downloads/london_parishes.pdf">Parishes in City of London</a></li>
 </ul>
 <img  class="img-fluid" src="http://jimserver.net/graphics/cw.png" alt="charlie ward" />
 

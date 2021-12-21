@@ -845,18 +845,21 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/article",
-		"/var/www/html/homepage2/css",
-		"/var/www/html/homepage2/template"
+		"/var/www/html/homepage2"
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/article/Capt_Wm_Peirce.html",
+		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a.html",
+		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a_files/background19.jpg",
+		"/home/jim/Desktop/Capt_Wm_Peirce.pdf",
+		"/var/www/html/homepage2/index.php",
+		"/var/www/html/homepage2/genealogy.php",
+		"/var/www/html/homepage2/article/the-white-family-of-norfolk-county.php",
+		"/var/www/html/homepage2/article/thomas-manning-of-calvert-county-2.php",
+		"/var/www/html/homepage2/article/descendants-of-thomas-white-2.php",
 		"/var/www/html/homepage2/css/homepage2.css",
 		"/var/www/html/homepage2/menu.php",
-		"/var/www/html/homepage2/genealogy.php",
-		"/var/www/html/homepage2/article/descendants-of-thomas-white-2.php",
-		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/template/index.php",
 		"/var/www/html/tbas2_1/pages/js/main_wrefset.js",
 		"/var/www/html/tbas2_1/docs/cipres_tbas.py",
@@ -973,17 +976,11 @@
 		"/var/www/html/tbas2_1/pages/messages/epa_multi_results.php",
 		"/var/www/html/tbas2_1/docs/tbas_cmds.py",
 		"/var/www/html/tbas2_1/tmp/mafft_results_tmpFMLYOWYF/output.mafft",
-		"/var/www/html/tbas2_1/tmp/mafft_resultsFMLYOWYF/output.mafft",
-		"/var/www/html/tbas2_1/js/clade_structure.js",
-		"/var/www/html/tbas2_1/pages/clade_structure.php",
-		"/var/www/html/tbas2_1/docs/cipres_tbas_mafft2.py",
-		"/var/www/html/tbas2_1/docs/cipres_tbas_mafft_denovo.py",
-		"/home/jim/Desktop/martin.txt",
-		"/var/www/html/tbas2_1/docs/cipres_tbas_mafft_denovo.py.bak"
+		"/var/www/html/tbas2_1/tmp/mafft_resultsFMLYOWYF/output.mafft"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -997,6 +994,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" genealogy and history",
+			"1655",
+			"sdendnote3sym"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1082,7 +1082,7 @@
 	"project": "homepage2.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
