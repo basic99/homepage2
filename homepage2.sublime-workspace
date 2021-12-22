@@ -519,6 +519,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "homepage2.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -548,15 +556,15 @@
 		"selected_items":
 		[
 			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
 				"form",
 				"Format CSS: Expanded"
 			],
 			[
 				"liv",
-				"LiveReload: Enable/disable plug-ins"
-			],
-			[
-				"live",
 				"LiveReload: Enable/disable plug-ins"
 			],
 			[
@@ -845,13 +853,12 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/css",
-		"/var/www/html/homepage2/template"
+		"/var/www/html/homepage2"
 	],
 	"file_history":
 	[
 		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
+		"/var/www/html/homepage2/template/index_l2.php",
 		"/var/www/html/homepage2/article/the-white-family-of-norfolk-county.php",
 		"/var/www/html/homepage2/css/homepage2.css",
 		"/home/jim/Desktop/obit.txt",
@@ -977,8 +984,7 @@
 		"/var/www/html/tbas2_1/docs/tbassilva.py",
 		"/var/www/html/tbas2_1/pages/js/unifrac_run.js",
 		"/var/www/html/tbas2_1/pages/upload_ajax_runner.php",
-		"/var/www/html/tbas2_1/data/SILVA/notes.txt",
-		"/var/www/html/tbas2_1/pages/messages/epa_multi_results.php"
+		"/var/www/html/tbas2_1/data/SILVA/notes.txt"
 	],
 	"find":
 	{
@@ -1019,8 +1025,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "homepage2.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
