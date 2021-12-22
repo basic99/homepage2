@@ -58,7 +58,7 @@ include "menu.php";
   <li><a href="http://www.british-history.ac.uk/report.aspx?compid=38869">Parishes in London and Westminster, outside the City of London</a></li>
   <li><a href="/downloads/london_parishes.pdf">Parishes in City of London</a></li>
 </ul>
-<img  class="img-fluid" src="graphics/cw.png" alt="charlie ward" />
+<img  class="img-fluid" src="/img/cw.png" alt="charlie ward" />
 
 
 
