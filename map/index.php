@@ -41,7 +41,7 @@ include "../menu.php";
 
   <p>The metes and bounds plots were created by Barbara Vines Little and me with support and encouragement of Warren Culpepper. The maps are displayed with <a href='https://www.mapbox.com/' >Mapbox.</a>
 
-    <h1><a href="map.html">The Map</a></h1>
+    <h1><a href="norfolk.html">The Map</a></h1>
 
 
 
