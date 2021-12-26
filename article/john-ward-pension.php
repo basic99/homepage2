@@ -31,12 +31,12 @@ include "../menu.php";
   <div class="col-md-8">
     <h2>John Ward Pension</h2>
 
-    <h3><a href="/graphics/ward_service.pdf">Photocopy of original pension application</a></h3>
+    <h3><a href="/img/ward_service.pdf">Photocopy of original pension application</a></h3>
 <h3><a href="http://docsouth.unc.edu/csr/index.html/document/csr16-0699#p16-1190">Roster of the North Carolina troops in the Continental Army</a></h3>
 <p>﻿Roster of troops shows Jno. Ward, pt., enlisted in Lytle's company, 10th regiment, in 1781, and that he was wounded. However, due to a clerical error many years past troops that did not show a regiment ended up labeled in the 10th regiment. In May 1778 the North Carolina continental line was restructured into 3 regiments merging the 1st and 6th, 2nd and 4th, and the 3rd and 5th. When Charleston fell in May 1780 the entire North Carolina line was captured, and was
 <a href="http://docsouth.unc.edu/csr/index.html/document/csr15-0328">recreated</a>  in 1781. </p><p>
 
- Evidently he served in the militia twice for 3 months starting 8 March 1780 and for 5 months starting 10 Oct. 1780. In the summer of 1781 he enlisted in the continental line(the pension application says he joined General Sumner's regiment). According to the pension his company commander was Captain William Fawn, but the Roster of Troops shows he was in Lytle's company. The list of <a href="/graphics/3rd_regiment.png">3rd regiment officers</a>  lists Captain William Fawn and Lt. Micajah Lytle. The old 3rd regiment was commanded by General Sumner.</p>
+ Evidently he served in the militia twice for 3 months starting 8 March 1780 and for 5 months starting 10 Oct. 1780. In the summer of 1781 he enlisted in the continental line(the pension application says he joined General Sumner's regiment). According to the pension his company commander was Captain William Fawn, but the Roster of Troops shows he was in Lytle's company. The list of <a href="/img/3rd_regiment.png">3rd regiment officers</a>  lists Captain William Fawn and Lt. Micajah Lytle. The old 3rd regiment was commanded by General Sumner.</p>
 
 
 <blockquote>

@@ -519,14 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "homepage2.sublime-project",
-			"settings":
-			{
-				"buffer_size": 45,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -857,12 +849,22 @@
 	],
 	"file_history":
 	[
+		"/var/www/html/mapbox/stations.geojson",
+		"/media/jim/e30afc5d-9252-4931-a49d-3053589f21bd/Linux_Mint_17/jim/norfolk/norfolk.shp",
+		"/media/jim/e30afc5d-9252-4931-a49d-3053589f21bd/centos_6_5_i686/jim/norfolk/norfolk.shp",
+		"/media/jim/e30afc5d-9252-4931-a49d-3053589f21bd/debian_final_jan_2019/jim/norfolk/norfolk.shp",
+		"/media/jim/e30afc5d-9252-4931-a49d-3053589f21bd/centos_6_2016/jim/norfolk/norfolk.shp",
+		"/home/jim/Desktop/mapsdev/norfolk/norfolk.shp",
+		"/var/norfolk_map/norfolk_1_15_15.sql",
+		"/var/www/html/homepage2/article/essex-manor-records.php",
+		"/var/www/html/homepage2/genealogy.php",
+		"/var/www/html/homepage2/article/notes-on-james-mcdaniel-white.php",
+		"/var/www/html/homepage2/article/john-ward-pension.php",
 		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
 		"/var/www/html/homepage2/template/index_l2.php",
 		"/var/www/html/homepage2/article/the-white-family-of-norfolk-county.php",
 		"/var/www/html/homepage2/css/homepage2.css",
 		"/home/jim/Desktop/obit.txt",
-		"/var/www/html/homepage2/genealogy.php",
 		"/var/www/html/homepage2/article/white-manning-hodges-london-connection.php",
 		"/var/www/html/homepage2/article/Capt_Wm_Peirce.html",
 		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a.html",
@@ -974,17 +976,7 @@
 		"/var/www/html/tbas2_1/pages/mail_backup_aws.php",
 		"/home/jim/Desktop/iptables_210.txt",
 		"/var/www/html/tbas2_1/message.html",
-		"/var/www/html/tbas2_1/docs/biom_convert.py",
-		"/var/www/html/tbas2_1/js/ext_libs/msa_formatted.min.js",
-		"/var/www/html/tbas2_1/js/msa.js",
-		"/var/www/html/tbas2_1/pages/msa.inc",
-		"/var/www/html/tbas2_1/show_seq2.php",
-		"/var/www/html/tbas2_1/docs/clade_info2.py",
-		"/home/jim/Desktop/treepic/treepic.sh",
-		"/var/www/html/tbas2_1/docs/tbassilva.py",
-		"/var/www/html/tbas2_1/pages/js/unifrac_run.js",
-		"/var/www/html/tbas2_1/pages/upload_ajax_runner.php",
-		"/var/www/html/tbas2_1/data/SILVA/notes.txt"
+		"/var/www/html/tbas2_1/docs/biom_convert.py"
 	],
 	"find":
 	{
@@ -1002,6 +994,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h1",
+			"http://jimserver.net/",
 			"http://jimserver.net",
 			"/\"",
 			"http://jimserver.net",
@@ -1025,37 +1019,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "homepage2.sublime-project",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 45,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16,
-								16
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
