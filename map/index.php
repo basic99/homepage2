@@ -29,7 +29,19 @@ include "../menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h2>Home</h2>
+    <h2>Lower Norfolk County Deeds Map</h2>
+
+    <p>This project was created with  the <a href='http://directlinesoftware.com/'>DeedMapper</a> program and these maps.
+
+    <p>Sykes and Gwathmey map used with permission of Library of Virginia
+
+<p>USGS 1907 map provided by UNC Library
+
+<p>Granbery map used with permission of Virginia Historical Society
+
+  <p>The metes and bounds plots were created by Barbara Vines Little and me with support and encouragement of Warren Culpepper. The maps are displayed with <a href='https://www.mapbox.com/' >Mapbox.</a>
+
+    <h1><a href="map.html">The Map</a></h1>
 
 
 
