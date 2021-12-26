@@ -519,6 +519,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "map/index.php",
+			"settings":
+			{
+				"buffer_size": 1655,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "map/norfolk.html",
+			"settings":
+			{
+				"buffer_size": 1431,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "menu.php",
+			"settings":
+			{
+				"buffer_size": 1775,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -845,10 +872,12 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2"
+		"/var/www/html/homepage2",
+		"/var/www/html/homepage2/map"
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/map/map.html",
 		"/var/www/html/mapbox/stations.geojson",
 		"/media/jim/e30afc5d-9252-4931-a49d-3053589f21bd/Linux_Mint_17/jim/norfolk/norfolk.shp",
 		"/media/jim/e30afc5d-9252-4931-a49d-3053589f21bd/centos_6_5_i686/jim/norfolk/norfolk.shp",
@@ -975,8 +1004,7 @@
 		"/var/www/html/tbas2_1/pages/unifrac_run.php",
 		"/var/www/html/tbas2_1/pages/mail_backup_aws.php",
 		"/home/jim/Desktop/iptables_210.txt",
-		"/var/www/html/tbas2_1/message.html",
-		"/var/www/html/tbas2_1/docs/biom_convert.py"
+		"/var/www/html/tbas2_1/message.html"
 	],
 	"find":
 	{
@@ -1019,8 +1047,100 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "map/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1384,
+								1384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "map/norfolk.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "menu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								909,
+								909
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1641,7 +1761,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 260.0,
+	"side_bar_width": 220.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
