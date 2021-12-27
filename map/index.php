@@ -41,6 +41,8 @@ include "../menu.php";
 
   <p>The metes and bounds plots were created by Barbara Vines Little and me with support and encouragement of Warren Culpepper. The maps are displayed with <a href='https://www.mapbox.com/' >Mapbox.</a>
 
+    <p>The metes and bounds are lines and the owner labels are placed at the start of the line. The complete data is can be downloaded as a <a href='norfolk.csv'>csv</a> or <a href='norfolk.json'>geojson</a> file.
+
     <h1><a href="norfolk.html">The Map</a></h1>
 
 
