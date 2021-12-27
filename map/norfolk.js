@@ -78,4 +78,23 @@ $(document).ready(function() {
       );
     }
   });
+
+    $("#owners").change(function() {
+    let val = $("#owners").prop("checked");
+    console.log(val);
+    if (val === true) {
+      map.setLayoutProperty(
+        'owners',
+        'visibility',
+        'visible'
+      );
+    } else {
+      // If a layer with ID 'state-data' exists, remove it.
+      map.setLayoutProperty(
+        'owners',
+        'visibility',
+        'none'
+      );
+    }
+  });
 });
