@@ -11,6 +11,18 @@ var map = new mapboxgl.Map({
   zoom: 8
 });
 map.on('load', () => {
+
+  const layers = map.getStyle().layers;
+  // Find the index of the first symbol layer in the map style.
+  let firstSymbolId;
+  for (const layer of layers) {
+    console.log(layer)
+    // if (layer.type === 'symbol') {
+    //   firstSymbolId = layer.id;
+    //   break;
+    // }
+  }
+
   map.addSource('usgs_1907', {
     'type': 'raster',
     'url': 'mapbox://jmsbrcwht.9fmtj111'
@@ -18,11 +30,13 @@ map.on('load', () => {
 
 
 
+
+
   map.addLayer({
     'id': 'usgs_1907',
     'source': 'usgs_1907',
     'type': 'raster'
-  });
+  }, 'little2');
 
 
 });
