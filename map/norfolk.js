@@ -1,22 +1,26 @@
+// https://docs.mapbox.com/help/tutorials/add-points-pt-2/
+
 mapboxgl.accessToken = 'pk.eyJ1Ijoiam1zYnJjd2h0IiwiYSI6ImNreGkzam9lOTBnbDYyb3F3cjF0a3VmZWIifQ.oWTLtlwjajr6o1jSvVIZRQ';
 var map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/mapbox/streets-v11',
+  style: 'mapbox://styles/jmsbrcwht/ckxns9ktj3rio14s6dupchz22',
   center: [-76.15, 36.8],
   zoom: 8
 });
-
 map.on('load', () => {
   map.addSource('usgs_1907', {
     'type': 'raster',
     'url': 'mapbox://jmsbrcwht.9fmtj111'
   });
 
+
   map.addLayer({
     'id': 'usgs_1907',
     'source': 'usgs_1907',
     'type': 'raster'
   });
+
+
 });
 
 $(document).ready(function() {
