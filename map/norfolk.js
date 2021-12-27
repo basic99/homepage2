@@ -29,9 +29,6 @@ map.on('load', () => {
   });
 
 
-
-
-
   map.addLayer({
     'id': 'usgs_1907',
     'source': 'usgs_1907',
@@ -52,7 +49,7 @@ $(document).ready(function() {
           'id': 'usgs_1907',
           'source': 'usgs_1907',
           'type': 'raster'
-        });
+        }, 'little2');
       }
     } else {
       // If a layer with ID 'state-data' exists, remove it.
@@ -60,7 +57,24 @@ $(document).ready(function() {
         map.removeLayer('usgs_1907');
       }
     }
+  });
 
-
+  $("#metes_bounds").change(function() {
+    let val = $("#metes_bounds").prop("checked");
+    console.log(val);
+    if (val === true) {
+      map.setLayoutProperty(
+        'little2',
+        'visibility',
+        'visible'
+      );
+    } else {
+      // If a layer with ID 'state-data' exists, remove it.
+      map.setLayoutProperty(
+        'little2',
+        'visibility',
+        'none'
+      );
+    }
   });
 });
