@@ -79,7 +79,7 @@ $(document).ready(function() {
     }
   });
 
-    $("#owners").change(function() {
+  $("#owners").change(function() {
     let val = $("#owners").prop("checked");
     console.log(val);
     if (val === true) {
