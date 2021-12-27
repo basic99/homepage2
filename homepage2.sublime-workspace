@@ -519,33 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "map/index.php",
-			"settings":
-			{
-				"buffer_size": 1655,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "map/norfolk.html",
-			"settings":
-			{
-				"buffer_size": 1431,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "menu.php",
-			"settings":
-			{
-				"buffer_size": 1775,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -575,12 +548,12 @@
 		"selected_items":
 		[
 			[
-				"live",
-				"LiveReload: Enable/disable plug-ins"
+				"form",
+				"Format: Javascript"
 			],
 			[
-				"form",
-				"Format CSS: Expanded"
+				"live",
+				"LiveReload: Enable/disable plug-ins"
 			],
 			[
 				"liv",
@@ -877,6 +850,10 @@
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/map/norfolk.js",
+		"/var/www/html/homepage2/map/index.php",
+		"/var/www/html/homepage2/map/norfolk.html",
+		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/map/map.html",
 		"/var/www/html/mapbox/stations.geojson",
 		"/media/jim/e30afc5d-9252-4931-a49d-3053589f21bd/Linux_Mint_17/jim/norfolk/norfolk.shp",
@@ -902,7 +879,6 @@
 		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/article/thomas-manning-of-calvert-county-2.php",
 		"/var/www/html/homepage2/article/descendants-of-thomas-white-2.php",
-		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/template/index.php",
 		"/var/www/html/tbas2_1/pages/js/main_wrefset.js",
 		"/var/www/html/tbas2_1/docs/cipres_tbas.py",
@@ -1001,10 +977,7 @@
 		"/home/jim/Desktop/admin/rules.txt",
 		"/var/www/html/tbas2_1/pages/golife/golife_login.php",
 		"/var/www/html/tbas2_1/pages/golife/docs/golife.ini",
-		"/var/www/html/tbas2_1/pages/unifrac_run.php",
-		"/var/www/html/tbas2_1/pages/mail_backup_aws.php",
-		"/home/jim/Desktop/iptables_210.txt",
-		"/var/www/html/tbas2_1/message.html"
+		"/var/www/html/tbas2_1/pages/unifrac_run.php"
 	],
 	"find":
 	{
@@ -1022,6 +995,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"usgs_1907",
+			"p",
 			"h1",
 			"http://jimserver.net/",
 			"http://jimserver.net",
@@ -1047,100 +1022,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "map/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1655,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1384,
-								1384
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "map/norfolk.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1431,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								514,
-								514
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "menu.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1775,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								909,
-								909
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
