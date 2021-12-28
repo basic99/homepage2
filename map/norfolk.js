@@ -126,4 +126,23 @@ $(document).ready(function() {
     }
   });
 
+  $("#sykes_gwathmey_ul").change(function() {
+    let val = $("#sykes_gwathmey_ul").prop("checked");
+    console.log(val);
+    if (val === true) {
+      if (!map.getLayer('sykes_gwathmey_ul')) {
+        map.addLayer({
+          'id': 'sykes_gwathmey_ul',
+          'source': 'sykes_gwathmey_ul',
+          'type': 'raster'
+        }, 'little2');
+      }
+    } else {
+      // If a layer with ID 'state-data' exists, remove it.
+      if (map.getLayer('sykes_gwathmey_ul')) {
+        map.removeLayer('sykes_gwathmey_ul');
+      }
+    }
+  });
+
 });
