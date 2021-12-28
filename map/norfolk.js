@@ -33,6 +33,11 @@ map.on('load', () => {
     'url': 'mapbox://jmsbrcwht.7i5dnhgo'
   });
 
+  map.addSource('sykes_gwathmey_ul', {
+    'type': 'raster',
+    'url': 'mapbox://jmsbrcwht.akvqv6ce'
+  });
+
 
   map.addLayer({
     'id': 'usgs_1907',
