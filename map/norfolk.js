@@ -28,6 +28,10 @@ map.on('load', () => {
     'type': 'raster',
     'url': 'mapbox://jmsbrcwht.9fmtj111'
   });
+  map.addSource('granbery', {
+    'type': 'raster',
+    'url': 'mapbox://jmsbrcwht.7i5dnhgo'
+  });
 
 
   map.addLayer({
@@ -97,4 +101,24 @@ $(document).ready(function() {
       );
     }
   });
+
+  $("#granbery").change(function() {
+    let val = $("#granbery").prop("checked");
+    console.log(val);
+    if (val === true) {
+      if (!map.getLayer('granbery')) {
+        map.addLayer({
+          'id': 'granbery',
+          'source': 'granbery',
+          'type': 'raster'
+        }, 'little2');
+      }
+    } else {
+      // If a layer with ID 'state-data' exists, remove it.
+      if (map.getLayer('granbery')) {
+        map.removeLayer('granbery');
+      }
+    }
+  });
+
 });
