@@ -27,6 +27,13 @@ map.on('load', () => {
   const paintProperty = map.getPaintProperty('little2', 'line-color');
   console.log(paintProperty)
 
+  let cond_css = [
+    'case', ['boolean', ['feature-state', 'hover'], true],
+    "#ff0000",
+    "#0000ff"
+  ];
+  map.setPaintProperty('little2', 'line-color', cond_css);
+
   map.addSource('usgs_1907', {
     'type': 'raster',
     'url': 'mapbox://jmsbrcwht.9fmtj111'
