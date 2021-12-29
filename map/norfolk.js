@@ -217,6 +217,7 @@ $(document).ready(function() {
   });
 
   // https://docs.mapbox.com/mapbox-gl-js/example/hover-styles/
+  // https://blog.mapbox.com/going-live-with-electoral-maps-a-guide-to-feature-state-b520e91a22d
   let hoveredStateId;
 
   map.on('mousemove', 'little2', (e) => {
