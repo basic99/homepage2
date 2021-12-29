@@ -229,11 +229,12 @@ $(document).ready(function() {
 
   // https://docs.mapbox.com/mapbox-gl-js/example/hover-styles/
   // https://blog.mapbox.com/going-live-with-electoral-maps-a-guide-to-feature-state-b520e91a22d
-  let hoveredStateId;
+  // let hoveredStateId;
+  let hoveredStateId = null;
 
   map.on('mousemove', 'little2', (e) => {
     let src_name = map.getSource('composite');
-  console.log(src_name);
+    console.log(src_name);
 
     if (e.features.length > 0) {
       if (hoveredStateId !== null) {
@@ -242,18 +243,18 @@ $(document).ready(function() {
           sourceLayer: 'little2',
           id: hoveredStateId
         }, {
-          hover: false
+          hover: true
         });
       }
       hoveredStateId = e.features[0].id;
       console.log(hoveredStateId);
       map.setFeatureState({
         source: 'composite',
-          sourceLayer: 'little2',
+        sourceLayer: 'little2',
 
         id: hoveredStateId
       }, {
-        hover: true
+        hover: false
       });
     }
   });
