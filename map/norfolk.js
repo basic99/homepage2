@@ -71,7 +71,7 @@ $(document).ready(function() {
         }, 'little2');
       }
     } else {
-      // If a layer with ID 'state-data' exists, remove it.
+
       if (map.getLayer('usgs_1907')) {
         map.removeLayer('usgs_1907');
       }
@@ -88,7 +88,7 @@ $(document).ready(function() {
         'visible'
       );
     } else {
-      // If a layer with ID 'state-data' exists, remove it.
+
       map.setLayoutProperty(
         'little2',
         'visibility',
@@ -107,7 +107,7 @@ $(document).ready(function() {
         'visible'
       );
     } else {
-      // If a layer with ID 'state-data' exists, remove it.
+
       map.setLayoutProperty(
         'owners',
         'visibility',
@@ -128,7 +128,7 @@ $(document).ready(function() {
         }, 'little2');
       }
     } else {
-      // If a layer with ID 'state-data' exists, remove it.
+
       if (map.getLayer('granbery')) {
         map.removeLayer('granbery');
       }
@@ -147,7 +147,7 @@ $(document).ready(function() {
         }, 'little2');
       }
     } else {
-      // If a layer with ID 'state-data' exists, remove it.
+
       if (map.getLayer('sykes_gwathmey_ul')) {
         map.removeLayer('sykes_gwathmey_ul');
       }
@@ -166,7 +166,7 @@ $(document).ready(function() {
         }, 'little2');
       }
     } else {
-      // If a layer with ID 'state-data' exists, remove it.
+
       if (map.getLayer('sykes_gwathmey_ur')) {
         map.removeLayer('sykes_gwathmey_ur');
       }
@@ -185,7 +185,7 @@ $(document).ready(function() {
         }, 'little2');
       }
     } else {
-      // If a layer with ID 'state-data' exists, remove it.
+
       if (map.getLayer('sykes_gwathmey_ll')) {
         map.removeLayer('sykes_gwathmey_ll');
       }
