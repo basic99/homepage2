@@ -37,12 +37,12 @@ map.on('load', () => {
     'type': 'raster',
     'url': 'mapbox://jmsbrcwht.akvqv6ce'
   });
-    map.addSource('sykes_gwathmey_ur', {
+  map.addSource('sykes_gwathmey_ur', {
     'type': 'raster',
     'url': 'mapbox://jmsbrcwht.5od4ydl1'
   });
 
-     map.addSource('sykes_gwathmey_ll', {
+  map.addSource('sykes_gwathmey_ll', {
     'type': 'raster',
     'url': 'mapbox://jmsbrcwht.9cxt9o6s'
   });
@@ -154,7 +154,7 @@ $(document).ready(function() {
     }
   });
 
-    $("#sykes_gwathmey_ur").change(function() {
+  $("#sykes_gwathmey_ur").change(function() {
     let val = $("#sykes_gwathmey_ur").prop("checked");
     console.log(val);
     if (val === true) {
@@ -173,7 +173,7 @@ $(document).ready(function() {
     }
   });
 
-        $("#sykes_gwathmey_ll").change(function() {
+  $("#sykes_gwathmey_ll").change(function() {
     let val = $("#sykes_gwathmey_ll").prop("checked");
     console.log(val);
     if (val === true) {
