@@ -849,6 +849,7 @@
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/map/norfolk.js",
 		"/var/www/html/homepage2/map/norfolk.html",
 		"/var/www/html/homepage2/map/index.php",
@@ -875,7 +876,6 @@
 		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a.html",
 		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a_files/background19.jpg",
 		"/home/jim/Desktop/Capt_Wm_Peirce.pdf",
-		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/article/thomas-manning-of-calvert-county-2.php",
 		"/var/www/html/homepage2/article/descendants-of-thomas-white-2.php",
 		"/var/www/html/homepage2/template/index.php",
@@ -994,6 +994,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_ll",
+			"// If a layer with ID 'state-data' exists, remove it.",
+			"_ur",
+			"_ul",
 			"granbery",
 			"ul",
 			"sykes_gwathmey",

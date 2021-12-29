@@ -216,4 +216,29 @@ $(document).ready(function() {
     }
   });
 
+  // https://docs.mapbox.com/mapbox-gl-js/example/hover-styles/
+  let hoveredStateId;
+
+  map.on('mousemove', 'little2', (e) => {
+
+    if (e.features.length > 0) {
+      if (hoveredStateId !== null) {
+        // map.setFeatureState({
+        //   source: 'states',
+        //   id: hoveredStateId
+        // }, {
+        //   hover: false
+        // });
+      }
+      hoveredStateId = e.features[0].id;
+      console.log(hoveredStateId);
+      // map.setFeatureState({
+      //   source: 'states',
+      //   id: hoveredStateId
+      // }, {
+      //   hover: true
+      // });
+    }
+  });
+
 });
