@@ -234,7 +234,8 @@ $(document).ready(function() {
 
   map.on('mousemove', 'little2', (e) => {
     let src_name = map.getSource('composite');
-    console.log(src_name);
+    // console.log(src_name);
+    console.log(e.features);
 
     if (e.features.length > 0) {
       if (hoveredStateId !== null) {
@@ -247,7 +248,6 @@ $(document).ready(function() {
         });
       }
       hoveredStateId = e.features[0].id;
-      console.log(hoveredStateId);
       map.setFeatureState({
         source: 'composite',
         sourceLayer: 'little2',
