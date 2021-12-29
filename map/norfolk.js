@@ -24,6 +24,9 @@ map.on('load', () => {
     // }
   }
 
+  const paintProperty = map.getPaintProperty('little2', 'line-color');
+  console.log(paintProperty)
+
   map.addSource('usgs_1907', {
     'type': 'raster',
     'url': 'mapbox://jmsbrcwht.9fmtj111'
