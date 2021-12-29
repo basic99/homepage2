@@ -42,6 +42,11 @@ map.on('load', () => {
     'url': 'mapbox://jmsbrcwht.5od4ydl1'
   });
 
+     map.addSource('sykes_gwathmey_ll', {
+    'type': 'raster',
+    'url': 'mapbox://jmsbrcwht.9cxt9o6s'
+  });
+
 
   map.addLayer({
     'id': 'usgs_1907',
@@ -164,6 +169,25 @@ $(document).ready(function() {
       // If a layer with ID 'state-data' exists, remove it.
       if (map.getLayer('sykes_gwathmey_ur')) {
         map.removeLayer('sykes_gwathmey_ur');
+      }
+    }
+  });
+
+        $("#sykes_gwathmey_ll").change(function() {
+    let val = $("#sykes_gwathmey_ll").prop("checked");
+    console.log(val);
+    if (val === true) {
+      if (!map.getLayer('sykes_gwathmey_ll')) {
+        map.addLayer({
+          'id': 'sykes_gwathmey_ll',
+          'source': 'sykes_gwathmey_ll',
+          'type': 'raster'
+        }, 'little2');
+      }
+    } else {
+      // If a layer with ID 'state-data' exists, remove it.
+      if (map.getLayer('sykes_gwathmey_ll')) {
+        map.removeLayer('sykes_gwathmey_ll');
       }
     }
   });
