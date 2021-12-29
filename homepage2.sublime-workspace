@@ -845,14 +845,13 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/map"
+		"/var/www/html/homepage2"
 	],
 	"file_history":
 	[
 		"/var/www/html/homepage2/map/norfolk.js",
-		"/var/www/html/homepage2/map/index.php",
 		"/var/www/html/homepage2/map/norfolk.html",
+		"/var/www/html/homepage2/map/index.php",
 		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/map/map.html",
 		"/var/www/html/mapbox/stations.geojson",
@@ -995,6 +994,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"granbery",
+			"ul",
+			"sykes_gwathmey",
+			"sykes_gwath",
+			"owners",
+			"usgs_1907",
+			"owners",
+			"checked",
+			"granberry",
+			"owners",
 			"usgs_1907",
 			"p",
 			"h1",

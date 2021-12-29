@@ -67,7 +67,7 @@ include "menu.php";
   <li><a href="http://www.teach12.com/">The Teaching Company</a></li>
   <li><a href="http://app.typrx.com/">typrX Typing Races</a></li>
   <li><a href="http://www.encyclopediavirginia.org/White_John_d_1593">John White (d. 1593)</a></li>
-  <li><a href="http://hint.fm/wind/">Wind Map</a></li>
+  <li><a href="https://www.ventusky.com/">Ventusky - Wind, Rain and Temperature Maps</a></li>
   <li><a href="http://www.hockeybuzz.com/cap-central/">NHL Salary Cap Info</a></li>
   <li><a href="http://www.watchingdurhambullsbaseball.com">Durham Bulls</a></li>
 </ul>
