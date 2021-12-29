@@ -27,6 +27,7 @@ map.on('load', () => {
   const paintProperty = map.getPaintProperty('little2', 'line-color');
   console.log(paintProperty)
 
+
   let cond_css = [
     'case', ['boolean', ['feature-state', 'hover'], true],
     "#ff0000",
@@ -231,11 +232,14 @@ $(document).ready(function() {
   let hoveredStateId;
 
   map.on('mousemove', 'little2', (e) => {
+    let src_name = map.getSource('composite');
+  console.log(src_name);
 
     if (e.features.length > 0) {
       if (hoveredStateId !== null) {
         map.setFeatureState({
-          source: 'little2',
+          source: 'composite',
+          sourceLayer: 'little2',
           id: hoveredStateId
         }, {
           hover: false
@@ -244,7 +248,9 @@ $(document).ready(function() {
       hoveredStateId = e.features[0].id;
       console.log(hoveredStateId);
       map.setFeatureState({
-        source: 'little2',
+        source: 'composite',
+          sourceLayer: 'little2',
+
         id: hoveredStateId
       }, {
         hover: true
