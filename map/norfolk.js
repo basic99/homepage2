@@ -234,21 +234,21 @@ $(document).ready(function() {
 
     if (e.features.length > 0) {
       if (hoveredStateId !== null) {
-        // map.setFeatureState({
-        //   source: 'states',
-        //   id: hoveredStateId
-        // }, {
-        //   hover: false
-        // });
+        map.setFeatureState({
+          source: 'little2',
+          id: hoveredStateId
+        }, {
+          hover: false
+        });
       }
       hoveredStateId = e.features[0].id;
       console.log(hoveredStateId);
-      // map.setFeatureState({
-      //   source: 'states',
-      //   id: hoveredStateId
-      // }, {
-      //   hover: true
-      // });
+      map.setFeatureState({
+        source: 'little2',
+        id: hoveredStateId
+      }, {
+        hover: true
+      });
     }
   });
 
