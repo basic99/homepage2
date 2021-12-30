@@ -2,6 +2,8 @@
 // https://docs.mapbox.com/mapbox-gl-js/example/geojson-line/
 // https://docs.mapbox.com/mapbox-gl-js/example/geojson-layer-in-stack/
 // https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js/
+// https://docs.mapbox.com/mapbox-gl-js/api/
+
 
 mapboxgl.accessToken = 'pk.eyJ1Ijoiam1zYnJjd2h0IiwiYSI6ImNreGkzam9lOTBnbDYyb3F3cjF0a3VmZWIifQ.oWTLtlwjajr6o1jSvVIZRQ';
 var map = new mapboxgl.Map({
@@ -32,6 +34,14 @@ map.on('load', () => {
   //   "#0000ff"
   // ];
   // map.setPaintProperty('little2', 'line-color', cond_css);
+
+  map.addSource('metes_bounds', {
+    'type': 'vector',
+    'url': 'mapbox://jmsbrcwht.ckxnjod974bav27ood55nbuyd-41oks'
+  });
+
+  let test = map.getSource('metes_bounds');
+  console.log(test);
 
   map.addSource('usgs_1907', {
     'type': 'raster',
@@ -68,6 +78,14 @@ map.on('load', () => {
     'type': 'raster'
   }, 'little2');
 
+ map.addLayer({
+    'id': 'metes_bounds',
+    'source': 'metes_bounds',
+    'source-layer': 'little2',
+    'type': 'line'
+  });
+
+
 
 });
 
@@ -92,24 +110,24 @@ $(document).ready(function() {
     }
   });
 
-  $("#metes_bounds").change(function() {
-    let val = $("#metes_bounds").prop("checked");
-    console.log(val);
-    if (val === true) {
-      map.setLayoutProperty(
-        'little2',
-        'visibility',
-        'visible'
-      );
-    } else {
+  // $("#metes_bounds").change(function() {
+  //   let val = $("#metes_bounds").prop("checked");
+  //   console.log(val);
+  //   if (val === true) {
+  //     map.setLayoutProperty(
+  //       'little2',
+  //       'visibility',
+  //       'visible'
+  //     );
+  //   } else {
 
-      map.setLayoutProperty(
-        'little2',
-        'visibility',
-        'none'
-      );
-    }
-  });
+  //     map.setLayoutProperty(
+  //       'little2',
+  //       'visibility',
+  //       'none'
+  //     );
+  //   }
+  // });
 
   $("#owners").change(function() {
     let val = $("#owners").prop("checked");
