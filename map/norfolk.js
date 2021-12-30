@@ -272,25 +272,27 @@ $(document).ready(function() {
 
     if (e.features.length > 0) {
 
-      // if (hoveredStateId !== null) {
-      //   map.setFeatureState({
-      //     // source: 'composite',
-      //     // sourceLayer: 'little2',
-      //     source: metes_bounds,
-      //     id: hoveredStateId
-      //   }, {
-      //     hover: true
-      //   });
-      // }
-      // hoveredStateId = e.features[0].id;
-      // map.setFeatureState({
-      //   // source: 'composite',
-      //   // sourceLayer: 'little2',
-      //   source: metes_bounds,
-      //   id: hoveredStateId
-      // }, {
-      //   hover: false
-      // });
+      if (hoveredStateId !== null) {
+        map.setFeatureState({
+          // source: 'composite',
+          // sourceLayer: 'little2',
+          source: metes_bounds,
+          sourceLayer: 'little2',
+          id: hoveredStateId
+        }, {
+          hover: true
+        });
+      }
+      hoveredStateId = e.features[0].id;
+      map.setFeatureState({
+        // source: 'composite',
+        // sourceLayer: 'little2',
+        source: metes_bounds,
+        sourceLayer: 'little2',
+        id: hoveredStateId
+      }, {
+        hover: false
+      });
     }
   });
 
