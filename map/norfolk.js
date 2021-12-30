@@ -88,8 +88,8 @@ map.on('load', () => {
       'line-width': 2,
       'line-opacity': [
         'case', ['boolean', ['feature-state', 'hover'], false],
-        1,
-        0.5
+        1.0,
+        0.1
       ]
 
     }
