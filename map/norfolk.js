@@ -78,11 +78,15 @@ map.on('load', () => {
     'type': 'raster'
   }, 'little2');
 
- map.addLayer({
+  map.addLayer({
     'id': 'metes_bounds',
     'source': 'metes_bounds',
     'source-layer': 'little2',
-    'type': 'line'
+    'type': 'line',
+    'paint': {
+      'line-color': '#0000ff',
+      'line-width': 2
+    }
   });
 
 
