@@ -231,31 +231,42 @@ $(document).ready(function() {
   // https://blog.mapbox.com/going-live-with-electoral-maps-a-guide-to-feature-state-b520e91a22d
   // let hoveredStateId;
   let hoveredStateId = null;
+  let hoveredStateIds = [];
 
   map.on('mousemove', 'little2', (e) => {
     let src_name = map.getSource('composite');
     // console.log(src_name);
     console.log(e.features);
 
-    if (e.features.length > 0) {
-      if (hoveredStateId !== null) {
-        map.setFeatureState({
-          source: 'composite',
-          sourceLayer: 'little2',
-          id: hoveredStateId
-        }, {
-          hover: true
-        });
-      }
-      hoveredStateId = e.features[0].id;
-      map.setFeatureState({
-        source: 'composite',
-        sourceLayer: 'little2',
+    for (let i = 0; i < hoveredStateIds.length; i++) {
+      console.log(hoveredStateIds[i]);
+    }
 
-        id: hoveredStateId
-      }, {
-        hover: false
-      });
+    if (e.features.length > 0) {
+      for (let i = 0; i < e.features.length; i++) {
+        console.log(e.features[i]);
+        if (hoveredStateIds.indexOf(e.features[i].id) !== -1) {
+          hoveredStateIds.push(e.features[i].id);
+
+        }
+      }
+      // if (hoveredStateId !== null) {
+      //   map.setFeatureState({
+      //     source: 'composite',
+      //     sourceLayer: 'little2',
+      //     id: hoveredStateId
+      //   }, {
+      //     hover: true
+      //   });
+      // }
+      // hoveredStateId = e.features[0].id;
+      // map.setFeatureState({
+      //   source: 'composite',
+      //   sourceLayer: 'little2',
+      //   id: hoveredStateId
+      // }, {
+      //   hover: true
+      // });
     }
   });
 
