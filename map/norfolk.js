@@ -236,16 +236,16 @@ $(document).ready(function() {
   map.on('mousemove', 'little2', (e) => {
     let src_name = map.getSource('composite');
     // console.log(src_name);
-    console.log(e.features);
+    console.log(hoveredStateIds.length);
 
     for (let i = 0; i < hoveredStateIds.length; i++) {
-      console.log(hoveredStateIds[i]);
+      // console.log(hoveredStateIds[i]);
     }
 
     if (e.features.length > 0) {
       for (let i = 0; i < e.features.length; i++) {
-        console.log(e.features[i]);
-        if (hoveredStateIds.indexOf(e.features[i].id) !== -1) {
+        // console.log(e.features[i]);
+        if (hoveredStateIds.indexOf(e.features[i].id) === -1) {
           hoveredStateIds.push(e.features[i].id);
 
         }
