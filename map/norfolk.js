@@ -243,30 +243,38 @@ $(document).ready(function() {
     }
 
     if (e.features.length > 0) {
-      for (let i = 0; i < e.features.length; i++) {
-        // console.log(e.features[i]);
-        if (hoveredStateIds.indexOf(e.features[i].id) === -1) {
-          hoveredStateIds.push(e.features[i].id);
+      // for (let i = 0; i < e.features.length; i++) {
 
-        }
-      }
-      // if (hoveredStateId !== null) {
-      //   map.setFeatureState({
-      //     source: 'composite',
-      //     sourceLayer: 'little2',
-      //     id: hoveredStateId
-      //   }, {
-      //     hover: true
-      //   });
+      //   if (hoveredStateIds.indexOf(e.features[i].id) === -1) {
+      //     console.log(e.features[i].id);
+      //     hoveredStateIds.push(e.features[i].id);
+      //      map.setFeatureState({
+      //       source: 'composite',
+      //       sourceLayer: 'little2',
+      //       id: e.features[i].id
+      //     }, {
+      //       hover: true
+      //     });
+
+      //   }
       // }
-      // hoveredStateId = e.features[0].id;
-      // map.setFeatureState({
-      //   source: 'composite',
-      //   sourceLayer: 'little2',
-      //   id: hoveredStateId
-      // }, {
-      //   hover: true
-      // });
+      if (hoveredStateId !== null) {
+        map.setFeatureState({
+          source: 'composite',
+          sourceLayer: 'little2',
+          id: hoveredStateId
+        }, {
+          hover: false
+        });
+      }
+      hoveredStateId = e.features[0].id;
+      map.setFeatureState({
+        source: 'composite',
+        sourceLayer: 'little2',
+        id: hoveredStateId
+      }, {
+        hover: false
+      });
     }
   });
 
