@@ -85,8 +85,15 @@ map.on('load', () => {
     'type': 'line',
     'paint': {
       'line-color': '#0000ff',
-      'line-width': 2
+      'line-width': 2,
+      'line-opacity': [
+        'case', ['boolean', ['feature-state', 'hover'], false],
+        1,
+        0.5
+      ]
+
     }
+
   });
 
 
