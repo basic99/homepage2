@@ -849,8 +849,9 @@
 	],
 	"file_history":
 	[
-		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/map/norfolk.js",
+		"/home/jim/Desktop/mapbox-gl.css",
+		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/map/norfolk.html",
 		"/var/www/html/homepage2/map/index.php",
 		"/var/www/html/homepage2/menu.php",
@@ -975,8 +976,7 @@
 		"/home/jim/Desktop/galaxy/metadat-to-diploid/examples/metadata_host.txt",
 		"/home/jim/Desktop/admin/rules.txt",
 		"/var/www/html/tbas2_1/pages/golife/golife_login.php",
-		"/var/www/html/tbas2_1/pages/golife/docs/golife.ini",
-		"/var/www/html/tbas2_1/pages/unifrac_run.php"
+		"/var/www/html/tbas2_1/pages/golife/docs/golife.ini"
 	],
 	"find":
 	{
@@ -994,6 +994,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"little2",
+			"states",
+			"hover",
 			"_ll",
 			"// If a layer with ID 'state-data' exists, remove it.",
 			"_ur",
