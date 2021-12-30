@@ -269,10 +269,12 @@ $(document).ready(function() {
       console.log(hoveredStateIds[i]);
     }
     console.log(e.features);
+    console.log(e.features[0].id);
 
     if (e.features.length > 0) {
+      hoveredStateId = e.features[0].id;
 
-      if (hoveredStateId !== null) {
+      // if (hoveredStateId !== null) {
         map.setFeatureState({
           // source: 'composite',
           // sourceLayer: 'little2',
@@ -282,17 +284,17 @@ $(document).ready(function() {
         }, {
           hover: true
         });
-      }
-      hoveredStateId = e.features[0].id;
-      map.setFeatureState({
-        // source: 'composite',
-        // sourceLayer: 'little2',
-        source: metes_bounds,
-        sourceLayer: 'little2',
-        id: hoveredStateId
-      }, {
-        hover: false
-      });
+      // }
+      // hoveredStateId = e.features[0].id;
+      // map.setFeatureState({
+      //   // source: 'composite',
+      //   // sourceLayer: 'little2',
+      //   source: metes_bounds,
+      //   sourceLayer: 'little2',
+      //   id: hoveredStateId
+      // }, {
+      //   hover: false
+      // });
     }
   });
 
