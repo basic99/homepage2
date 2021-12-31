@@ -10,3 +10,5 @@ usermod -aG sudo jim
  ufw allow OpenSSH
  ufw enable
  ufw status
+
+ rsync --archive --chown=jim:jim ~/.ssh /home/jim
