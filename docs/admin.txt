@@ -1,0 +1,2 @@
+new server homepage2
+2 GB Memory / 1 Intel vCPU / 50 GB Disk / NYC1 - Ubuntu 20.04 (LTS) x64
