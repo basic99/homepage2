@@ -35,12 +35,17 @@ map.on('load', () => {
   // ];
   // map.setPaintProperty('little2', 'line-color', cond_css);
 
-  map.addSource('metes_bounds', {
-    'type': 'vector',
-    'url': 'mapbox://jmsbrcwht.ckxnjod974bav27ood55nbuyd-41oks'
+  // map.addSource('metes_bounds_src', {
+  //   'type': 'vector',
+  //   'url': 'mapbox://jmsbrcwht.ckxnjod974bav27ood55nbuyd-41oks'
+  // });
+
+   map.addSource('metes_bounds_src', {
+    'type': 'geojson',
+    'data': 'http://localhost:8880/map/norfolk.json'
   });
 
-  let test = map.getSource('metes_bounds');
+  let test = map.getSource('metes_bounds_src');
   console.log(test);
 
   map.addSource('usgs_1907', {
@@ -79,9 +84,9 @@ map.on('load', () => {
   }, 'little2');
 
   map.addLayer({
-    'id': 'metes_bounds',
-    'source': 'metes_bounds',
-    'source-layer': 'little2',
+    'id': 'metes_bounds_lyr',
+    'source': 'metes_bounds_src',
+    // 'source-layer': 'little2',
     'type': 'line',
     'paint': {
       'line-color': '#0000ff',
@@ -260,14 +265,14 @@ $(document).ready(function() {
   let hoveredStateId = null;
   let hoveredStateIds = [];
 
-  map.on('mousemove', 'metes_bounds', (e) => {
-    let src_name = map.getSource('composite');
+  map.on('mousemove', 'metes_bounds_lyr', (e) => {
+    // let src_name = map.getSource('composite');
     // console.log(src_name);
-    console.log(hoveredStateIds.length);
+    // console.log(hoveredStateIds.length);
 
-    for (let i = 0; i < hoveredStateIds.length; i++) {
-      console.log(hoveredStateIds[i]);
-    }
+    // for (let i = 0; i < hoveredStateIds.length; i++) {
+    //   console.log(hoveredStateIds[i]);
+    // }
     console.log(e.features);
     console.log(e.features[0].id);
 
@@ -278,8 +283,7 @@ $(document).ready(function() {
         map.setFeatureState({
           // source: 'composite',
           // sourceLayer: 'little2',
-          source: metes_bounds,
-          sourceLayer: 'little2',
+          source: 'metes_bounds_src',
           id: hoveredStateId
         }, {
           hover: true
@@ -289,7 +293,7 @@ $(document).ready(function() {
       // map.setFeatureState({
       //   // source: 'composite',
       //   // sourceLayer: 'little2',
-      //   source: metes_bounds,
+      //   source: 'metes_bounds_src',
       //   sourceLayer: 'little2',
       //   id: hoveredStateId
       // }, {
