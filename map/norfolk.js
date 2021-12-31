@@ -266,19 +266,11 @@ $(document).ready(function() {
   let hoveredStateIds = [];
 
   map.on('mousemove', 'metes_bounds_lyr', (e) => {
-    // let src_name = map.getSource('composite');
-    // console.log(src_name);
-    // console.log(hoveredStateIds.length);
 
-    // for (let i = 0; i < hoveredStateIds.length; i++) {
-    //   console.log(hoveredStateIds[i]);
-    // }
-    console.log(e.features);
-    console.log(e.features[0].id);
+    // console.log(e.features);
+    // console.log(e.features[0].id);
 
     if (e.features.length > 0) {
-      hoveredStateId = e.features[0].id;
-
       // if (hoveredStateId !== null) {
         map.setFeatureState({
           // source: 'composite',
@@ -286,19 +278,18 @@ $(document).ready(function() {
           source: 'metes_bounds_src',
           id: hoveredStateId
         }, {
-          hover: true
+          hover: false
         });
       // }
-      // hoveredStateId = e.features[0].id;
-      // map.setFeatureState({
-      //   // source: 'composite',
-      //   // sourceLayer: 'little2',
-      //   source: 'metes_bounds_src',
-      //   sourceLayer: 'little2',
-      //   id: hoveredStateId
-      // }, {
-      //   hover: false
-      // });
+      hoveredStateId = e.features[0].id;
+      map.setFeatureState({
+        // source: 'composite',
+        // sourceLayer: 'little2',
+        source: 'metes_bounds_src',
+        id: hoveredStateId
+      }, {
+        hover: true
+      });
     }
   });
 
