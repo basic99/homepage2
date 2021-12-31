@@ -11,7 +11,7 @@ var map = new mapboxgl.Map({
   style: 'mapbox://styles/jmsbrcwht/ckxo5x0no17ck14p9ur1u4ps9',
 
   center: [-76.15, 36.8],
-  zoom: 8
+  zoom: 9
 });
 map.on('load', () => {
 
@@ -40,7 +40,7 @@ map.on('load', () => {
   //   'url': 'mapbox://jmsbrcwht.ckxnjod974bav27ood55nbuyd-41oks'
   // });
 
-   map.addSource('metes_bounds_src', {
+  map.addSource('metes_bounds_src', {
     'type': 'geojson',
     'data': 'http://localhost:8880/map/little2.json'
   });
@@ -126,24 +126,24 @@ $(document).ready(function() {
     }
   });
 
-  // $("#metes_bounds").change(function() {
-  //   let val = $("#metes_bounds").prop("checked");
-  //   console.log(val);
-  //   if (val === true) {
-  //     map.setLayoutProperty(
-  //       'little2',
-  //       'visibility',
-  //       'visible'
-  //     );
-  //   } else {
+  $("#metes_bounds").change(function() {
+    let val = $("#metes_bounds").prop("checked");
+    console.log(val);
+    if (val === true) {
+      map.setLayoutProperty(
+        'little2',
+        'visibility',
+        'visible'
+      );
+    } else {
 
-  //     map.setLayoutProperty(
-  //       'little2',
-  //       'visibility',
-  //       'none'
-  //     );
-  //   }
-  // });
+      map.setLayoutProperty(
+        'little2',
+        'visibility',
+        'none'
+      );
+    }
+  });
 
   $("#owners").change(function() {
     let val = $("#owners").prop("checked");
@@ -272,14 +272,14 @@ $(document).ready(function() {
 
     if (e.features.length > 0) {
       // if (hoveredStateId !== null) {
-        map.setFeatureState({
-          // source: 'composite',
-          // sourceLayer: 'little2',
-          source: 'metes_bounds_src',
-          id: hoveredStateId
-        }, {
-          hover: false
-        });
+      map.setFeatureState({
+        // source: 'composite',
+        // sourceLayer: 'little2',
+        source: 'metes_bounds_src',
+        id: hoveredStateId
+      }, {
+        hover: false
+      });
       // }
       hoveredStateId = e.features[0].id;
       map.setFeatureState({
