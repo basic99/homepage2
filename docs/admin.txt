@@ -7,8 +7,20 @@ Initial Server Setup with Ubuntu 20.04
 https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
 usermod -aG sudo jim
 
- ufw allow OpenSSH
- ufw enable
- ufw status
+ufw allow OpenSSH
+ufw enable
+ufw status
 
- rsync --archive --chown=jim:jim ~/.ssh /home/jim
+rsync --archive --chown=jim:jim ~/.ssh /home/jim
+
+sudo apt update
+sudo apt upgrade
+sudo /sbin/shutdown -r now
+sudo apt install build-essential
+
+How To Install Nginx on Ubuntu 20.04
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04
+
+sudo apt install nginx
+
+sudo ufw allow 'Nginx Full'
