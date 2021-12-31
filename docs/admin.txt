@@ -24,3 +24,10 @@ https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-
 sudo apt install nginx
 
 sudo ufw allow 'Nginx Full'
+
+Nginx 1.4.x on Unix systems
+https://www.php.net/manual/en/install.unix.nginx.php
+
+sudo apt install pkg-config
+sudo apt install libxml2-dev
+sudo apt  install sqlite3 libsqlite3-dev
