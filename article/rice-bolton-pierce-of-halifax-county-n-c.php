@@ -29,26 +29,26 @@ include "../menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h2>Home</h2>
-    Rice B. Pierce died in Halifax County. Cousin Pierce Howard in a booklet titled <em>Other Mama -- A life of Mary Virginia Pierce</em> which he wrote for the <a href="http://jimserver.net/graphics/pierce_family.jpeg">Pierce family reunion</a> states he was born in 1788 in Southampton County, Virginia, and died in 1874 and that he served in the War of 1812. Below is his grave site at Pierce's Crossroads south of Weldon. A search of War of 1812 records found him in <em>Muster Rolls of the Virginia Militia in the War of 1812.</em> He was Captain of 65th Regiment of Southampton, which was called into service for 13 days in August and September of 1814.
+    <h2>RICE BOLTON PIERCE OF HALIFAX COUNTY, N.C.</h2>
+    <p>Rice B. Pierce died in Halifax County. Cousin Pierce Howard in a booklet titled <em>Other Mama -- A life of Mary Virginia Pierce</em> which he wrote for the <a href="/img/pierce_family.jpeg">Pierce family reunion</a> states he was born in 1788 in Southampton County, Virginia, and died in 1874 and that he served in the War of 1812. Below is his grave site at Pierce's Crossroads south of Weldon. A search of War of 1812 records found him in <em>Muster Rolls of the Virginia Militia in the War of 1812.</em> He was Captain of 65th Regiment of Southampton, which was called into service for 13 days in August and September of 1814.
 
-[caption id="" align="aligncenter" width="800"]<a href="http://jimserver.net/graphics/weldon1.jpg"><img src="http://jimserver.net/graphics/weldon1.jpg" alt="" width="800" height="600" /></a> Rice B Pierce, Captain Pierce's Co, 65 Va. Mil., War of 1812[/caption]
+[caption id="" align="aligncenter" width="800"]<a href="/img/weldon1.jpg"><img src="/img/weldon1.jpg" alt="" width="800" height="600" /></a> Rice B Pierce, Captain Pierce's Co, 65 Va. Mil., War of 1812[/caption]
 
 &nbsp;
 
-[caption id="" align="alignnone" width="847"]<a href="http://jimserver.net/graphics/pierce_halifax.png"><img src="http://jimserver.net/graphics/pierce_halifax.png" alt="estate record" width="847" height="708" /></a> Heirs of estate of Rice B Pierce, August 8, 1876, Halifax County. Geo C Pierce, Rice B Pierce, Fred S Pierce, Alexander B Pierce, Thomas N Pierce, Martha F Wyche, Margaret B Lynch and Walter, Minnie, Alice, Richard Crump children of Caroline Crump and Kevin and Pierce Bass children of Mary V Bass and Lou L Grant - son of Fannie J Grant and Celestin Nelson and Dallas Hawkins children of Eliza Hawkins[/caption]
+[caption id="" align="alignnone" width="847"]<a href="/img/pierce_halifax.png"><img src="/img/pierce_halifax.png" alt="estate record" width="847" height="708" /></a> Heirs of estate of Rice B Pierce, August 8, 1876, Halifax County. Geo C Pierce, Rice B Pierce, Fred S Pierce, Alexander B Pierce, Thomas N Pierce, Martha F Wyche, Margaret B Lynch and Walter, Minnie, Alice, Richard Crump children of Caroline Crump and Kevin and Pierce Bass children of Mary V Bass and Lou L Grant - son of Fannie J Grant and Celestin Nelson and Dallas Hawkins children of Eliza Hawkins[/caption]
 
 I have been able to trace his<a href="http://jimserver.net/gramps/Pierce_det_descendant_report.html"> ancestry</a> back from Southampton County to his grandfather Spencer Pierce of Warwick County. However, Warwick County suffered loss of records during the civil war and remaining records give only partial information (All references to Warwick County records are from <em>Warwick County, Virginia, Colonial Court Records in Transcription</em>, Richard Dunn, ed.)
 
 Warwick Court 7 August 1760 records the administration estate of a Spencer Pierce:
 
-[caption id="" align="aligncenter" width="551"]<img class="" src="http://jimserver.net/graphics/spencer_admin.png" alt="" width="551" height="152" /> Spence Pierce Estate Administration[/caption]
+[caption id="" align="aligncenter" width="551"]<img class="" src="/img/spencer_admin.png" alt="" width="551" height="152" /> Spence Pierce Estate Administration[/caption]
 <blockquote>On the motion of Martha Pierce ordered that John George Wills, Benjamin Wills, Samuel Wills and John Pate Wills, or any three of them do examine &amp; settle an account of the admon of the estate of Spencer Pierce deceased and report the same to the court.</blockquote>
 At the same court Spencer Pierce was appointed constable of Stanley Hundred Precinct.  Presumably Stanley Hundred Precinct corresponded approximately to the parish of Stanley Hundred or Mulberry Island although the parishes in Warwick  were merged in 1725 (Parish Lines, Diocese of Southern Virginia, Charles Cocke, p. 158), so he was appointed constable of the area of Mulberry Island and the land formerly owned by Capt. William Pierce.
 
 Warwick Court order for 2 April 1761 gives:
 
-[caption id="" align="aligncenter" width="605"]<img class="" src="http://jimserver.net/graphics/rice_indenture.png" alt="" width="605" height="259" /> Rice Bolton Pierce Apprenticeship[/caption]
+[caption id="" align="aligncenter" width="605"]<img class="" src="/img/rice_indenture.png" alt="" width="605" height="259" /> Rice Bolton Pierce Apprenticeship[/caption]
 <blockquote>An Indenture of Apprenticeship from Rice Bolton Pierce to William Wills was with the Approbation of the court acknowledged by the parties and ordered to be certified.</blockquote>
 I think the explanation for these records is most likely that Spencer Pierce the constable and Rice Bolton Pierce were the sons of Spencer Pierce who died in 1760. Assume that Rice was 15 when apprenticed to William Wills then Spencer Pierce would have been his older brother.
 
@@ -74,11 +74,11 @@ Rice B Pierce and his son Matthew were both dead by May 1793 when a court order 
 Southampton County marriage records record the marriage of Spencer Pierce to Mary Calvert in 1793 and Rice B Pierce to Fanny Cook in 1809. Mary Calvert was a member of a seafaring family of Calverts from Norfolk County.
 <a id="sect2"></a>
 <h3>Early Pierces of Mulberry Island</h3>
-<img class="aligncenter" src="http://jimserver.net/graphics/pierce.png" alt="" width="601" height="260" />
+<img class="aligncenter" src="/img/pierce.png" alt="" width="601" height="260" />
 
 There were 3 men named Pierce who lived on Mulberry Island in the first part of the seventeenth century, all probably related. The first was <a href="https://www.encyclopediavirginia.org/Peirce_William_d_btw_1645_and_1647">Captain William Pierce</a> (link to <a href="http://jimserver.net/downloads/pierce_genealogy.pdf">genealogy</a>) who arrived in Virginia in 1610 after departing England on the <em>Seaventure</em> and was dead by 1647. Thomas Pierce of Mulberry Island who lived there by 1638 was probably a relation and was described as a possible son of William Pierce in the footnote of the Peirce genealogy of Adventureres of Purse and Person died by 1665. Another Thomas Pierce who was described in the Pierce-Bennett genealogy of Adventurers of Purse and Person as "probably was a close connection of Captain William Pierce" died in Virginia in 1622, probably killed by the indians.
 
-[caption id="" align="alignnone" width="2250"]<a href="http://jimserver.net/graphics/wm_pierce_england.jpg"><img class="" src="http://jimserver.net/graphics/wm_pierce_england.jpg" alt="engish record William Pierce" width="2250" height="2084" /></a> 1637. Acts of the Privy Council, Colonial Series, 1613-1680, p. 233.[/caption]
+[caption id="" align="alignnone" width="2250"]<a href="/img/wm_pierce_england.jpg"><img class="" src="/img/wm_pierce_england.jpg" alt="engish record William Pierce" width="2250" height="2084" /></a> 1637. Acts of the Privy Council, Colonial Series, 1613-1680, p. 233.[/caption]
 
 Although the only proved child of Capt. William Pierce was his daughter Joan, this record from England of 1637 indicates that he had several children at this time.
 
@@ -114,7 +114,7 @@ Part of the difficulty in determining the ancestry of Spencer Pierce of Warwick 
 
 However, looking at the names Spencer and Rice Bolton does support this connection to the Mulberry Island Pierces if we consider the pattern of using the Mother's surname as a given name.
 
-The name Spencer might be a reference to the family of William Spencer. There was an early connection of William Spencer and Capt. William Pierce. In 1638 William Spencer and Capt. William Pierce were chosen to select a cow that Thomas Pierce was to give to his son William. This record is incorrectly shown in Adventurers of Purse and Person as dated  1655, but the <a href="http://jimserver.net/graphics/surry_pierce.png"> original</a> clearly shows 1638, and in 1668 William Pierce (same son of Capt. Thomas) patented land in Warwick County formerly granted John Rolfe, William Pierce, Thomas Pierce and William Spencer. The Spencer genealogy in Adventurers of Purse and Person does not show a marriage of a Pierce and Spencer, but it seems possible.
+The name Spencer might be a reference to the family of William Spencer. There was an early connection of William Spencer and Capt. William Pierce. In 1638 William Spencer and Capt. William Pierce were chosen to select a cow that Thomas Pierce was to give to his son William. This record is incorrectly shown in Adventurers of Purse and Person as dated  1655, but the <a href="/img/surry_pierce.png"> original</a> clearly shows 1638, and in 1668 William Pierce (same son of Capt. Thomas) patented land in Warwick County formerly granted John Rolfe, William Pierce, Thomas Pierce and William Spencer. The Spencer genealogy in Adventurers of Purse and Person does not show a marriage of a Pierce and Spencer, but it seems possible.
 
 A suit in Warwick Court May 1707 shows a Rice Bolton living with Richard Hatton in Mulberry Island without being declared a taxable. In Sept 1714 Warwick court Rice Bolton was mentioned as assignee of a deed and later that year was a guardian for orphans of Randolph Crew and Samuel Crew. The name Rice Bolton then must be a reference to Rice Bolton who was living at Mulberry Island in 1707. The suit seems to imply that in 1707 he was a single man living in another household. If Rice Bolton was born say 1745 then his mother (probably Martha) should have been born by 1725 especially if she was also the mother of older brother Spencer. This seems to imply that Martha Pierce was the daughter of Rice Bolton of Mulberry Island and supporting the conclusion that the family of Spencer Pierce was related to the Pierces of Mulberry Island.
 
