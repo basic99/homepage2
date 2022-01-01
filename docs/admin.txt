@@ -74,3 +74,7 @@ sudo cp /usr/local/php-7.4.27/sapi/fpm/init.d.php-fpm.in php-fpm.service
 service file needs debug run
 
 sudo /usr/local/bin/php-fpm
+
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
+
+sudo apt install certbot python3-certbot-nginx
