@@ -31,3 +31,46 @@ https://www.php.net/manual/en/install.unix.nginx.php
 sudo apt install pkg-config
 sudo apt install libxml2-dev
 sudo apt  install sqlite3 libsqlite3-dev
+
+Installing shared extensions:     /usr/local/lib/php/extensions/no-debug-non-zts-20190902/
+Installing PHP CLI binary:        /usr/local/bin/
+Installing PHP CLI man page:      /usr/local/php/man/man1/
+Installing PHP FPM binary:        /usr/local/sbin/
+Installing PHP FPM defconfig:     /usr/local/etc/
+Installing PHP FPM man page:      /usr/local/php/man/man8/
+Installing PHP FPM status page:   /usr/local/php/php/fpm/
+Installing phpdbg binary:         /usr/local/bin/
+Installing phpdbg man page:       /usr/local/php/man/man1/
+Installing PHP CGI binary:        /usr/local/bin/
+Installing PHP CGI man page:      /usr/local/php/man/man1/
+Installing build environment:     /usr/local/lib/php/build/
+Installing header files:          /usr/local/include/php/
+Installing helper programs:       /usr/local/bin/
+
+
+extra step from instructions
+sudo cp /usr/local/etc/php-fpm.d/www.conf /usr/local/etc/php-fpm.conf
+
+/etc/nginx/sites-available
+sudo vi default
+
+location ~* \.php$ {
+    fastcgi_index   index.php;
+    fastcgi_pass    127.0.0.1:9000;
+    include         fastcgi_params;
+    fastcgi_param   SCRIPT_FILENAME    $document_root$fastcgi_script_name;
+    fastcgi_param   SCRIPT_NAME        $fastcgi_script_name;
+}
+
+/usr/local/php-7.4.27/sapi/fpm
+init.d.php-fpm
+
+/usr/local/bin/php-fpm
+/usr/local/etc/php-fpm.conf
+
+cd /lib/systemd/system
+sudo cp /usr/local/php-7.4.27/sapi/fpm/init.d.php-fpm.in php-fpm.service
+
+service file needs debug run
+
+sudo /usr/local/bin/php-fpm

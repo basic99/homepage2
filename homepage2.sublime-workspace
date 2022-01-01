@@ -849,6 +849,7 @@
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/docs/admin.txt",
 		"/var/www/html/homepage2/map/norfolk.js",
 		"/var/www/html/homepage2/map/features.geojson",
 		"/home/jim/Desktop/us_states.geojson",
@@ -975,8 +976,7 @@
 		"/home/jim/Desktop/Galaxy431-[out.txt].txt",
 		"/var/www/html/tbas2_1/docs/tbasseqio.py",
 		"/var/www/wsgi/decifr/static/js/msa_formatted.min.js",
-		"/home/jim/Desktop/galaxy/metadat-to-diploid/examples/metadata_host.csv",
-		"/home/jim/Desktop/galaxy/metadat-to-diploid/examples/metadata_host.txt"
+		"/home/jim/Desktop/galaxy/metadat-to-diploid/examples/metadata_host.csv"
 	],
 	"find":
 	{
@@ -994,6 +994,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sammy",
 			"\"id\":",
 			"metes_bounds",
 			"metes",
