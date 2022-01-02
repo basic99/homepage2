@@ -36,3 +36,10 @@ blockquote {
   padding-left: 30px;
   font-size: .95em;
 }
+
+figcaption {
+  font-size: 1.0em !important;
+}
+figure {
+  margin-top: 15px;
+}

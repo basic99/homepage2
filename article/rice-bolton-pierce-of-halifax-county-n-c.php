@@ -13,6 +13,7 @@
 
 
     <style>
+
     </style>
 
   </head>
@@ -31,12 +32,15 @@ include "../menu.php";
   <div class="col-md-8">
     <h2>RICE BOLTON PIERCE OF HALIFAX COUNTY, N.C.</h2>
     <p>Rice B. Pierce died in Halifax County. Cousin Pierce Howard in a booklet titled <em>Other Mama -- A life of Mary Virginia Pierce</em> which he wrote for the <a href="/img/pierce_family.jpeg">Pierce family reunion</a> states he was born in 1788 in Southampton County, Virginia, and died in 1874 and that he served in the War of 1812. Below is his grave site at Pierce's Crossroads south of Weldon. A search of War of 1812 records found him in <em>Muster Rolls of the Virginia Militia in the War of 1812.</em> He was Captain of 65th Regiment of Southampton, which was called into service for 13 days in August and September of 1814.
+<figure class="figure">
+<a href="/img/weldon1.jpg"><img  class="img-fluid" src="/img/weldon1.jpg" alt="" width="800" height="600" /></a>
+<figcaption class="figure-caption text-center">Rice B Pierce, Captain Pierce's Co, 65 Va. Mil., War of 1812</figcaption>
+</figure>
 
-<a href="/img/weldon1.jpg"><img  class="img-fluid" src="/img/weldon1.jpg" alt="" width="800" height="600" /></a> Rice B Pierce, Captain Pierce's Co, 65 Va. Mil., War of 1812
 
-
-
-<a href="/img/pierce_halifax.png"><img class="img-fluid"  src="/img/pierce_halifax.png" alt="estate record"  /></a> Heirs of estate of Rice B Pierce, August 8, 1876, Halifax County. Geo C Pierce, Rice B Pierce, Fred S Pierce, Alexander B Pierce, Thomas N Pierce, Martha F Wyche, Margaret B Lynch and Walter, Minnie, Alice, Richard Crump children of Caroline Crump and Kevin and Pierce Bass children of Mary V Bass and Lou L Grant - son of Fannie J Grant and Celestin Nelson and Dallas Hawkins children of Eliza Hawkins[/caption]
+<figure class="figure">
+<a href="/img/pierce_halifax.png"><img class="img-fluid"  src="/img/pierce_halifax.png" alt="estate record"  /></a> <figcaption class="figure-caption text-center">Heirs of estate of Rice B Pierce, August 8, 1876, Halifax County. Geo C Pierce, Rice B Pierce, Fred S Pierce, Alexander B Pierce, Thomas N Pierce, Martha F Wyche, Margaret B Lynch and Walter, Minnie, Alice, Richard Crump children of Caroline Crump and Kevin and Pierce Bass children of Mary V Bass and Lou L Grant - son of Fannie J Grant and Celestin Nelson and Dallas Hawkins children of Eliza Hawkins</figcaption>
+</figure>
 
  <p>I have been able to trace his<a href="http://jimserver.net/gramps/Pierce_det_descendant_report.html"> ancestry</a> back from Southampton County to his grandfather Spencer Pierce of Warwick County. However, Warwick County suffered loss of records during the civil war and remaining records give only partial information (All references to Warwick County records are from <em>Warwick County, Virginia, Colonial Court Records in Transcription</em>, Richard Dunn, ed.)
 
