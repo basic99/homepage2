@@ -40,9 +40,11 @@ map.on('load', () => {
   //   'url': 'mapbox://jmsbrcwht.ckxnjod974bav27ood55nbuyd-41oks'
   // });
 
+  console.log(location.origin);
+
   map.addSource('metes_bounds_src', {
     'type': 'geojson',
-    'data': 'http://localhost:8880/map/little2.json'
+    'data': location.origin + '/map/little2.json'
   });
 
   let test = map.getSource('metes_bounds_src');
