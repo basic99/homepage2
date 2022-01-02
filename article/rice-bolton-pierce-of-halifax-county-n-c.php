@@ -30,7 +30,7 @@ include "../menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h2>RICE BOLTON PIERCE OF HALIFAX COUNTY, N.C.</h2>
+    <h2>Rice Bolton Pierce Of Halifax County, N.C.</h2>
     <p>Rice B. Pierce died in Halifax County. Cousin Pierce Howard in a booklet titled <em>Other Mama -- A life of Mary Virginia Pierce</em> which he wrote for the <a href="/img/pierce_family.jpeg">Pierce family reunion</a> states he was born in 1788 in Southampton County, Virginia, and died in 1874 and that he served in the War of 1812. Below is his grave site at Pierce's Crossroads south of Weldon. A search of War of 1812 records found him in <em>Muster Rolls of the Virginia Militia in the War of 1812.</em> He was Captain of 65th Regiment of Southampton, which was called into service for 13 days in August and September of 1814.
 <figure class="figure">
 <a href="/img/weldon1.jpg"><img  class="img-fluid" src="/img/weldon1.jpg" alt="" width="800" height="600" /></a>
