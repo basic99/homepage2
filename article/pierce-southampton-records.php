@@ -30,21 +30,21 @@ include "../menu.php";
   <div class="col-md-2"></div>
   <div class="col-md-8">
     <h2>Pierce Southampton Records</h2>
-    Southampton Deed Book 4 1767-1773, p.56
+    <p>Southampton Deed Book 4 1767-1773, p.56
 
-This indenture made the twenty fourth day of Dec. in the year of our lord one thousand/ seven hundred &amp; sixty seven between Arthur Arrington of Edgebombe County of North Caroling of the one/ part &amp; Rice Bolton Pierce of Southampton county of the other part witneseth that the sd/ Arthur Arrington for in consideration of the sum of seventy pounds to him in hand/ paid at or before the ensealing &amp; delivery of these presents the receipt whereof he doth/ hereby acknowledge hath granted bargained sold aliened enfeoffed &amp; confirmed &amp; by these/ presents doth grant bargain &amp; sell &amp; confirm unto the sd Rice B Pierce &amp; his heirs/ forever one certain tract or parcel of land situated lying and being in the count of So/ hampton containing two hundred &amp; eighty two acres be more or less bounded as/ followeth [metes and bounds, mentions Little cove branch] being part of a tract of land containing four hundred &amp; eighty acres/ which was made over to the said Arrington in Southampton court bearing date one thousand/ seven hundred &amp; sixty six recourse being thereto had will more at large appear to / have and to hold ...
-
+<p>This indenture made the twenty fourth day of Dec. in the year of our lord one thousand/ seven hundred &amp; sixty seven between Arthur Arrington of Edgebombe County of North Caroling of the one/ part &amp; Rice Bolton Pierce of Southampton county of the other part witneseth that the sd/ Arthur Arrington for in consideration of the sum of seventy pounds to him in hand/ paid at or before the ensealing &amp; delivery of these presents the receipt whereof he doth/ hereby acknowledge hath granted bargained sold aliened enfeoffed &amp; confirmed &amp; by these/ presents doth grant bargain &amp; sell &amp; confirm unto the sd Rice B Pierce &amp; his heirs/ forever one certain tract or parcel of land situated lying and being in the count of So/ hampton containing two hundred &amp; eighty two acres be more or less bounded as/ followeth [metes and bounds, mentions Little cove branch] being part of a tract of land containing four hundred &amp; eighty acres/ which was made over to the said Arrington in Southampton court bearing date one thousand/ seven hundred &amp; sixty six recourse being thereto had will more at large appear to / have and to hold ...
+<br>
 Signed sealed &amp; delivered
-in presence of
-Thomas Chaperel
-James Atkinson
-John Adams
+in presence of<br>
+Thomas Chaperel<br>
+James Atkinson<br>
+John Adams<br>
 
-&nbsp;
+<hr>
 
-Southampton Will Book 4 1783 - 1797, p. 353
+<p>Southampton Will Book 4 1783 - 1797, p. 353
 
-In the name of God amen January 10 day 1781 I Elias/ Williams of Southampton County being now in perfect health and/ sound memory thanks be to God and being mindful of the mortality/ of the body and not knowing how soon it may please God to call/ me I
+<p>In the name of God amen January 10 day 1781 I Elias/ Williams of Southampton County being now in perfect health and/ sound memory thanks be to God and being mindful of the mortality/ of the body and not knowing how soon it may please God to call/ me I
 make and ordain this my last willl and testament as/ followeth (to wit)
 Impr I give and bequeath unto my nephew Matthew Pierce my black/ Mare called Ravin to him and his heirs
 Item I give and bequeath unto my nephew Nicholas Willimas my/ sorrell colt that is now at swift creek to him
@@ -52,12 +52,13 @@ Item I give and bequeath unto my nephew Elias Willimas my old/ mare called Flowe
 Item I give and bequeath my stock of cattle hogs and sheep to be equally divided between all my brothers and sisters. I likewise give them all my household furniture of every kind to be/ equally divided between them
 Item I give and bequeath all my wearing apparel unto my/ brother John Williams
 Lastly I constitute and appoint my friend Rice B. Pierce/ to be my whole and sole executor of this my last/ will and testament ratifying and confirming this/ and no other to be my last will and testament
-
+<br>
 In witness where of I have set my hand and fixed my seal the/ day and date first above written
 Signed and Sealed in
-presence of
-Nicholas Williams
-Benjamin Williams
+presence of<br>
+Nicholas Williams<br>
+Benjamin Williams<br>
+<hr>
 
 Southampton Court Minute Book 1793-1799, p. 12
 Court 9 May 1793
