@@ -29,50 +29,50 @@ include "../menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h2>Home</h2>
-    1794-020
+    <h2>    1794-020
 Southampton County Chancery Papers
-Pierce's Heirs vs Pierce, Widow 9/1794
+Pierce's Heirs vs Pierce, Widow 9/1794</h2>
+
 
 <img class="img-fluid" src="http://jimserver.net/graphics/171246.png" alt="" width="1076" height="792" />
 
-To the worshipful the court of Southampton county in chancery/ sitting, Humbly complaining sheweth unto your worships your/ orators Michael Cobb and Martha his wife, (Spencer Pierce/ (Matthew Pierce), ^Betsy Pierce, Nathaniel Pierce, Peter Pierce, &amp; Bolton / Pierce by Samuel Calvert -- their guardian &amp; near/ friend appointed by this court for the express purpose of carrying / into effect the premises) that sometime on or about the / ___ day of ___ in the year of our Lord 1792 a certain Rice Bolton Pierce of this county departed this life intestate/ being seised &amp; possessed at the time of his death of a considerable/ estate both real &amp; personal - Your orators further shew/ that they are the legal heirs &amp; representatives of the decd/ &amp; that they have often applied to Elizabeth Pierce the widow / &amp; relict of the sd decedent to have her thirds in the lands &amp;/ slaves of her sd. husband set apart &amp; alotted her, in order that/ your orators might have a fair &amp; equal distribution of/ the residues between them. - But so it may / it please your worships that the sd. Elizabeth Pierce the / widow &amp; relict of the sd. Rice Bolton Pierce [torn]/ and considering with divers other (whose names when lik [torn]/ ye orators pray may be made defendant to this their bill with of [torn]/ to charge them) hitherto hath refused to comply with [torn]/ ye orators most reasonable request; pretending [torn]/ out in ... that your oratores are not entitled to [torn]/ part of the lands &amp; slaves of her late husband will [torn]/ decease -- In tender consideration whereof, &amp; [torn]/ much ... orators are properly relievable in a court [torn]/ equity ... the and therefore that the sd. Elizabeth / may ... oath full true &amp; perfect and [torn]/
+<p>To the worshipful the court of Southampton county in chancery/ sitting, Humbly complaining sheweth unto your worships your/ orators Michael Cobb and Martha his wife, (Spencer Pierce/ (Matthew Pierce), ^Betsy Pierce, Nathaniel Pierce, Peter Pierce, &amp; Bolton / Pierce by Samuel Calvert -- their guardian &amp; near/ friend appointed by this court for the express purpose of carrying / into effect the premises) that sometime on or about the / ___ day of ___ in the year of our Lord 1792 a certain Rice Bolton Pierce of this county departed this life intestate/ being seised &amp; possessed at the time of his death of a considerable/ estate both real &amp; personal - Your orators further shew/ that they are the legal heirs &amp; representatives of the decd/ &amp; that they have often applied to Elizabeth Pierce the widow / &amp; relict of the sd decedent to have her thirds in the lands &amp;/ slaves of her sd. husband set apart &amp; alotted her, in order that/ your orators might have a fair &amp; equal distribution of/ the residues between them. - But so it may / it please your worships that the sd. Elizabeth Pierce the / widow &amp; relict of the sd. Rice Bolton Pierce [torn]/ and considering with divers other (whose names when lik [torn]/ ye orators pray may be made defendant to this their bill with of [torn]/ to charge them) hitherto hath refused to comply with [torn]/ ye orators most reasonable request; pretending [torn]/ out in ... that your oratores are not entitled to [torn]/ part of the lands &amp; slaves of her late husband will [torn]/ decease -- In tender consideration whereof, &amp; [torn]/ much ... orators are properly relievable in a court [torn]/ equity ... the and therefore that the sd. Elizabeth / may ... oath full true &amp; perfect and [torn]/
 
 <img class="img-fluid" src="http://jimserver.net/graphics/171247.png" alt="" width="1076" height="792" />
 
-make to all &amp; singular the allegations of this bill &amp; as fully as/ if the same were repeated &amp; interrogated, but more especially/ whether ye orators are not the legal heirs &amp; representatives of / the sd. Rice Bolten Pierce , did he not die seised &amp; possesed/ of a considerable estate both real and personal &amp; that she/ not refused to take or accept her thirds. had that his / worshipful court may order &amp; secure some fit &amp; able/ persons to alot &amp; set apart her thirds in the lands &amp; slaves/ of which her sd. husband died seized &amp; possessed, &amp; the residue/ of the sd. lands &amp; slaves to be equally divided among your orators or make any further or other decree as my seem/ just &amp; right, is the prayer of sd. orators, &amp; they will/ ever pray &amp;c ---
+<p>make to all &amp; singular the allegations of this bill &amp; as fully as/ if the same were repeated &amp; interrogated, but more especially/ whether ye orators are not the legal heirs &amp; representatives of / the sd. Rice Bolten Pierce , did he not die seised &amp; possesed/ of a considerable estate both real and personal &amp; that she/ not refused to take or accept her thirds. had that his / worshipful court may order &amp; secure some fit &amp; able/ persons to alot &amp; set apart her thirds in the lands &amp; slaves/ of which her sd. husband died seized &amp; possessed, &amp; the residue/ of the sd. lands &amp; slaves to be equally divided among your orators or make any further or other decree as my seem/ just &amp; right, is the prayer of sd. orators, &amp; they will/ ever pray &amp;c ---
 
 <img class="img-fluid" src="http://jimserver.net/graphics/171248.png" alt="" width="1076" height="792" />
 
-The answer of Elizabeth Pierce widow &amp; relict of Rice/ Bolton Pierce decd. to the bill of complaint of Michael/ Cobb and Martha his wife, (Spencer Pierce, Matthew Pierce/ Betsy Pierce, Mathaniel Pierce, Peter Pierce &amp; Bolton/ Pierce, exhibited against her. This defendant now &amp; at all / times hereafter saving &amp; reserving to herself all &amp; all manner / use of benefit &amp; advantage to the many untruths, imperfec=/ tions, &amp; indeficiences in the complainants sd bill .../ complaint contains, for ... thereto, or to ..../ she is advised in material for her to make answer unto/ answeres &amp; says, That true it is she is the widow &amp; relict/ of Rice Bolton Pierce decd., &amp; he died somtime/ on or about the time in complainants bill mentioned/ &amp; that he was seised &amp; possessed of a considerable estate/ both real &amp; personal. - This defendant denies/ all combination or that she has any objection/ to have her thirds in the lands &amp; slaves .../set apart to her.... And if there is any other [torn]/ matter or thing in the complainants sd. bill [torn]/ &amp; not answered or denied the respondent is igno [torn]/ of, &amp; pray to have dismissed with her reaso [torn]/ ... this be half sustained.
+<p>The answer of Elizabeth Pierce widow &amp; relict of Rice/ Bolton Pierce decd. to the bill of complaint of Michael/ Cobb and Martha his wife, (Spencer Pierce, Matthew Pierce/ Betsy Pierce, Mathaniel Pierce, Peter Pierce &amp; Bolton/ Pierce, exhibited against her. This defendant now &amp; at all / times hereafter saving &amp; reserving to herself all &amp; all manner / use of benefit &amp; advantage to the many untruths, imperfec=/ tions, &amp; indeficiences in the complainants sd bill .../ complaint contains, for ... thereto, or to ..../ she is advised in material for her to make answer unto/ answeres &amp; says, That true it is she is the widow &amp; relict/ of Rice Bolton Pierce decd., &amp; he died somtime/ on or about the time in complainants bill mentioned/ &amp; that he was seised &amp; possessed of a considerable estate/ both real &amp; personal. - This defendant denies/ all combination or that she has any objection/ to have her thirds in the lands &amp; slaves .../set apart to her.... And if there is any other [torn]/ matter or thing in the complainants sd. bill [torn]/ &amp; not answered or denied the respondent is igno [torn]/ of, &amp; pray to have dismissed with her reaso [torn]/ ... this be half sustained.
 
 <img class="img-fluid" src="http://jimserver.net/graphics/171250.png" alt="" width="1076" height="792" />
 
-At a court of quarter session held for the county of Southampton/ the 14th day of March 1794
+<p>At a court of quarter session held for the county of Southampton/ the 14th day of March 1794
 In Chancery
 
-Michael Cobb and Martha his wife, &amp; Spencer Pierce/ Elizabeth Pierce Nath. Pierce Peter Pierce &amp; Bolton/ Pierce (which sd. Spencer Elizabeth Nath. Peter &amp; Bolton/ are under the age of 21 years) by Saml. Calvert their guardian
+<p>Michael Cobb and Martha his wife, &amp; Spencer Pierce/ Elizabeth Pierce Nath. Pierce Peter Pierce &amp; Bolton/ Pierce (which sd. Spencer Elizabeth Nath. Peter &amp; Bolton/ are under the age of 21 years) by Saml. Calvert their guardian
 
-against
+<p>against
 
-Elizabeth Pierce widow &amp; relict of Rice B. Pierce decd.
+<p>Elizabeth Pierce widow &amp; relict of Rice B. Pierce decd.
 
-This cause being docketed by consent of the parties/ was this day heard on the bill of the complainants &amp; answer of the / defendant On consideration whereof it is decreed &amp; ordered/ (Saml. Calvert being first apponted guardian to the complainants who/ are infants) that Thomas Gray Saml. Kello Joseph Vick &amp; / Matthew Calvert or any three of them do allot assign &amp; set apart/ the dower of the defendant Elizabeth in the lands &amp; slaves whereof/ Rice Bolton Pierce died seized &amp; possessed and make an equal division of the remaining land and slaves among the compl./ &amp; make report in due order to a final decree.
+<p>This cause being docketed by consent of the parties/ was this day heard on the bill of the complainants &amp; answer of the / defendant On consideration whereof it is decreed &amp; ordered/ (Saml. Calvert being first apponted guardian to the complainants who/ are infants) that Thomas Gray Saml. Kello Joseph Vick &amp; / Matthew Calvert or any three of them do allot assign &amp; set apart/ the dower of the defendant Elizabeth in the lands &amp; slaves whereof/ Rice Bolton Pierce died seized &amp; possessed and make an equal division of the remaining land and slaves among the compl./ &amp; make report in due order to a final decree.
 
 <img class="img-fluid" src="http://jimserver.net/graphics/171251.png" alt="" width="1076" height="792" />
 
-In obedience to an order of the worshipful court of Southampton/ hereto annexed We the subscribers have alloted and set apart/ the dower of Elizabeth Pierce the widow of Rice B. Pierce decd./ in the slaves of the sd. Rice B. Pierce and divided the remaining / slaves amng the complainants in the following manner
+<p>In obedience to an order of the worshipful court of Southampton/ hereto annexed We the subscribers have alloted and set apart/ the dower of Elizabeth Pierce the widow of Rice B. Pierce decd./ in the slaves of the sd. Rice B. Pierce and divided the remaining / slaves amng the complainants in the following manner
 
-Viz. To Mrs. Pierce her dower (10 slaves) Will Nanny &amp; her child/ Dinah, Jenny, Jacob, Eve, Gaby, Slyvia &amp; Charlotte valued to pds 291..13.4/ &amp; to receive from the complainants pds 1..17.1 1/4 } 293..10.5
-To Spencer Pierce negroes Ned &amp; Milbe valued to pds 91..10/ &amp; to receive pds 6..7.1/2 } 97..17.1/2
-Michael Cobb &amp; Martha his wife Sampson &amp; Mason valued to pds 107..10/ &amp; to pay 9..12.11 1/2 } 97..17.1/2
-Elizabeth Pierce Sam and Bob valued to 87..10/ &amp; to receive 10..7.1/2 } 97..17.1/2
-Nath. Pierce Rachael &amp; Adam valued 90/ &amp; to receive 7..7..1/2 } 97..17.1/2
-Peter Pierce Betty her child Annita &amp; Ned valued to 102..10/ &amp; to pay 4..12.1 1/2 } 97..17.1/2
-Bolton Pierce Easter &amp; Cook valued to 110 / &amp; to pay 12..2.11 1/2 } 97..17.1/2
+<p>Viz. To Mrs. Pierce her dower (10 slaves) Will Nanny &amp; her child/ Dinah, Jenny, Jacob, Eve, Gaby, Slyvia &amp; Charlotte valued to pds 291..13.4/ &amp; to receive from the complainants pds 1..17.1 1/4 } 293..10.5
+<p>To Spencer Pierce negroes Ned &amp; Milbe valued to pds 91..10/ &amp; to receive pds 6..7.1/2 } 97..17.1/2
+<p>Michael Cobb &amp; Martha his wife Sampson &amp; Mason valued to pds 107..10/ &amp; to pay 9..12.11 1/2 } 97..17.1/2
+<p>Elizabeth Pierce Sam and Bob valued to 87..10/ &amp; to receive 10..7.1/2 } 97..17.1/2
+<p>Nath. Pierce Rachael &amp; Adam valued 90/ &amp; to receive 7..7..1/2 } 97..17.1/2
+<p>Peter Pierce Betty her child Annita &amp; Ned valued to 102..10/ &amp; to pay 4..12.1 1/2 } 97..17.1/2
+<p>Bolton Pierce Easter &amp; Cook valued to 110 / &amp; to pay 12..2.11 1/2 } 97..17.1/2
 
-We further report that after repeated attempts to divide / the lands among the complainants &amp; lay off the dower of / defendant We have not been able to effect owing to the / difficulties atending the diveision &amp; the evidend injustices that/ some of the partis would receive
-Southampton May 1794 Sam Kello, Ja. Vick, Matt. Calvert
+<p>We further report that after repeated attempts to divide / the lands among the complainants &amp; lay off the dower of / defendant We have not been able to effect owing to the / difficulties atending the diveision &amp; the evidend injustices that/ some of the partis would receive
+<p>Southampton May 1794 Sam Kello, Ja. Vick, Matt. Calvert
 
 <img class="alignnone" src="http://jimserver.net/graphics/171253.png" alt="" width="1076" height="792" />
 
