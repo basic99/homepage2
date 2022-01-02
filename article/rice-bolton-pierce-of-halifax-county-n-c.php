@@ -45,10 +45,11 @@ include "../menu.php";
  <p>I have been able to trace his<a href="http://jimserver.net/gramps/Pierce_det_descendant_report.html"> ancestry</a> back from Southampton County to his grandfather Spencer Pierce of Warwick County. However, Warwick County suffered loss of records during the civil war and remaining records give only partial information (All references to Warwick County records are from <em>Warwick County, Virginia, Colonial Court Records in Transcription</em>, Richard Dunn, ed.)
 
  <p>Warwick Court 7 August 1760 records the administration estate of a Spencer Pierce:
+  <blockquote>On the motion of Martha Pierce ordered that John George Wills, Benjamin Wills, Samuel Wills and John Pate Wills, or any three of them do examine &amp; settle an account of the admon of the estate of Spencer Pierce deceased and report the same to the court.</blockquote>
+<figure class="figure">
+<img class="img-fluid"  class="" src="/img/spencer_admin.png" alt="estate" /> <figcaption class="figure-caption text-center">Spence Pierce Estate Administration</figcaption></figure>
 
-<img class="img-fluid"  class="" src="/img/spencer_admin.png" alt="" width="551" height="152" /> Spence Pierce Estate Administration
-<blockquote>On the motion of Martha Pierce ordered that John George Wills, Benjamin Wills, Samuel Wills and John Pate Wills, or any three of them do examine &amp; settle an account of the admon of the estate of Spencer Pierce deceased and report the same to the court.</blockquote>
-At the same court Spencer Pierce was appointed constable of Stanley Hundred Precinct.  Presumably Stanley Hundred Precinct corresponded approximately to the parish of Stanley Hundred or Mulberry Island although the parishes in Warwick  were merged in 1725 (Parish Lines, Diocese of Southern Virginia, Charles Cocke, p. 158), so he was appointed constable of the area of Mulberry Island and the land formerly owned by Capt. William Pierce.
+<p>At the same court Spencer Pierce was appointed constable of Stanley Hundred Precinct.  Presumably Stanley Hundred Precinct corresponded approximately to the parish of Stanley Hundred or Mulberry Island although the parishes in Warwick  were merged in 1725 (Parish Lines, Diocese of Southern Virginia, Charles Cocke, p. 158), so he was appointed constable of the area of Mulberry Island and the land formerly owned by Capt. William Pierce.
 
 Warwick Court order for 2 April 1761 gives:
 
