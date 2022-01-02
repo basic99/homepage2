@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"fon",
+				"font-variant\tproperty"
+			],
+			[
 				"opt",
 				"opt1"
 			],
@@ -510,10 +514,6 @@
 			[
 				"lookup_",
 				"lookup_save\tstatement"
-			],
-			[
-				"loo",
-				"lookup_save\tstatement"
 			]
 		]
 	},
@@ -548,16 +548,16 @@
 		"selected_items":
 		[
 			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
 				"form",
-				"Format: Javascript"
+				"Format CSS: Expanded"
 			],
 			[
 				"format",
 				"Format: Javascript"
-			],
-			[
-				"live",
-				"LiveReload: Enable/disable plug-ins"
 			],
 			[
 				"liv",
@@ -846,10 +846,17 @@
 	"expanded_folders":
 	[
 		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/docs"
+		"/var/www/html/homepage2/downloads",
+		"/var/www/html/homepage2/downloads/pywebpw2013",
+		"/var/www/html/homepage2/downloads/pywebpw2013/html",
+		"/var/www/html/homepage2/template"
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
+		"/var/www/html/homepage2/css/homepage2.css",
+		"/var/www/html/homepage2/article/Pierce_det_descendant_report.html",
+		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/docs/admin.txt",
 		"/var/www/html/homepage2/map/norfolk.js",
 		"/var/www/html/homepage2/map/features.geojson",
@@ -859,7 +866,6 @@
 		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/map/norfolk.html",
 		"/var/www/html/homepage2/map/index.php",
-		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/map/map.html",
 		"/var/www/html/mapbox/stations.geojson",
 		"/media/jim/e30afc5d-9252-4931-a49d-3053589f21bd/Linux_Mint_17/jim/norfolk/norfolk.shp",
@@ -875,7 +881,6 @@
 		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
 		"/var/www/html/homepage2/template/index_l2.php",
 		"/var/www/html/homepage2/article/the-white-family-of-norfolk-county.php",
-		"/var/www/html/homepage2/css/homepage2.css",
 		"/home/jim/Desktop/obit.txt",
 		"/var/www/html/homepage2/article/white-manning-hodges-london-connection.php",
 		"/var/www/html/homepage2/article/Capt_Wm_Peirce.html",
@@ -975,9 +980,7 @@
 		"/var/www/html/tbas2_1/pages/unifrac.php",
 		"/var/www/html/tbas2_1/docs/cipres_iqtree.py",
 		"/home/jim/Desktop/Galaxy431-[out.txt].txt",
-		"/var/www/html/tbas2_1/docs/tbasseqio.py",
-		"/var/www/wsgi/decifr/static/js/msa_formatted.min.js",
-		"/home/jim/Desktop/galaxy/metadat-to-diploid/examples/metadata_host.csv"
+		"/var/www/html/tbas2_1/docs/tbasseqio.py"
 	],
 	"find":
 	{
@@ -995,6 +998,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"jimserver",
+			"http://jimserver.net/downloads",
+			"http://jimserver.net/graphics",
 			"sammy",
 			"\"id\":",
 			"metes_bounds",
@@ -1667,7 +1673,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 220.0,
+	"side_bar_width": 390.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
