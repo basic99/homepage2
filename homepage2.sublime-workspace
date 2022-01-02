@@ -846,19 +846,18 @@
 	"expanded_folders":
 	[
 		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/downloads",
-		"/var/www/html/homepage2/downloads/pywebpw2013",
-		"/var/www/html/homepage2/downloads/pywebpw2013/html",
-		"/var/www/html/homepage2/template"
+		"/var/www/html/homepage2/map"
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/map/norfolk.js",
+		"/var/www/html/homepage2/docs/admin.txt",
+		"/var/www/html/homepage2/article/pierce-southampton-records.php",
 		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
+		"/var/www/html/homepage2/article/pierce_southampton.php",
 		"/var/www/html/homepage2/css/homepage2.css",
 		"/var/www/html/homepage2/article/Pierce_det_descendant_report.html",
 		"/var/www/html/homepage2/menu.php",
-		"/var/www/html/homepage2/docs/admin.txt",
-		"/var/www/html/homepage2/map/norfolk.js",
 		"/var/www/html/homepage2/map/features.geojson",
 		"/home/jim/Desktop/us_states.geojson",
 		"/var/www/html/homepage2/map/norfolk.json",
@@ -978,9 +977,7 @@
 		"/var/www/html/tbas2_1/pages/tbas.ini",
 		"/var/www/html/tbas2_1/pages/archived_pages/upload_ajax.php",
 		"/var/www/html/tbas2_1/pages/unifrac.php",
-		"/var/www/html/tbas2_1/docs/cipres_iqtree.py",
-		"/home/jim/Desktop/Galaxy431-[out.txt].txt",
-		"/var/www/html/tbas2_1/docs/tbasseqio.py"
+		"/var/www/html/tbas2_1/docs/cipres_iqtree.py"
 	],
 	"find":
 	{
@@ -998,6 +995,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Willimas",
 			"jimserver",
 			"http://jimserver.net/downloads",
 			"http://jimserver.net/graphics",
@@ -1673,7 +1671,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 390.0,
+	"side_bar_width": 289.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
