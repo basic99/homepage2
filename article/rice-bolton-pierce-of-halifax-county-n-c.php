@@ -78,13 +78,14 @@ when ack. or proved - Nov. 10. 1768</blockquote>
 <p>Rice B Pierce and his son Matthew were both dead by May 1793 when a court order struck the name of Matthew Pierce for his share of the estate of RB Pierce. The estate of Rice Pierce in 1796 mentions Matthew Pierce, decd. The other children mentioned in the will and estate of <a href="http://jimserver.net/pierce-southampton-records/">Elizabeth Pierce </a>are Rice (or Bolton), Peter, Spencer, Nathaniel, Martha Cobb and Elizabeth Lewis. A <a href="http://jimserver.net/southampton-county-chancery-1794/">1794 chancery</a> suit gives a good overview of settlement of the Rice Bolton Pierce  estate.  Court of Southampton from Feb. 1793 the admin of the estate of Rice Pierce was granted to Michael Cobb and the record names Spencer Pierce as the eldest son of the decedent (Southampton MB 1793-99, p. 1).
 
 <p>Southampton County marriage records record the marriage of Spencer Pierce to Mary Calvert in 1793 and Rice B Pierce to Fanny Cook in 1809. Mary Calvert was a member of a seafaring family of Calverts from Norfolk County.
-<a id="sect2"></a>
 <h3>Early Pierces of Mulberry Island</h3>
-<img class="aligncenter" src="/img/pierce.png" alt="" width="601" height="260" />
+<figure class="figure">
+<img class="img-fluid" src="/img/pierce.png" alt="genealogy" /></figure>
 
 <p>There were 3 men named Pierce who lived on Mulberry Island in the first part of the seventeenth century, all probably related. The first was <a href="https://www.encyclopediavirginia.org/Peirce_William_d_btw_1645_and_1647">Captain William Pierce</a> (link to <a href="/downloads/pierce_genealogy.pdf">genealogy</a>) who arrived in Virginia in 1610 after departing England on the <em>Seaventure</em> and was dead by 1647. Thomas Pierce of Mulberry Island who lived there by 1638 was probably a relation and was described as a possible son of William Pierce in the footnote of the Peirce genealogy of Adventureres of Purse and Person died by 1665. Another Thomas Pierce who was described in the Pierce-Bennett genealogy of Adventurers of Purse and Person as "probably was a close connection of Captain William Pierce" died in Virginia in 1622, probably killed by the indians.
 
-<a href="/img/wm_pierce_england.jpg"><img class="" src="/img/wm_pierce_england.jpg" alt="engish record William Pierce" width="2250" height="2084" /></a> 1637. Acts of the Privy Council, Colonial Series, 1613-1680, p. 233.
+<figure class="figure">
+<a href="/img/wm_pierce_england.jpg"><img class="img-fluid" src="/img/wm_pierce_england.jpg" alt="engish record William Pierce" /></a><figcaption class="figure-caption text-center"> 1637. Acts of the Privy Council, Colonial Series, 1613-1680, p. 233.</figcaption></figure>
 
 <p>Although the only proved child of Capt. William Pierce was his daughter Joan, this record from England of 1637 indicates that he had several children at this time.
 
