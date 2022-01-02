@@ -29,13 +29,13 @@ include "../menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h2>Home</h2>
-    Text of <a href="http://thefamilywills.blogspot.com/2010/08/earliest-members-of-wills-family-of.html">http://thefamilywills.blogspot.com/2010/08/earliest-members-of-wills-family-of.html</a>
+    <h2>The Earliest Members of the Wills Family of Warwick County</h2>
+    <p>Text of <a href="http://thefamilywills.blogspot.com/2010/08/earliest-members-of-wills-family-of.html">http://thefamilywills.blogspot.com/2010/08/earliest-members-of-wills-family-of.html</a>
 
-The Earliest Members of the Wills Family of Warwick County
-This is a "Working Draft" written in September 1982 by Mr. Fred Eggleston of Silver Spring, MD. The Draft was revised in 1992. Mr. Eggleston also produced an excellent Chart of the likely connection of various Wills families to the immigrant Emanuel Wills and his wife Elizabeth Cole
+<p>The Earliest Members of the Wills Family of Warwick County
+<p>This is a "Working Draft" written in September 1982 by Mr. Fred Eggleston of Silver Spring, MD. The Draft was revised in 1992. Mr. Eggleston also produced an excellent Chart of the likely connection of various Wills families to the immigrant Emanuel Wills and his wife Elizabeth Cole
 
-Our immigrant ancestor, Emanuel WILLS (WELLS) came to Virginia from England. We are descendants from his son John, then William, then Matthew, etc.
+<p>Our immigrant ancestor, Emanuel WILLS (WELLS) came to Virginia from England. We are descendants from his son John, then William, then Matthew, etc.
 Among the 17th century settlers of Mulberry Isiand Parish in Warwick County, Virginia were members of the Wills family, whose descendants later spread to isle of Wight, Southampton, Surry, Amelia, Fluvanna, and other counties in the colony and state, and to North Carolina. The nearly complete destruction of Warwick County records during the Civil War and earlier has hampered efforts over the years to put together the early history of the family.(l) Sufficient pieces of the puzzle survive, nevertheless, to construct at least the begirining of an outline of the first three generations of the family in Virginia.
 The Virginia family can be traced with reasonable assurance to an Emanuel Wills who was living in London by the 1630's (.2) "Emanuell Willes" married Elizabeth Cole at London's St. Gregory by St. Paul's Parish on 13 October 1635.(3) in the poll tax of 1641, Emanuel was listed as a freeman of the cooper's company, residing in the east-side parish of St. Olave, Hart Street.(4) The baptism of seven children of Emanuell and Elizabeth Wills, and the burial (5) one, are recorded in the register of St. Olave, Hart Street for the following dates:
 
