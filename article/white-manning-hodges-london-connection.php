@@ -29,14 +29,14 @@ include "../menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h2>Home</h2>
-    In this article I consider records that show a possibility that Thomas White, John Manning, and Roger Hodges of Lower Norfolk County were immigrants from Westminster or the west end of London. The evidence is admittedly circumstantial. Many of the records that I show as possibly referring to someone in Virginia and England I'm sure refer to different people of the same name, but at least some of them might refer to the same person or at least a relative of the same name. Wills that support this article are another link on this site.
+    <h2>White, Manning, Hodges London Connection</h2>
+    <p>In this article I consider records that show a possibility that Thomas White, John Manning, and Roger Hodges of Lower Norfolk County were immigrants from Westminster or the west end of London. The evidence is admittedly circumstantial. Many of the records that I show as possibly referring to someone in Virginia and England I'm sure refer to different people of the same name, but at least some of them might refer to the same person or at least a relative of the same name. Wills that support this article are another link on this site.
 
-<img class="alignnone" src="http://jimserver.net/graphics/west_london-300x255.png" alt="" width="300" height="255" />
+<img class="img-fluid" src="/img/west_london-300x255.png" alt=""  />
 
-This map shows the location of parishes mentioned. St Martin in the Fields, St Margaret, and Clerkenwell are labelled.  St Clement Danes is #10 and St Andrew Holborn is # 31. St Brides is considered part of the City of London and does not appear on this map but is at the western edge of the city.
+<p>This map shows the location of parishes mentioned. St Martin in the Fields, St Margaret, and Clerkenwell are labelled.  St Clement Danes is #10 and St Andrew Holborn is # 31. St Brides is considered part of the City of London and does not appear on this map but is at the western edge of the city.
 
-I consider these 3 baptism records as possibly being the immigrants to Lower Norfolk:
+<p>I consider these 3 baptism records as possibly being the immigrants to Lower Norfolk:
 
 Thomas White, bapt 5 Feb 1597/8, Saint Martin in the Fields, Westminster
 John Manning S of Robert 13 Feb. 1616/7, Saint Clement Danes, Westminster
