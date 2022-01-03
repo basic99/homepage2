@@ -9,7 +9,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link href="css/homepage2.css" rel="stylesheet">
+    <link href="/css/homepage2.css" rel="stylesheet">
 
 
     <style>
@@ -19,17 +19,17 @@
   <body>
 
 <?php
-include "menu.php";
+include "../menu.php";
 ?>
 
   <div  class='marspic'>
-  <img src='img/mars_wp_hdr.png' />
+  <img src='/img/mars_wp_hdr.png' />
 </div>
 <main class="container">
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h1>Home</h1>
+    <h2>Home</h2>
 
 
 

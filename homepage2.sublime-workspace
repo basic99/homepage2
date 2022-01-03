@@ -845,15 +845,17 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/map"
+		"/var/www/html/homepage2"
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/genealogy.php",
+		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
+		"/var/www/html/homepage2/article/the-earliest-members-of-the-wills-family-of-warwick-county.php",
+		"/var/www/html/homepage2/article/southampton-county-chancery-1794.php",
 		"/var/www/html/homepage2/map/norfolk.js",
 		"/var/www/html/homepage2/docs/admin.txt",
 		"/var/www/html/homepage2/article/pierce-southampton-records.php",
-		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
 		"/var/www/html/homepage2/article/pierce_southampton.php",
 		"/var/www/html/homepage2/css/homepage2.css",
 		"/var/www/html/homepage2/article/Pierce_det_descendant_report.html",
@@ -874,7 +876,6 @@
 		"/home/jim/Desktop/mapsdev/norfolk/norfolk.shp",
 		"/var/norfolk_map/norfolk_1_15_15.sql",
 		"/var/www/html/homepage2/article/essex-manor-records.php",
-		"/var/www/html/homepage2/genealogy.php",
 		"/var/www/html/homepage2/article/notes-on-james-mcdaniel-white.php",
 		"/var/www/html/homepage2/article/john-ward-pension.php",
 		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
@@ -975,9 +976,7 @@
 		"/var/www/html/tbas2_1/pages/upload_utilities.php",
 		"/var/www/html/tbas2_1/pages/tbas_server.ini",
 		"/var/www/html/tbas2_1/pages/tbas.ini",
-		"/var/www/html/tbas2_1/pages/archived_pages/upload_ajax.php",
-		"/var/www/html/tbas2_1/pages/unifrac.php",
-		"/var/www/html/tbas2_1/docs/cipres_iqtree.py"
+		"/var/www/html/tbas2_1/pages/archived_pages/upload_ajax.php"
 	],
 	"find":
 	{
@@ -995,6 +994,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"alignnone",
 			"Willimas",
 			"jimserver",
 			"http://jimserver.net/downloads",
@@ -1671,7 +1671,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 289.0,
+	"side_bar_width": 343.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
