@@ -123,44 +123,44 @@ Decimal('0.862068965517241379310344827586206896551724137931034482758620689655172
 <p>Records show that he held the manor of Barham in Kent. The Barham family of Virginia, of which I am a descendant through the marriage of Thomas Moore and Mary Barham about 1738, is descended from Robert Barham of East Hall in the parish of Boughton Monchelsea in Kent. Genealogists differ on the relationship of the ancestors of the Barhams to Reginald FitzUrse, but agree that they were from branches of the same family.
 <hr>
 
-WEBMASTER FOR HUGUENOT-MANAKIN.ORG, PT. II
-JUNE 30, 2011
-I went to the national meeting for the Huguenot Society in Richmond at the start of June, and was introduced as the new webmaster. When I got back from the meeting Ann and I got to work copying about 50 pages from the old frames based site into the new template I created. By last weekend we had finished, and I made the change in the site configuration so that visitors will now see the newly redesigned site.
+<p>WEBMASTER FOR HUGUENOT-MANAKIN.ORG, PT. II
+<p>JUNE 30, 2011
+<p>I went to the national meeting for the Huguenot Society in Richmond at the start of June, and was introduced as the new webmaster. When I got back from the meeting Ann and I got to work copying about 50 pages from the old frames based site into the new template I created. By last weekend we had finished, and I made the change in the site configuration so that visitors will now see the newly redesigned site.
 
-After considering one of the various content management systems, I decided to create my own templates from html. This turned out to work fine, and I didn’t need to learn a new program that I might not need to use in the future. The template was written in html5, with some php, mostly to create separate files for the header, navigation section, etc. If you look at the site you might remark that it looks nice, but probably if you are a professional graphic designer it appears that the layout was not done by a professional.
+<p>After considering one of the various content management systems, I decided to create my own templates from html. This turned out to work fine, and I didn’t need to learn a new program that I might not need to use in the future. The template was written in html5, with some php, mostly to create separate files for the header, navigation section, etc. If you look at the site you might remark that it looks nice, but probably if you are a professional graphic designer it appears that the layout was not done by a professional.
 
-There were several books I found helpful in designing the site – a book about html5 , one about typography, and a book by Jeffrey Zeldman. Zeldman it seems is very influential in modern web design. I heard of him by attending the local web design meetup group.
+<p>There were several books I found helpful in designing the site – a book about html5 , one about typography, and a book by Jeffrey Zeldman. Zeldman it seems is very influential in modern web design. I heard of him by attending the local web design meetup group.
 
-I used parts of a template file from the web site html5 reset. If you are planning writing an html5 site I would recommend you look at the template. Among other things it resets all the attributes of the elements to zero or default. This can be helpful, but then you have to go out and find the browser defaults for all the elements and add them back in. At least you know what you have. A  program you will run into with html5 is modernizr. I didn’t use this for my site and if you are just starting you can get by using html5 shiv. They both fix Internet Explorer for html 5, but modernizr also detects what features are available in your browser.
+<p>I used parts of a template file from the web site html5 reset. If you are planning writing an html5 site I would recommend you look at the template. Among other things it resets all the attributes of the elements to zero or default. This can be helpful, but then you have to go out and find the browser defaults for all the elements and add them back in. At least you know what you have. A  program you will run into with html5 is modernizr. I didn’t use this for my site and if you are just starting you can get by using html5 shiv. They both fix Internet Explorer for html 5, but modernizr also detects what features are available in your browser.
 
+<hr>
+<p>WEBMASTER FOR HUGUENOT-MANAKIN.ORG
+<p>MARCH 7, 2011
+<p>I received an e-mail several months back from one of the officers of the Huguenot society that I have joined. Ann, the person who wrote me the e-mail asked if I would like to be the society webmaster. I wrote back and told her that I would be happy to do it, and now I get to travel to the society meeting this summer and be introduced to the executive committee.
 
-WEBMASTER FOR HUGUENOT-MANAKIN.ORG
-MARCH 7, 2011
-I received an e-mail several months back from one of the officers of the Huguenot society that I have joined. Ann, the person who wrote me the e-mail asked if I would like to be the society webmaster. I wrote back and told her that I would be happy to do it, and now I get to travel to the society meeting this summer and be introduced to the executive committee.
+<p>The society website has been written over the past 10 or so years using frames. I have decided that we need a new website design without the old frames based layout. This will involve in addition to redesign moving about 50 pages from the old site to the new site.
 
-The society website has been written over the past 10 or so years using frames. I have decided that we need a new website design without the old frames based layout. This will involve in addition to redesign moving about 50 pages from the old site to the new site.
+<p>So now I am considering how to redesign the site. I have been involved in web site design professionally for 5 years, but mainly involved in backend coding and database work. Now I have to decide how I am going to approach this new project. Should I write out all the web pages myself as templates and cut and paste the old content into that? If so do I use the old HTML/XHTML 4 or do I learn the new HTML 5 and use that?
 
-So now I am considering how to redesign the site. I have been involved in web site design professionally for 5 years, but mainly involved in backend coding and database work. Now I have to decide how I am going to approach this new project. Should I write out all the web pages myself as templates and cut and paste the old content into that? If so do I use the old HTML/XHTML 4 or do I learn the new HTML 5 and use that?
+<p>Aside from coding my own HTML, I can use a Content Management System (CMS). Evidently, there are 3 leading choices – Joomla, WordPress, and Drupal. I have some experience with WordPress, so if I go in this direction, that is probably what I shall choose.
 
-Aside from coding my own HTML, I can use a Content Management System (CMS). Evidently, there are 3 leading choices – Joomla, WordPress, and Drupal. I have some experience with WordPress, so if I go in this direction, that is probably what I shall choose.
+<hr>
+<p>MATH TRICKS
+<p>FEBRUARY 5, 2011
+<p>I have for the past couple of years enjoyed reading some about number theory or discrete math – I’m not sure exactly where the dividing line is between these 2 areas. Last night I watched Die Hard with a Vengeance, and there was a scene in it where Bruce and Samuel have to disarm a bomb in the water fountain by measuring 4 gallons of water and placing it on a scale using a 3 gallon and a 5 gallon jug. Somehow they eventually figured this out by pouring water back and forth between the jugs and disarmed the bomb. Very dramatic and a good way for movie stars to solve the problem.
 
+<p>I thought about this and wondered if a mathematician could do it differently. The solution to the problem  turns out to be to solve the equation 3*x is congruent to 4 (mod 5). Although such equations can be solved systematically for more complex cases, simple inspection shows the answer to be 3*3 is congruent to 4 (mod 5). Hence, Bruce and Samuel needed to fill the 3 gallon jug 3 times and pour it into the 5 gallon jug, and would end up with 4 gallons in the 5 gallon jug.
 
-MATH TRICKS
-FEBRUARY 5, 2011
-I have for the past couple of years enjoyed reading some about number theory or discrete math – I’m not sure exactly where the dividing line is between these 2 areas. Last night I watched Die Hard with a Vengeance, and there was a scene in it where Bruce and Samuel have to disarm a bomb in the water fountain by measuring 4 gallons of water and placing it on a scale using a 3 gallon and a 5 gallon jug. Somehow they eventually figured this out by pouring water back and forth between the jugs and disarmed the bomb. Very dramatic and a good way for movie stars to solve the problem.
+<hr>
+<p>12 DAYS OF CHRISTMAS
+<p>DECEMBER 26, 2010
+<p>Today is the day after Christmas and the start of the 12 days of Christmas between Christmas and Epiphany. I have in the past felt that all the trouble with what to buy for Christmas and braving the crowds was somewhat of a let down after 4 hours on Christmas morning. However, I am sure that we all enjoy our gifts and the buying of gifts is good for the economy also.
 
-I thought about this and wondered if a mathematician could do it differently. The solution to the problem  turns out to be to solve the equation 3*x is congruent to 4 (mod 5). Although such equations can be solved systematically for more complex cases, simple inspection shows the answer to be 3*3 is congruent to 4 (mod 5). Hence, Bruce and Samuel needed to fill the 3 gallon jug 3 times and pour it into the 5 gallon jug, and would end up with 4 gallons in the 5 gallon jug.
+<p>I have reread the part in my book Holidays and Holy Nights by Christopher Hill about the Epiphany. Evidently the 12 days has roots in  several sources in the ancient calendars. First, and most ancient is the 12 days that ancient calendars added to the year after 12 lunar months of 29 and a half days to make up a solar year. Second, and related was the actual difference between the Roman calendar and lunar calendar of the east, which in the first century resulted in Epiphany being established 12 days after the corresponding day in the Roman calendar.
 
+<p>So we can extend the Christmas spirit for 12 days to the day that is traditionally associated with the arrival of the magi bearing gifts for Jesus. This time is often associated with festivities of the return to time before the laws, and in the courts of 16th century of masks where people would disguise themselves in plays and dances.
 
-12 DAYS OF CHRISTMAS
-DECEMBER 26, 2010
-Today is the day after Christmas and the start of the 12 days of Christmas between Christmas and Epiphany. I have in the past felt that all the trouble with what to buy for Christmas and braving the crowds was somewhat of a let down after 4 hours on Christmas morning. However, I am sure that we all enjoy our gifts and the buying of gifts is good for the economy also.
-
-I have reread the part in my book Holidays and Holy Nights by Christopher Hill about the Epiphany. Evidently the 12 days has roots in  several sources in the ancient calendars. First, and most ancient is the 12 days that ancient calendars added to the year after 12 lunar months of 29 and a half days to make up a solar year. Second, and related was the actual difference between the Roman calendar and lunar calendar of the east, which in the first century resulted in Epiphany being established 12 days after the corresponding day in the Roman calendar.
-
-So we can extend the Christmas spirit for 12 days to the day that is traditionally associated with the arrival of the magi bearing gifts for Jesus. This time is often associated with festivities of the return to time before the laws, and in the courts of 16th century of masks where people would disguise themselves in plays and dances.
-
-The magi may have originally been priests of Zoroastrianism, but came to symbolised  by one white, one black, and one brown wise man  representing the the knowledge of all the world.
+<p>The magi may have originally been priests of Zoroastrianism, but came to symbolised  by one white, one black, and one brown wise man  representing the the knowledge of all the world.
 
 
 

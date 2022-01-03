@@ -845,10 +845,17 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2"
+		"/var/www/html/homepage2",
+		"/var/www/html/homepage2/template"
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/menu.php",
+		"/var/www/html/homepage2/blog/blog_2012.php",
+		"/var/www/html/homepage2/article/white-manning-hodges-london-connection.php",
+		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
+		"/var/www/html/homepage2/article/ancestry-of-william-white-clerk.php",
+		"/var/www/html/homepage2/article/the-merchant-taylors.php",
 		"/var/www/html/homepage2/genealogy.php",
 		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
 		"/var/www/html/homepage2/article/the-earliest-members-of-the-wills-family-of-warwick-county.php",
@@ -859,7 +866,6 @@
 		"/var/www/html/homepage2/article/pierce_southampton.php",
 		"/var/www/html/homepage2/css/homepage2.css",
 		"/var/www/html/homepage2/article/Pierce_det_descendant_report.html",
-		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/map/features.geojson",
 		"/home/jim/Desktop/us_states.geojson",
 		"/var/www/html/homepage2/map/norfolk.json",
@@ -878,11 +884,9 @@
 		"/var/www/html/homepage2/article/essex-manor-records.php",
 		"/var/www/html/homepage2/article/notes-on-james-mcdaniel-white.php",
 		"/var/www/html/homepage2/article/john-ward-pension.php",
-		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
 		"/var/www/html/homepage2/template/index_l2.php",
 		"/var/www/html/homepage2/article/the-white-family-of-norfolk-county.php",
 		"/home/jim/Desktop/obit.txt",
-		"/var/www/html/homepage2/article/white-manning-hodges-london-connection.php",
 		"/var/www/html/homepage2/article/Capt_Wm_Peirce.html",
 		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a.html",
 		"/home/jim/Desktop/41867d5c-6146-11ec-a980-0cc47a792c0a_id_41867d5c-6146-11ec-a980-0cc47a792c0a_files/background19.jpg",
@@ -973,10 +977,7 @@
 		"/var/www/html/tbas2_1/docs/remove_gaps.py",
 		"/var/www/html/tbas2_1/pages/upload_ajax_clade_structure.php",
 		"/var/www/html/tbas2_1/pages/unifrac_ajax.php",
-		"/var/www/html/tbas2_1/pages/upload_utilities.php",
-		"/var/www/html/tbas2_1/pages/tbas_server.ini",
-		"/var/www/html/tbas2_1/pages/tbas.ini",
-		"/var/www/html/tbas2_1/pages/archived_pages/upload_ajax.php"
+		"/var/www/html/tbas2_1/pages/upload_utilities.php"
 	],
 	"find":
 	{
@@ -991,9 +992,12 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			" EDIT",
+			"BLOGS",
+			"h1",
 			"alignnone",
 			"Willimas",
 			"jimserver",
@@ -1036,9 +1040,10 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
+			""
 		],
 		"reverse": false,
 		"show_context": false,
