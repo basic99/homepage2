@@ -29,7 +29,10 @@ include "../menu.php";
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h1>The Merchant Taylors</h1>
+    <h2>The Merchant Taylors</h2>
+     <div class="alert alert-warning" role="alert">
+      This is dated material and may contain errors.
+    </div>
     <p>In this article I describe possible connections to the Merchant Taylors' Company I found while while looking for Thomas White's origins. Thomas White first appeared in Lower Norfolk records as a headright with 5 other people, one of whom was named Wm. Spackford, in 1637/8. I believe that Spackford is a variant spelling of the name Sparchford and that this family is the same that lived in Saint Martin in the Fields, Westminster. Robert Sparchford in his will of 1591 named as his executor John White of St. Clement Danes, Tailor.
 
 <p>The Merchant Taylors' records of freedom admission go back to 1530 and are availble online (ParishRegister.com). Once a person was admitted to the company either by apprenticeship or otherwise he was known as a citizen of London. These records show that Robert Sparchford's father Thomas was admitted via apprenticeship with Thomas Pagett in 1546. Robert's brother Richard was admitted by patrimony in 1600.

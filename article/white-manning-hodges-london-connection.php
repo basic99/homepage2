@@ -31,6 +31,9 @@ include "../menu.php";
   <div class="col-md-2"></div>
   <div class="col-md-8">
     <h2>White, Manning, Hodges London Connection</h2>
+    <div class="alert alert-warning" role="alert">
+      This is dated material and may contain errors.
+    </div>
     <p>In this article I consider records that show a possibility that Thomas White, John Manning, and Roger Hodges of Lower Norfolk County were immigrants from Westminster or the west end of London. The evidence is admittedly circumstantial. Many of the records that I show as possibly referring to someone in Virginia and England I'm sure refer to different people of the same name, but at least some of them might refer to the same person or at least a relative of the same name. Wills that support this article are another link on this site.
       <br>
 

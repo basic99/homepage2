@@ -30,6 +30,9 @@ include "../menu.php";
   <div class="col-md-2"></div>
   <div class="col-md-8">
     <h2>Ancestry Of William White, Clerk</h2>
+     <div class="alert alert-warning" role="alert">
+      This is dated material and may contain errors.
+    </div>
     <p>William White Clerk died in York County, Virginia, in 1658. I used a record I found in the IGI to tentatively identify William White as being from Elworthy in Somerset. The will of Martha White, his widow, showed that he was the brother of Jeremiah White, minister. The fact that he was the brother of Jeremiah White has caused me to change his proposed ancestry to one that shows he was from Sempringham in Lincolnshire.
 
 <p>There is only one record in the university database for Jeremiah White:

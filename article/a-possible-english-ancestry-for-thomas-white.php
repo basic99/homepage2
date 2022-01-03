@@ -30,6 +30,9 @@ include "../menu.php";
   <div class="col-md-2"></div>
   <div class="col-md-8">
     <h2>A Possible English Ancestry for Thomas White</h2>
+     <div class="alert alert-warning" role="alert">
+      This is dated material and may contain errors.
+    </div>
     <!-- <h3 style='color: red;'>Results not in agreement with later research</h3> -->
 
 <p>Thomas White (1599-1665) was granted 450 acres in Lower Norfolk County with Peter Sexton on March 1653(Nugent 1:247). The grant was on the Southern Branch on the south side of Gaythers Creek. Just across Gaythers Creek was the land of Thomas Alexander, granted in 1665(Nugent 1:540).
