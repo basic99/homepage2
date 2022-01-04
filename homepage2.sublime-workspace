@@ -845,13 +845,12 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/template"
+		"/var/www/html/homepage2"
 	],
 	"file_history":
 	[
-		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/blog/blog_2012.php",
+		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/article/white-manning-hodges-london-connection.php",
 		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
 		"/var/www/html/homepage2/article/ancestry-of-william-white-clerk.php",
