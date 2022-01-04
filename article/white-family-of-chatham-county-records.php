@@ -34,6 +34,8 @@ include "../menu.php";
   <div class="col-md-8">
     <h2>White Family Of Chatham County Records</h2>
 
+    <p>John White found these records in a leather bound book at the house of his Aunt Clara in Chatham County before 1935.</p>
+
 <img class="img-fluid" src="/img/early_white.jpg" alt="book_pic" width="700px" />
 <img class="img-fluid" src="/img/page_ages.jpg" alt="book_pic" width="700px" />
 <img class="img-fluid" src="/img/page_two.jpg" alt="book_pic" width="700px" />
