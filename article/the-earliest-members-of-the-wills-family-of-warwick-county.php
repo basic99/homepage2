@@ -89,69 +89,69 @@ Elizabeth very shortly took a third husband, Captain Henry Jackson of Mulberry I
 11 This second Henry Jackson ieft a will in York County in 1673. York County, Va., Deeds, Wills, Orders, Etc. No. 5, 1672-1676, p. 53 (transcript, p. 106).<br>
 12 Robert Pyland was clerk of court for Wan•vick County in 1647, captain of militia by 1649, and deceased by 1672. Virainia Genealoaist, v. 1 (1974), pp. 55, 60; Nugent, op. cit., v. 2, p. 71; Henry Read Mcllwaine, ed., Minutes of the Council and General Court of Virainia (Richmond, 1924), p. 307.<br>
 13 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CM 47, 47a; see also William &amp; Marv Colleae Quarterlv Historical Maaazine, 2nd Ser., v. 5 (1924), p. 259.<br>
-14 Mcllwaine, Minutes of the Council, op. cit., p. 505; Virginia Maaazine of History &amp; Biography, v. 8 (1900), p. 164; John Frederick Dorman, Westmoreland Countv, Virainia Records. 1658-1661 (Washington, 1970), pp. 21, 65.
-15 Cynthia M. Leonard, comp., The General Assemblv of Virainia. Julv 30. 1619-Januarv 11. 1978 (Richmond, 1978), pp. 36, 40.
-16 Nugent, op. cit., v. 2, p. 56. Iken had previously married Grace Harwood, by October 1663. Virainia Genealoaist, v. 18(1974), p. 286.
-17 Mcllwaine, Minutes of the Council, op. cit., p. 213; William &amp; Mary Quarterly, Ist Series, v. 1 (1892), p. 93.
-18 Mcllwaine, Minutes of the Council, op. cit., p. 268.
-19 York County, Va., Deeds, Wills, and Orders No. 5, 1672-1676, p. 76 (transcript, p. 152). 20 Virainia Genealoaist, v. 21 (1977), p. 30.
-21 Nugent, op. cit., v. 2, pp. 177, 251, 348.
-22 Filmer Papers (microfilm), Virginia State Library, Miscellaneous Reel 428 (original in Filmer Archives, Kent Manuscript Office, England), transcribed in Peter Walne, "Henry Filmer ...," Va. Mag. of Hist. &amp; Biog., v 63 (1960), p. 424. Mr. Walne read this as John "Miles.'
-23 Nugent, op. cit., v. 2, p. 251.
-24 Louis des Cognets, Jr., English Duplicates of Lost Virainia Records (Princeton, N.J., 1958), p. 185.
-25 Mcllwaine, Minutes of the Council, op. cit., p. 514.
-26 Warwick County, Va., Court Orders, 1698, p. 213.
-27 Robert Hubbard was burgess for Warwick in 1692, 1697, and 1703, and sheriff in 1704. Leonard, op. cit., pp. 51, 57, 63; des Cognets, op. cit., p. 187.
-28 Filmer Papers, loc. cit.; transcribed as "Wells" by Mr. Walne, Va. Mag. of Hist. &amp; Biog., v. 58, p. 426.
-29 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library Accession Nos. 21,071, 22,057; Annie Lash Jester, Newport News, Virainia. 1607-1960 (1961), p. 28.
-30 Warwick County, Va., Court Minutes, 1698, p. 213.
-31 Des Cognets, op. cit., p. 185.
-32 Virginia H. Rollings, "Warwick County, Va. 1713 Rent Roll" (from the Blathwayt Papers, Colonial Williamsburg Foundation Library), Newport News Dailv Press Times Herald, 26 August and 16 September 1990.
-33 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CM 70; Warwick County, Va., Court Orders, 1699-1701, p. 300.
-34 Warwick County, Va., Court Orders, 1713-1714/5, p. 53.
-35 Rollings, loc. cit.
-36 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CM 83; John Frederick Dorman, ed., Adventurers of Purse and Person. Virainia. 1607-1624/5 (3rd ed.; Richmond, 1987), pp. 420-421. See also the 1699 will of Thomas Harwood in York County, Va., Deeds &amp; Wills No. 11, p. 345, and Wiliiam &amp; Mary Quarterly, 1 st Ser., v. 1 (1892), p. 96, which is notable for showing that Hannah's older sister Mary, untraced in standard accounts, evidently had married Rev. James Slater of Charles Parish, since Sclater and wife Mary appear in a group of legatees consisting of Elizabeth Scasbrook's children, nieces and nephew (with spouses) of Harwood's former wife Lydia, the other daughter of Mrs. Elizabeth Bushrod. This identification draws further support from Mary Sclater's will, mentioning cousin Martha Cary, and from some of the. records of the probate of John Scasbrook's estate, in which Rev. Sclater participated with other sons-in-law. See York County, Va., Wills No. 19, 1740-1746, p. 342; John Frederick Dorman, York County, Virginia, Deeds. Orders. Wills. Etc.. No. 8. 1687-1691. Part l(Washington, 1974), pp. 91-92; No. 10. Part 2 (Washington, 1980), p. 70; Part 3 (Washington, 1980), pp. 10-11.
-37 John Frederick Dorman, York Countv, Virginia Deeds. Wills. &amp; Orders No. 9. 1691-1694. Part I (Washington, 1975), p. 82.
-38 Va. Mag. of Hist. 8 Biog., v. 49 (1941), p. 307; Rollings, loc. cit.
-39 Warwick County, Va., Minute Bk. 1699-1701, p. 303; Va. Mag. of Hist. &amp; Biog., v. 1(1894), p. 232.
-40 Henry Read Mcllwaine, ed., Executive Journals of the Council of Virainia (6 v., Richmond, 1927-1930), v. 2, p. 135; v. 4, pp. 12, 34
-41 Leonard, op. cit., p. 67.
-42 Mcllwaine, Executive Journals, op. cit., v. 3, p. 380; v. 4, p. 285.
-43 Warwick County, Va., Court Orders, 1713-1714/5, p. 42.
-44 Des Cognets, op. cit., p. 40; Va. Mag. of Hist. &amp; Biog., v. 47 (1940), p. 151
-45 Warwick County, Va., Court Orders, 1713-1714/5, p. 67.
-46 Rollings, loc. cit.
+14 Mcllwaine, Minutes of the Council, op. cit., p. 505; Virginia Maaazine of History &amp; Biography, v. 8 (1900), p. 164; John Frederick Dorman, Westmoreland Countv, Virainia Records. 1658-1661 (Washington, 1970), pp. 21, 65.<br>
+15 Cynthia M. Leonard, comp., The General Assemblv of Virainia. Julv 30. 1619-Januarv 11. 1978 (Richmond, 1978), pp. 36, 40.<br>
+16 Nugent, op. cit., v. 2, p. 56. Iken had previously married Grace Harwood, by October 1663. Virainia Genealoaist, v. 18(1974), p. 286.<br>
+17 Mcllwaine, Minutes of the Council, op. cit., p. 213; William &amp; Mary Quarterly, Ist Series, v. 1 (1892), p. 93.<br>
+18 Mcllwaine, Minutes of the Council, op. cit., p. 268.<br>
+19 York County, Va., Deeds, Wills, and Orders No. 5, 1672-1676, p. 76 (transcript, p. 152). 20 Virainia Genealoaist, v. 21 (1977), p. 30.<br>
+21 Nugent, op. cit., v. 2, pp. 177, 251, 348.<br>
+22 Filmer Papers (microfilm), Virginia State Library, Miscellaneous Reel 428 (original in Filmer Archives, Kent Manuscript Office, England), transcribed in Peter Walne, "Henry Filmer ...," Va. Mag. of Hist. &amp; Biog., v 63 (1960), p. 424. Mr. Walne read this as John "Miles.'<br>
+23 Nugent, op. cit., v. 2, p. 251.<br>
+24 Louis des Cognets, Jr., English Duplicates of Lost Virainia Records (Princeton, N.J., 1958), p. 185.<br>
+25 Mcllwaine, Minutes of the Council, op. cit., p. 514.<br>
+26 Warwick County, Va., Court Orders, 1698, p. 213.<br>
+27 Robert Hubbard was burgess for Warwick in 1692, 1697, and 1703, and sheriff in 1704. Leonard, op. cit., pp. 51, 57, 63; des Cognets, op. cit., p. 187.<br>
+28 Filmer Papers, loc. cit.; transcribed as "Wells" by Mr. Walne, Va. Mag. of Hist. &amp; Biog., v. 58, p. 426.<br>
+29 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library Accession Nos. 21,071, 22,057; Annie Lash Jester, Newport News, Virainia. 1607-1960 (1961), p. 28.<br>
+30 Warwick County, Va., Court Minutes, 1698, p. 213.<br>
+31 Des Cognets, op. cit., p. 185.<br>
+32 Virginia H. Rollings, "Warwick County, Va. 1713 Rent Roll" (from the Blathwayt Papers, Colonial Williamsburg Foundation Library), Newport News Dailv Press Times Herald, 26 August and 16 September 1990.<br>
+33 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CM 70; Warwick County, Va., Court Orders, 1699-1701, p. 300.<br>
+34 Warwick County, Va., Court Orders, 1713-1714/5, p. 53.<br>
+35 Rollings, loc. cit.<br>
+36 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CM 83; John Frederick Dorman, ed., Adventurers of Purse and Person. Virainia. 1607-1624/5 (3rd ed.; Richmond, 1987), pp. 420-421. See also the 1699 will of Thomas Harwood in York County, Va., Deeds &amp; Wills No. 11, p. 345, and Wiliiam &amp; Mary Quarterly, 1 st Ser., v. 1 (1892), p. 96, which is notable for showing that Hannah's older sister Mary, untraced in standard accounts, evidently had married Rev. James Slater of Charles Parish, since Sclater and wife Mary appear in a group of legatees consisting of Elizabeth Scasbrook's children, nieces and nephew (with spouses) of Harwood's former wife Lydia, the other daughter of Mrs. Elizabeth Bushrod. This identification draws further support from Mary Sclater's will, mentioning cousin Martha Cary, and from some of the. records of the probate of John Scasbrook's estate, in which Rev. Sclater participated with other sons-in-law. See York County, Va., Wills No. 19, 1740-1746, p. 342; John Frederick Dorman, York County, Virginia, Deeds. Orders. Wills. Etc.. No. 8. 1687-1691. Part l(Washington, 1974), pp. 91-92; No. 10. Part 2 (Washington, 1980), p. 70; Part 3 (Washington, 1980), pp. 10-11.<br>
+37 John Frederick Dorman, York Countv, Virginia Deeds. Wills. &amp; Orders No. 9. 1691-1694. Part I (Washington, 1975), p. 82.<br>
+38 Va. Mag. of Hist. 8 Biog., v. 49 (1941), p. 307; Rollings, loc. cit.<br>
+39 Warwick County, Va., Minute Bk. 1699-1701, p. 303; Va. Mag. of Hist. &amp; Biog., v. 1(1894), p. 232.<br>
+40 Henry Read Mcllwaine, ed., Executive Journals of the Council of Virainia (6 v., Richmond, 1927-1930), v. 2, p. 135; v. 4, pp. 12, 34<br>
+41 Leonard, op. cit., p. 67.<br>
+42 Mcllwaine, Executive Journals, op. cit., v. 3, p. 380; v. 4, p. 285.<br>
+43 Warwick County, Va., Court Orders, 1713-1714/5, p. 42.<br>
+44 Des Cognets, op. cit., p. 40; Va. Mag. of Hist. &amp; Biog., v. 47 (1940), p. 151<br>
+45 Warwick County, Va., Court Orders, 1713-1714/5, p. 67.<br>
+46 Rollings, loc. cit.<br>
 47 Warwiick County, Va., Miscellaneous Court Papers, Virginia State Library, CM 83.
-48 Henry Read Mcllwaine, ed., Journals of the House of Burgesses of Virginia (13 v.; Richmond, 1905-1915), 1727-1734. 1736-1740, pp. 189, 285.
-49 Warwick County, Va., Court Orders, 1699-1701, p. 328.
-50 Lloyd DeWitt Bockstruck, Virginia's Colonial Soldiers (Baltimore, 1 988), p. 223.
-51 Rollings, loc. cit.
-52 York County, Va., Deeds &amp; Wills No. 15, p. 519.
-53 York County, Va., Deeds &amp; Bonds No. 2, 1701-1713, p. 178; No. 3, 17151729, pp. 368-370; Clyde F. Trudell, Colonial Yorktown (Richmond, 1 938), pp. 85 (illustration), 87. John Wills witnessed the 1721 deed selling the property.
-54 Warwick County, Va., Court Orders, 1728-1729, p. 366
-. 55 Mcllwaine, Journals of the House of Burgesses. 1727-1734. ..., op. cit., p. 285.
-56 The Emanuel Wills of the 1736 ferry application may have been the one who unsuccessfully opposed Matthew Wills's ferry application in 1742. Ibid., 1742-1749, pp. 17, 24, 31-32. The latter Emanuel was likely the one who had died before 6 April 1749, when his widow and administratrix (previously qualified) sued in court. Warwick County, Va., Court Minutes, 1747/8-1762, P. 20. One son, Lemuel, was still a minor in 1759, with Thomas Wills, Jr. acting as his guardian. Ibid., pp. 325, 406, 590, 606. (This was not the Thomas Wills, Jr. who was a son of John and Elizabeth (Roberts) Harwood Wills, as that Thomas Jr. had left a will in Warwiick proved in 1752. Ibid., p. 150.) The widow Angelica was still living on 6 November 1755. Ibid., p. 357. Her longevity and the age of the orphan could tend to argue that the Emanuel who died about 1748 may have been younger than Emanuel III, well established before the rent roll of 1704, would have been.
-57 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CMX 4; Dorman, Adventurers, op. cit., pp. 427-428.
-58 Warwick County, Va., Court Orders, 1699-1701, p. 342
-59 Bockstruck, op. cit., p. 223.
-60 Warwick County, Va., Court Orders, 1713-1714/5, p. 16
-61 Rollings, loc. cit.
-62 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CMX 13.
-63 Warwick County, Va., Court Orders, 1728-1729, p. 349.
-64 Des Cognets, op. cit., p. 180.
-65 William &amp; Mary Quarterly, lst Ser., v. 1 (1892), pp. 90-96; Landon C. Bell, Charles Parish, York Countv, Virginia. Historv and Registers (Richmond, 1 932), pp. 163, 241; Va. Mag. of Hist. &amp; Biog., v. ? (1894), pp. 233, 373; des Cognets, •L•i•, p. 5; York County, Va., Deeds, Wills, &amp; Orders No. 15, 1716-1720, p. 432.
-66 York County, Va., Deeds, Orders, Etc. No. 13, 1706-1710, p. 125; No. 14 1709-1716, p. 108.
-67 Ibid., No. 13, pp. 106, 107, 109, 200; No. 14, pp. 273, 480; Warwick County, Va., Court Orders, 1713-1714/5, pp. 17, 57.
-68 Calendar of Virainia State Papers, v. 1 (Richmond, 1875), p. 120.
+48 Henry Read Mcllwaine, ed., Journals of the House of Burgesses of Virginia (13 v.; Richmond, 1905-1915), 1727-1734. 1736-1740, pp. 189, 285.<br>
+49 Warwick County, Va., Court Orders, 1699-1701, p. 328.<br>
+50 Lloyd DeWitt Bockstruck, Virginia's Colonial Soldiers (Baltimore, 1 988), p. 223.<br>
+51 Rollings, loc. cit.<br>
+52 York County, Va., Deeds &amp; Wills No. 15, p. 519.<br>
+53 York County, Va., Deeds &amp; Bonds No. 2, 1701-1713, p. 178; No. 3, 17151729, pp. 368-370; Clyde F. Trudell, Colonial Yorktown (Richmond, 1 938), pp. 85 (illustration), 87. John Wills witnessed the 1721 deed selling the property.<br>
+54 Warwick County, Va., Court Orders, 1728-1729, p. 366<br>
+55 Mcllwaine, Journals of the House of Burgesses. 1727-1734. ..., op. cit., p. 285.<br>
+56 The Emanuel Wills of the 1736 ferry application may have been the one who unsuccessfully opposed Matthew Wills's ferry application in 1742. Ibid., 1742-1749, pp. 17, 24, 31-32. The latter Emanuel was likely the one who had died before 6 April 1749, when his widow and administratrix (previously qualified) sued in court. Warwick County, Va., Court Minutes, 1747/8-1762, P. 20. One son, Lemuel, was still a minor in 1759, with Thomas Wills, Jr. acting as his guardian. Ibid., pp. 325, 406, 590, 606. (This was not the Thomas Wills, Jr. who was a son of John and Elizabeth (Roberts) Harwood Wills, as that Thomas Jr. had left a will in Warwiick proved in 1752. Ibid., p. 150.) The widow Angelica was still living on 6 November 1755. Ibid., p. 357. Her longevity and the age of the orphan could tend to argue that the Emanuel who died about 1748 may have been younger than Emanuel III, well established before the rent roll of 1704, would have been.<br>
+57 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CMX 4; Dorman, Adventurers, op. cit., pp. 427-428.<br>
+58 Warwick County, Va., Court Orders, 1699-1701, p. 342<br>
+59 Bockstruck, op. cit., p. 223.<br>
+60 Warwick County, Va., Court Orders, 1713-1714/5, p. 16<br>
+61 Rollings, loc. cit.<br>
+62 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CMX 13.<br>
+63 Warwick County, Va., Court Orders, 1728-1729, p. 349.<br>
+64 Des Cognets, op. cit., p. 180.<br>
+65 William &amp; Mary Quarterly, lst Ser., v. 1 (1892), pp. 90-96; Landon C. Bell, Charles Parish, York Countv, Virginia. Historv and Registers (Richmond, 1 932), pp. 163, 241; Va. Mag. of Hist. &amp; Biog., v. ? (1894), pp. 233, 373; des Cognets, •L•i•, p. 5; York County, Va., Deeds, Wills, &amp; Orders No. 15, 1716-1720, p. 432.<br>
+66 York County, Va., Deeds, Orders, Etc. No. 13, 1706-1710, p. 125; No. 14 1709-1716, p. 108.<br>
+67 Ibid., No. 13, pp. 106, 107, 109, 200; No. 14, pp. 273, 480; Warwick County, Va., Court Orders, 1713-1714/5, pp. 17, 57.<br>
+68 Calendar of Virainia State Papers, v. 1 (Richmond, 1875), p. 120.<br>
 69 York County, Va., Orders, Wills, Etc. No. 14, 1709-1716, p. 16
-. 70 Bell, op. cit., pp. 193-195.
+. 70 Bell, op. cit., pp. 193-195.<br>
 71 Rollings, loc. cit
-72 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CMX 13.
-73 Virginia Land Patent Bk. 10, p. 253.
-74 York County, Va., Deeds &amp; Bonds No. 3, 1715-1729, pp. 252-253, 381-383.
-75 York County, Va., Deeds, Orders, Etc. No. 14, p. 270.
-76 York County, Va., Deeds &amp; Bonds No. 4, 1729-1740, p. 539.
-77 The Warwick justices in order of listing were Thomas Wills the Elder, Matthew Wills, and Thomas Wills, Jr. Warwick County, Va., Court Minutes, 1747/8-1762, p. 35. A fourth, John Wills, then served in the same capacity in Isle of Wight County. McIlwaine, Executive Journals, op. cit., v. 5, pp. 92, 293.
+72 Warwick County, Va., Miscellaneous Court Papers, Virginia State Library, CMX 13.<br>
+73 Virginia Land Patent Bk. 10, p. 253.<br>
+74 York County, Va., Deeds &amp; Bonds No. 3, 1715-1729, pp. 252-253, 381-383.<br>
+75 York County, Va., Deeds, Orders, Etc. No. 14, p. 270.<br>
+76 York County, Va., Deeds &amp; Bonds No. 4, 1729-1740, p. 539.<br>
+77 The Warwick justices in order of listing were Thomas Wills the Elder, Matthew Wills, and Thomas Wills, Jr. Warwick County, Va., Court Minutes, 1747/8-1762, p. 35. A fourth, John Wills, then served in the same capacity in Isle of Wight County. McIlwaine, Executive Journals, op. cit., v. 5, pp. 92, 293.<br>
 78 One will from the fourth generation in Warvick, that of Thomas Wills the Elder, has survived in the form of a copy among the papers from a York County chancery suit between the administrators of his son and son-in-law, John Wills and William Wills. Wills' administrator vs. Wills' administrator, York County Common Law Papers and Chancery Papers, 1794, Virginia State Library.
 
 
