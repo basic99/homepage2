@@ -548,6 +548,10 @@
 		"selected_items":
 		[
 			[
+				"l",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
 				"live",
 				"LiveReload: Enable/disable plug-ins"
 			],
@@ -849,7 +853,9 @@
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/article/the-case-for-thomas-white-of-essex.php",
 		"/var/www/html/homepage2/article/whites-of-essex-england.php",
+		"/var/www/html/homepage2/article/london-wills.php",
 		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
 		"/var/www/html/homepage2/article/pierce-of-york-county.php",
@@ -974,9 +980,7 @@
 		"/var/www/html/tbas2_1/docs/tests/reroot/bug_report.txt",
 		"/var/www/html/tbas2_1/docs/tests/reroot/phyloxml1_frgxm_gr.xml",
 		"/usr/local/FigTree_v1.4.4/README.txt",
-		"/home/jim/Desktop/XUG26ZF3_dnld1606.nex",
-		"/var/www/html/tbas2_1/seq_concat_link.php",
-		"/var/www/html/tbas2_1/js/make_dnld_nexus.js"
+		"/home/jim/Desktop/XUG26ZF3_dnld1606.nex"
 	],
 	"find":
 	{
@@ -994,6 +998,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"http://jimserver.net/london-wills",
+			"title=\"London Wills\"",
+			"http://jimserver.net",
+			"http://jimserver.net/london-wills",
+			"#+",
 			"http://jimserver.net/graphics/",
 			"http://jimserver.net/graphics",
 			"graphics",
@@ -1060,6 +1069,9 @@
 		"regex": true,
 		"replace_history":
 		[
+			"/article/london-wills.php",
+			"<hr>",
+			"\\n<hr>",
 			"/img/",
 			"<hr>",
 			"",
