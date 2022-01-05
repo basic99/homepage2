@@ -32,10 +32,10 @@ include "../menu.php";
     <h2>Whites of Essex, England</h2>
     <p>This research on the origins of Thomas White started with 2 pieces of information. The first is that he deposed in Lower Norfolk County in 1657 that he was 58 years old. The second is the record of Ralph White of London who appeared in Lower Norfolk records in 1656. I have paid for research in London and Essex and have 4 pages I wrote while doing the research, and having finished for the time I decided to summarize the main results and most important findings that point to the possible origins of Thomas White in Essex, England.
 
-<p><a title="The Case for Thomas White of Essex" href="http://jimserver.net/the-case-for-thomas-white-of-essex/">The Case for Thomas White of Essex</a>
-<p><a title="The Llewelen Connection" href="http://jimserver.net/the-llewelen-connection/">The Llewelen Connection</a>
-<p><a title="Essex Connections" href="http://jimserver.net/essex-connections/">Essex Connections</a>
-<p><a title="Culpepper Connection" href="http://jimserver.net/culpepper-connection/">Culpepper Connection</a>
+<p><a  href="/article/the-case-for-thomas-white-of-essex.php">The Case for Thomas White of Essex</a>
+<p><a  href="/article/the-llewelen-connection.php">The Llewelen Connection</a>
+<p><a  href="/article/essex-connections.php">Essex Connections</a>
+<p><a  href="/article/culpepper-connection.php">Culpepper Connection</a>
 
 <p>Luckily Ralph White is not as common name as say John White, so I found only 4-5 of this name who could be the one in the record in Virginia. I decided that the most likely was <a href="/article/london-wills.php/#ralphwhite">Ralph White</a>, grocer of Stepney, who left a will dated 1661. There are 2 clues in his will that suggest this. First is that he named Alexander Harwood citizen and mercer of London as his executor. This same Alexander Harwood was also named the executor of the will of "<a href="/article/london-wills.php/#harwood">Arthur Harwod</a> of the Island of Virginia, now resident in the parish of St. Peter ad Vincula" in 1642.
 
