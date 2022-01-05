@@ -845,22 +845,26 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/template"
+		"/var/www/html/homepage2"
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/article/whites-of-essex-england.php",
+		"/var/www/html/homepage2/menu.php",
+		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
+		"/var/www/html/homepage2/article/pierce-of-york-county.php",
+		"/var/www/html/homepage2/article/the-earliest-members-of-the-wills-family-of-warwick-county.php",
+		"/var/www/html/homepage2/article/white-family-of-chatham-county-records.php",
+		"/var/www/html/homepage2/genealogy.php",
+		"/var/www/html/homepage2/blog/reading-list-2017.php",
+		"/var/www/html/homepage2/blog/reading-list-2013.php",
 		"/var/www/html/homepage2/blog/reading-list-2012.php",
 		"/var/www/html/homepage2/blog/reading-list-2010.php",
 		"/var/www/html/homepage2/blog/blog_2012.php",
-		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/article/white-manning-hodges-london-connection.php",
 		"/var/www/html/homepage2/article/a-possible-english-ancestry-for-thomas-white.php",
 		"/var/www/html/homepage2/article/ancestry-of-william-white-clerk.php",
 		"/var/www/html/homepage2/article/the-merchant-taylors.php",
-		"/var/www/html/homepage2/genealogy.php",
-		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
-		"/var/www/html/homepage2/article/the-earliest-members-of-the-wills-family-of-warwick-county.php",
 		"/var/www/html/homepage2/article/southampton-county-chancery-1794.php",
 		"/var/www/html/homepage2/map/norfolk.js",
 		"/var/www/html/homepage2/docs/admin.txt",
@@ -972,12 +976,7 @@
 		"/usr/local/FigTree_v1.4.4/README.txt",
 		"/home/jim/Desktop/XUG26ZF3_dnld1606.nex",
 		"/var/www/html/tbas2_1/seq_concat_link.php",
-		"/var/www/html/tbas2_1/js/make_dnld_nexus.js",
-		"/var/www/html/tbas2_1/show_seq_concat.php",
-		"/var/www/html/tbas2_1/js/funcs_final.js",
-		"/home/jim/Desktop/rogers_records/names_in_wil.txt",
-		"/var/www/html/tbas2_1/docs/remove_gaps.py",
-		"/var/www/html/tbas2_1/pages/upload_ajax_clade_structure.php"
+		"/var/www/html/tbas2_1/js/make_dnld_nexus.js"
 	],
 	"find":
 	{
@@ -995,6 +994,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"http://jimserver.net/graphics/",
+			"http://jimserver.net/graphics",
+			"graphics",
+			"<p>READING LIST",
+			"^<p>$",
+			"^",
+			"<p>READING LIST",
+			"^<p>$",
+			"^",
+			"<p>READING LIST",
+			"^<p>$",
+			"^",
 			"<p>READING LIST",
 			"^<p>$",
 			"^",
@@ -1049,6 +1060,16 @@
 		"regex": true,
 		"replace_history":
 		[
+			"/img/",
+			"<hr>",
+			"",
+			"<p>",
+			"<hr>",
+			"",
+			"<p>",
+			"<hr>",
+			"",
+			"<p>",
 			"",
 			"<p>",
 			"",
@@ -1686,7 +1707,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 343.0,
+	"side_bar_width": 280.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
