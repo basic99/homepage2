@@ -849,7 +849,8 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2"
+		"/var/www/html/homepage2",
+		"/var/www/html/homepage2/article"
 	],
 	"file_history":
 	[
@@ -998,6 +999,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"london-wills.php/",
 			"http://jimserver.net/london-wills",
 			"title=\"London Wills\"",
 			"http://jimserver.net",
@@ -1069,6 +1071,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"london-wills.php",
 			"/article/london-wills.php",
 			"<hr>",
 			"\\n<hr>",
@@ -1697,7 +1700,7 @@
 		[
 			[
 				"",
-				"/var/www/wsgi/decifr/decifr.sublime-project"
+				"/var/www/docker/tbas2/docker_tbas2.sublime-project"
 			]
 		],
 		"width": 381.0
