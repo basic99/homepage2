@@ -46,7 +46,7 @@ Richard Ward, son of Enoch Ward, baptized 1 Oct 1609, Litlington, Cambridgeshire
 
 <p>The records show that Richard Ward was not Seth Ward's son but his brother.
 
-<p>Transcription of the will of<a title="Seth Ward Will" href="http://jimserver.net/seth-ward-will/"> Seth Ward</a> of Abbington, probable grandfather of Richard and Seth of Virginia. In it he names his son Enosh or Enos, which is different than the name seen in Virginia, which is Enoch. However, I still think that the names are similar enough to think that Enoch of North Carolina was named for Enosh of England.
+<p>Transcription of the will of<a  href="/article/seth-ward-will.php"> Seth Ward</a> of Abbington, probable grandfather of Richard and Seth of Virginia. In it he names his son Enosh or Enos, which is different than the name seen in Virginia, which is Enoch. However, I still think that the names are similar enough to think that Enoch of North Carolina was named for Enosh of England.
 
 <p>Benjamin Ward of Granville County, was a descendant of Richard Ward the immigrant, but his exact line is still  uncertain. The blog <a href="http://ancestorsofvirginia.blogspot.com/2011/07/richarad-ward-1692-1761-of-henrico.html">Ancestors of Virginia</a> has some records that could help making this connection.
 
