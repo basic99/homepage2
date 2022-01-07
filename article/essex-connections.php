@@ -88,48 +88,49 @@ William Whyte - High Easter
 
 <p>Robert White of South Weald named 2 children Benet and Lawrence in the 1540s, and Robert White of South Weald the testator of 1563 had his will witnessed by John Greene, Lawrence Greene, and Giles Greene. A search of the 1524/5 lay subsidy rolls for the name Greene in the area between South Weald and Shelley shows these names.
 
-John Grene - Blackmore
-Richard Grene Snr - Navestock
-Richard Grene Jnr - Navestock
+<p>John Grene - Blackmore<br>
+Richard Grene Snr - Navestock<br>
+Richard Grene Jnr - Navestock<br>
 Thomas Grene - Stanford Rivers
 
-The will of Thomas Greene, cutler, made bequests of land in Navestock and Stanford Rivers, so those 3 entries must all relate to the same family. The one from Blackmore might be a different family. Since there were no entries in South Weald and the Greenes of Navestock lived in the area by 1625 it is probable that the Whites of South Weald and the Greenes of Navestock and Stanford Rivers were related.
+<p>The will of Thomas Greene, cutler, made bequests of land in Navestock and Stanford Rivers, so those 3 entries must all relate to the same family. The one from Blackmore might be a different family. Since there were no entries in South Weald and the Greenes of Navestock lived in the area by 1625 it is probable that the Whites of South Weald and the Greenes of Navestock and Stanford Rivers were related.
 
-Lawrence Greene, grocer, in records of 1618/1620/1624 was one of the “Adventurers to Virginia” investing 37 pounds 10 shillings [Records of the Virginia Company, ed. Susan Kingsbury]. In 1615 a petition of the parishioners of St. Stephens Walbrook included Reginald Greene, cutler, and Lawrence Greene, grocer [Trans. London &amp; Middlesex Arch. Soc, v.5, p. 338]. The wills of  <a href="/article/london-wills/#reg_greene">Reginald Greene</a> Citizen and Cutler of London, dated 1624, and Thomas Greene, cutler of London, dated 1616 [PCC] show the connection between the Greenes of Navestock and Shelley and Lawrence Greene, grocer. In the will of Reginald Greene he mentioned his brother Lawrence Greene and “Edward Greene son of my brother Robert Greene deceased student in Cambridge.” He also left five pounds to the poor of the parish of Navestock in Essex. The will of Thomas Greene, cutler,  shows that Lawrence Greene, grocer, was his former wife’s brother, and that Thomas Greene was born in Navestock and Reginald was his brother. He also mentioned the parish of Saint Magnus the Martyr (London) as did the will of Lawrence Greene, cutler, dated 1580 [PCC]. The following parish records are useful for constructing the Greene tree:
+<p>Lawrence Greene, grocer, in records of 1618/1620/1624 was one of the “Adventurers to Virginia” investing 37 pounds 10 shillings [Records of the Virginia Company, ed. Susan Kingsbury]. In 1615 a petition of the parishioners of St. Stephens Walbrook included Reginald Greene, cutler, and Lawrence Greene, grocer [Trans. London &amp; Middlesex Arch. Soc, v.5, p. 338]. The wills of  <a href="/article/london-wills/#reg_greene">Reginald Greene</a> Citizen and Cutler of London, dated 1624, and Thomas Greene, cutler of London, dated 1616 [PCC] show the connection between the Greenes of Navestock and Shelley and Lawrence Greene, grocer. In the will of Reginald Greene he mentioned his brother Lawrence Greene and “Edward Greene son of my brother Robert Greene deceased student in Cambridge.” He also left five pounds to the poor of the parish of Navestock in Essex. The will of Thomas Greene, cutler,  shows that Lawrence Greene, grocer, was his former wife’s brother, and that Thomas Greene was born in Navestock and Reginald was his brother. He also mentioned the parish of Saint Magnus the Martyr (London) as did the will of Lawrence Greene, cutler, dated 1580 [PCC]. The following parish records are useful for constructing the Greene tree:
 
-St. Magnus the Martyr (start 1557):
-1561 - Jane, d. Lawrence Greene christened
-1562, 1563, 1565 - more children of Lawrence Greene
-1573 - Elizabeth, d. Lawrence Greene christened
-1575 - Agnes, d. Lawrence Greene christened
-5 April 1570 - Thomas Greene and Margaret Greene married
-2 Nov 1572 - Lawrence Greene and Agnes Elsam married
-21 Sept 1581 - John Spencer and Margaret Greene, widow, married
+<p>St. Magnus the Martyr (start 1557):<br>
+1561 - Jane, d. Lawrence Greene christened<br>
+1562, 1563, 1565 - more children of Lawrence Greene<br>
+1573 - Elizabeth, d. Lawrence Greene christened<br>
+1575 - Agnes, d. Lawrence Greene christened<br>
+5 April 1570 - Thomas Greene and Margaret Greene married<br>
+2 Nov 1572 - Lawrence Greene and Agnes Elsam married<br>
+21 Sept 1581 - John Spencer and Margaret Greene, widow, married<br>
 25 Oct 1580 - Lawrence Greene buried
 
-Saint Stephen's Walbrook (start 1557)
-19 July 1585 Renold Greene and Christian Spencer married
-3 Apr 1597 Lawrence Greene s. Lawrence Greene christened
-29 Nov 1598 Margeret Greene d. Thomas Greene christened
-10 July 1600 Bennite Greene d. Lawrence Greene christened
-6 Jan 1601/2 Henry Grene s. Laurance Greene christened
-31 Aug 1603 John Greene s. Laurance Greene, marchant, christened
-9 July 1616 Richard Luke of St. Johns in Walbrooke and Mary Greene, of this parish, widow, married
-30 Nove 1620 Edward Brumley and Bennet Greene married
+<p>Saint Stephen's Walbrook (start 1557)<br>
+19 July 1585 Renold Greene and Christian Spencer married<br>
+3 Apr 1597 Lawrence Greene s. Lawrence Greene christened<br>
+29 Nov 1598 Margeret Greene d. Thomas Greene christened<br>
+10 July 1600 Bennite Greene d. Lawrence Greene christened<br>
+6 Jan 1601/2 Henry Grene s. Laurance Greene christened<br>
+31 Aug 1603 John Greene s. Laurance Greene, marchant, christened<br>
+9 July 1616 Richard Luke of St. Johns in Walbrooke and Mary Greene, of this parish, widow, married<br>
+30 Nove 1620 Edward Brumley and Bennet Greene married<br>
 
-The christening of Lawrence Greene, grocer was not located in records of St. Magnus. Since his sister Margeret was married to Thomas Greene in 1570, then it seems that he was born before the register starts and was the same who was married in 1572. The burial date for Lawrence Greene of 1580 and marriage of Margaret Greene widow in 1581 matches the 1580 will of Lawrence Greene[PCC], citizen and cutler, who named his wife Margaret, sons Lawrence, Thomas and John and 4 unamed daughters.
+<p>The christening of Lawrence Greene, grocer was not located in records of St. Magnus. Since his sister Margeret was married to Thomas Greene in 1570, then it seems that he was born before the register starts and was the same who was married in 1572. The burial date for Lawrence Greene of 1580 and marriage of Margaret Greene widow in 1581 matches the 1580 will of Lawrence Greene[PCC], citizen and cutler, who named his wife Margaret, sons Lawrence, Thomas and John and 4 unamed daughters.
 
 &nbsp;
+<figure class="figure">
+<img class="img-fluid" src="/img/greene_tree.png" alt="Greene tree"  />
+</figure>
 
-<a href="/img/greene_tree.png"><img class="aligncenter" src="/img/greene_tree.png" alt="Greene tree" width="1106" height="607" /></a>
-
-The list of wardens (governing members of a company) of the Grocers Company list Laurence Greene in 1614 and as nominated but excused in 1621. The connections with overseas trade and the Grocers Company and Ralph White’s membership in the company make his involvement in overseas trade seem more likely. Also, Thomas Alexander a neighbor of the White family in Lower Norfolk county was a member of the Grocers Company.
+<p>The list of wardens (governing members of a company) of the Grocers Company list Laurence Greene in 1614 and as nominated but excused in 1621. The connections with overseas trade and the Grocers Company and Ralph White’s membership in the company make his involvement in overseas trade seem more likely. Also, Thomas Alexander a neighbor of the White family in Lower Norfolk county was a member of the Grocers Company.
 <blockquote>Petition of Lawrence Greene merchant, to the Lords of the Privy Council, October 7, 1641 – Being a trader to Virginia and having twenty four servants there and twenty others to go this present voyage in the Mayflower prays for a warrant for transporting said twenty passengers and provisions in the annexed schedule free of custom &amp; other duties. [Virg. Hist. Mag. v. 17, p. 17]</blockquote>
 This record probably refers to his son, <a href="/article/london-wills/#lawrence_greene_1650">Lawrence Greene</a>, merchant. born 1597, who left a will dated 1650. As he names his sister Bennet Brumley, he was the same baptised at Saint Stephens. He named his mother Margaret, so it appears that Lawrence Green, grocer was married second to Margaret.
 
-The entry for Edward Greene in the university database indicates that he was probably the same who was rector of Shelley from 1628-50-. Thomas White's father Humfrey died in 1632, and as a younger son he would have had little inheritance. It is easy to imagine him attending church at Shelley at this time and listening to Edward Greene, nephew of a contributor to the Virginia Company, talk of going to the new world and deciding to go. Perhaps he was one of the 24 servants that Lawrence Greene transported to Virginia before 1641.
+<p>The entry for Edward Greene in the university database indicates that he was probably the same who was rector of Shelley from 1628-50-. Thomas White's father Humfrey died in 1632, and as a younger son he would have had little inheritance. It is easy to imagine him attending church at Shelley at this time and listening to Edward Greene, nephew of a contributor to the Virginia Company, talk of going to the new world and deciding to go. Perhaps he was one of the 24 servants that Lawrence Greene transported to Virginia before 1641.
 
-A search of Virginia records for Lawrence Greene found no records in the seventeenth century. The earliest record was as a headright in 1714. The land grant to Richard Flewellin was for 278 acres in Charles City County adjacent Mr. Drury Stith and Wm. Featherstone. The list of headrights in addition to Lawrence Greene were Stephen Noel, John Pain, John Lett, Daniel Collings, and John Hammond. Many of these names are familiar to this research, e.g. the previously mentioned connection with the Lewellin family, the headright of Ralph White to John Stith, the marriage of Jane Greene to (Raph?) Fetherstone, the John Payne who was witness to the will of Robert White in 1563 along with Lawrence Greene, and lastly John Hammond, the same last name as Christopher Hammond who was a headright with Thomas White in Lower Nofolk.
+<p>A search of Virginia records for Lawrence Greene found no records in the seventeenth century. The earliest record was as a headright in 1714. The land grant to Richard Flewellin was for 278 acres in Charles City County adjacent Mr. Drury Stith and Wm. Featherstone. The list of headrights in addition to Lawrence Greene were Stephen Noel, John Pain, John Lett, Daniel Collings, and John Hammond. Many of these names are familiar to this research, e.g. the previously mentioned connection with the Lewellin family, the headright of Ralph White to John Stith, the marriage of Jane Greene to (Raph?) Fetherstone, the John Payne who was witness to the will of Robert White in 1563 along with Lawrence Greene, and lastly John Hammond, the same last name as Christopher Hammond who was a headright with Thomas White in Lower Nofolk.
 
 
 
