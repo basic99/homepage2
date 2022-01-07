@@ -519,24 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "article/essex-connections.php",
-			"settings":
-			{
-				"buffer_size": 14891,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "article/rice-bolton-pierce-of-halifax-county-n-c.php",
-			"settings":
-			{
-				"buffer_size": 21749,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -873,6 +855,7 @@
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/article/essex-connections.php",
 		"/var/www/html/homepage2/article/the-llewelen-connection.php",
 		"/var/www/html/homepage2/article/culpepper-connection.php",
 		"/var/www/html/homepage2/article/whites-of-essex-england.php",
@@ -999,8 +982,7 @@
 		"/var/www/html/tbas2_1/docs/tests/reroot/ete3_test.nwk",
 		"/var/www/html/tbas2_1/docs/tests/reroot/Lecanoraceae.treefile.TBAS_fauxroot.tre",
 		"/var/www/html/tbas2_1/docs/tests/reroot/stamatokis.nwk",
-		"/var/www/html/tbas2_1/docs/tests/reroot/stamatokis.py",
-		"/var/www/html/tbas2_1/docs/tests/reroot/tree_unrooted.txt"
+		"/var/www/html/tbas2_1/docs/tests/reroot/stamatokis.py"
 	],
 	"find":
 	{
@@ -1018,6 +1000,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"london-wills/",
 			"alignnon",
 			"alignnone",
 			"http://jimserver.net/",
@@ -1100,6 +1083,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"london-wills.php",
 			"img-fluid",
 			"/img",
 			"<br>",
@@ -1133,70 +1117,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "article/essex-connections.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14891,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								827,
-								827
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 327.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "article/rice-bolton-pierce-of-halifax-county-n-c.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 21749,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1497,
-								1497
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 162.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
