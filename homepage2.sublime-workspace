@@ -548,11 +548,11 @@
 		"selected_items":
 		[
 			[
-				"l",
+				"live",
 				"LiveReload: Enable/disable plug-ins"
 			],
 			[
-				"live",
+				"l",
 				"LiveReload: Enable/disable plug-ins"
 			],
 			[
@@ -850,14 +850,20 @@
 	"expanded_folders":
 	[
 		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/article"
+		"/var/www/html/homepage2/article",
+		"/var/www/html/homepage2/template"
 	],
 	"file_history":
 	[
-		"/var/www/html/homepage2/article/the-case-for-thomas-white-of-essex.php",
 		"/var/www/html/homepage2/article/whites-of-essex-england.php",
-		"/var/www/html/homepage2/article/london-wills.php",
 		"/var/www/html/homepage2/menu.php",
+		"/var/www/html/homepage2/article/english-origins-of-ward-family-of-virginia.php",
+		"/var/www/html/homepage2/article/seth-ward-will.php",
+		"/var/www/html/homepage2/article/family-of-humfrey-white.php",
+		"/var/www/html/homepage2/template/index_l2.php",
+		"/var/www/html/homepage2/article/john-anne-pond-v-robert-white.php",
+		"/var/www/html/homepage2/article/the-case-for-thomas-white-of-essex.php",
+		"/var/www/html/homepage2/article/london-wills.php",
 		"/var/www/html/homepage2/article/rice-bolton-pierce-of-halifax-county-n-c.php",
 		"/var/www/html/homepage2/article/pierce-of-york-county.php",
 		"/var/www/html/homepage2/article/the-earliest-members-of-the-wills-family-of-warwick-county.php",
@@ -897,7 +903,6 @@
 		"/var/www/html/homepage2/article/essex-manor-records.php",
 		"/var/www/html/homepage2/article/notes-on-james-mcdaniel-white.php",
 		"/var/www/html/homepage2/article/john-ward-pension.php",
-		"/var/www/html/homepage2/template/index_l2.php",
 		"/var/www/html/homepage2/article/the-white-family-of-norfolk-county.php",
 		"/home/jim/Desktop/obit.txt",
 		"/var/www/html/homepage2/article/Capt_Wm_Peirce.html",
@@ -977,11 +982,7 @@
 		"/var/www/html/tbas2_1/docs/tests/reroot/stamatokis.py",
 		"/var/www/html/tbas2_1/docs/tests/reroot/tree_unrooted.txt",
 		"/var/www/html/tbas2_1/docs/tests/reroot/test.py",
-		"/home/jim/Desktop/bootstraps/RAxML_bipartitionsBranchLabels.result",
-		"/var/www/html/tbas2_1/docs/tests/reroot/bug_report.txt",
-		"/var/www/html/tbas2_1/docs/tests/reroot/phyloxml1_frgxm_gr.xml",
-		"/usr/local/FigTree_v1.4.4/README.txt",
-		"/home/jim/Desktop/XUG26ZF3_dnld1606.nex"
+		"/home/jim/Desktop/bootstraps/RAxML_bipartitionsBranchLabels.result"
 	],
 	"find":
 	{
@@ -999,6 +1000,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h4",
+			"$",
+			"^",
+			"Harwood",
 			"london-wills.php/",
 			"http://jimserver.net/london-wills",
 			"title=\"London Wills\"",
@@ -1071,6 +1076,8 @@
 		"regex": true,
 		"replace_history":
 		[
+			"<br>",
+			"<p>",
 			"london-wills.php",
 			"/article/london-wills.php",
 			"<hr>",
@@ -1722,7 +1729,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 280.0,
+	"side_bar_width": 257.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
