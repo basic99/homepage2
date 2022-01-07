@@ -52,8 +52,9 @@ Richard Whyghtt - Hutton
 <p>The 1612 will of <a href="/article/london-wills/#john_white_1612">John White</a> of Shenfield shows he was the father of Robert White, father of Ralph. There was also a suit in <a href="/article/john-anne-pond-v-robert-white/">chancery </a>concerning his estate. We know that because  the land that he bequeathed to his son Robert in Shenfield, Railey &amp; Hockley was also mentioned in Robert's will. He named his 3 children Samuel, Robert, and Ann. The South Weald register has records of baptism in 1567 of Samuell White son to John white and in 1569 of Robert White son to John White and in 1593 burial of Benet Whyte daugthter of John. The witnesses to his will included John Wright of Wright Bridge and Richard Wright. The 1633 will of <a href="/article/london-wills/#robwhite">Robert White</a> of South Weald, father of Ralph, mentioned a daughter Bennett White. The use of the name Benet White over several generations shows that the family of Ralph White lived in South Weald from at least 1540.
 
 <p>The pedigree of the Wright family who also lived in South Weald has many of the names mentioned above.
-
+<figure class="figure">
 <img class="img-fluid" src="/img/wright_london.png" alt="Wright of London" />
+</figure>
 
 <p>Wrights Bridge was in South Weald. The marriage of John Wright of Wrights Bridge to Bennet Greene can be dated to around 1590 by the university records of Laurence and Nathaniel. This is 50 years after the names Benet and Laurence appeared in the White family, but there is clearly a connection, probably through the Greene family. The Wrights of South Weald were the ancestors of <a href="http://www.wright-brothers.org/Information_Desk/Just_the_Facts/Wright_Family/Wright_Genealogy/Wright_Genealogy.htm">Wilbur and  Orville</a>.
 
@@ -73,12 +74,15 @@ William Whyte - High Easter
 <p>Two things are immediately obvious. First, at this time there were no taxables named White living in Willingale Doe, although the list would not include the working poor. That raises the question whether Robert White moved to Willingale Doe and left male descendants. Possibly the others listed in the area are his descendants but there is no way of knowing.
 
 <p>The other noticable person in the list is Humfrey Whyte who lived in Shelley which is one parish over from Willingale Doe (1-2 miles). Shelley lies more or less between South Weald and Willingale Doe, so whether or not he was a descendant of the 1498 grantee he could have been related to the Whites in the South Weald area. The entry in the  original <a href="http://bit.ly/1SQU9uQ">pipe roll</a> is shown.
-
-<a href="/img/shelley_subsidy.jpg"><img class="img-fluid" src="/img/shelley_subsidy.jpg" alt="pipe rolls"  /></a>
+<figure class="figure">
+<img class="img-fluid" src="/img/shelley_subsidy.jpg" alt="pipe rolls"  />
+</figure>
 
 <p>The names on the list are William Stane, William Peg, John Field, Thomas Field, William Andrew, John Fuller, --- Hill, William Magot, Humfrey Whyte and William Crowe.  Humfrey was not as unusual name at this time (20th according to a <a href="http://www.s-gabriel.org/names/christian/fairnames/givennames.html">list</a> published by The Society for Creative Anachronism), but I still think that this Humfrey might have been the father or grandfather of Humfrey of Willingale Doe. Note that Humfrey White, younger  brother of <a href="http://www.historyofparliamentonline.org/volume/1509-1558/member/white-george-1530-84">George White</a>, was probably born after 1530, so he would not have been this Humfrey.
 
-<img class="img-fluid" src="/img/greene_essex.png" alt="Greene of Essex" width="840" height="594" />
+<figure class="figure">
+<img class="img-fluid" src="/img/greene_essex.png" alt="Greene of Essex" />
+</figure>
 
 <p>In 1582 John and Catherine (Wright) Greene of Navestock purchased the manor of <a href="http://www.british-history.ac.uk/vch/essex/vol4/pp203-204#anchorn35">Shelley</a> - Navestock sharing a border with the north side of South Weald.
 
