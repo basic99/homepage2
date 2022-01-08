@@ -24,14 +24,17 @@
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
             <li><a class="dropdown-item" href="/article/rice-bolton-pierce-of-halifax-county-n-c.php">Rice Bolton Pierce Of Halifax County</a></li>
-            <li><a class="dropdown-item" href="/article/whites-of-essex-england.php">Whites of Essex, England</a></li>
             <li><a class="dropdown-item" href="/article/english-origins-of-ward-family-of-virginia.php">English Origins Of Ward Family Of Virginia</a></li>
+            <li><a class="dropdown-item" href="/article/.php">Thomas Moore Of Sussex County</a></li>
+            <li> <div class="dropdown-divider"></div></li>
+
+
+            <li><a class="dropdown-item" href="/article/whites-of-essex-england.php">Whites of Essex, England</a></li>
             <li><a class="dropdown-item" href="/article/move-to-maryland-3.php">Move To Maryland</a></li>
             <li><a class="dropdown-item" href="/article/john-white-of-norfolk-county.php">John White Of Norfolk County</a></li>
             <li><a class="dropdown-item" href="/article/jonathan-white-of-granville-county.php">Jonathan White Of Granville County</a></li>
             <li><a class="dropdown-item" href="/article/manning-of-lower-norfolk.php">Manning Of Lower Norfolk</a></li>
-            <li><a class="dropdown-item" href="/article/.php">Something else here</a></li>
-            <li><a class="dropdown-item" href="/article/.php">Something else here</a></li>
+            <li><a class="dropdown-item" href="/article/.php">Thomas Manning</a></li>
           </ul>
         </li>
       </ul>

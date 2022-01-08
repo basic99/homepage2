@@ -43,3 +43,7 @@ figcaption {
 figure {
   margin-top: 15px;
 }
+
+.dropdown-divider {
+  border-color: #dee2e6 !important;
+}
