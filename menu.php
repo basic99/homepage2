@@ -34,7 +34,7 @@
             <li><a class="dropdown-item" href="/article/john-white-of-norfolk-county.php">John White Of Norfolk County</a></li>
             <li><a class="dropdown-item" href="/article/jonathan-white-of-granville-county.php">Jonathan White Of Granville County</a></li>
             <li><a class="dropdown-item" href="/article/manning-of-lower-norfolk.php">Manning Of Lower Norfolk</a></li>
-            <li><a class="dropdown-item" href="/article/.php">Thomas Manning</a></li>
+            <li><a class="dropdown-item" href="/article/thomas-manning.php">Thomas Manning</a></li>
           </ul>
         </li>
       </ul>
