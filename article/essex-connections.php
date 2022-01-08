@@ -45,7 +45,9 @@ Richard Whyghtt - Hutton
 
 <p>All of these with the exception of Richard White of Hutton could have been relatives of the family of Ralph White. The family of Richard White were gentry, having moved to Hutton from Hampshire (the Humfrey listed in this record is not Humfrey of Willingale Doe).
 
+<figure class="figure">
 <img class="img-fluid" src="/img/white_hutton.png" alt="White of Hutton" />
+</figure>
 
 <p>Aside from the subsidy lists,  the first records in South Weald of the Whites are in the parish register - the baptisms of Lawrence and Benet White to Robert Whyte in the early 1540s. The next record is the 1563 will of<a href="/article/london-wills.php#robwhite_1563"> Robert Whyghte</a> of South Weald. The witnesses to his will were John Grene, Nicholas Carvell vicar of South Weald, Larence Grene, Giles Greene, and John Payne.
 
