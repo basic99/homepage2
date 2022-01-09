@@ -849,14 +849,16 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/article",
-		"/var/www/html/homepage2/template"
 	],
 	"file_history":
 	[
-		"/var/www/html/homepage2/article/move-to-maryland-3.php",
 		"/var/www/html/homepage2/menu.php",
+		"/var/www/html/homepage2/article/thomas-moore-of-sussex-county.php",
+		"/var/www/html/homepage2/css/homepage2.css",
+		"/var/www/html/homepage2/article/thomas-manning.php",
+		"/var/www/html/homepage2/article/manning-of-lower-norfolk.php",
+		"/var/www/html/homepage2/article/jonathan-white-of-granville-county.php",
+		"/var/www/html/homepage2/article/move-to-maryland-3.php",
 		"/var/www/html/homepage2/article/john-white-of-norfolk-county.php",
 		"/var/www/html/homepage2/article/culpepper-connection.php",
 		"/var/www/html/homepage2/article/essex-connections.php",
@@ -888,7 +890,6 @@
 		"/var/www/html/homepage2/docs/admin.txt",
 		"/var/www/html/homepage2/article/pierce-southampton-records.php",
 		"/var/www/html/homepage2/article/pierce_southampton.php",
-		"/var/www/html/homepage2/css/homepage2.css",
 		"/var/www/html/homepage2/article/Pierce_det_descendant_report.html",
 		"/var/www/html/homepage2/map/features.geojson",
 		"/home/jim/Desktop/us_states.geojson",
@@ -978,11 +979,7 @@
 		"/home/jim/Desktop/iqteee.txt",
 		"/var/www/html/tbas2_1/docs/tests/reroot/test_ete3.py",
 		"/var/www/html/tbas2_1/docs/tests/reroot/unroot.sh",
-		"/var/www/html/tbas2_1/docs/tests/reroot/reroot_ete.py",
-		"/var/www/html/tbas2_1/docs/tests/reroot/tree_rerooted.txt",
-		"/var/www/html/tbas2_1/docs/tests/reroot/stamatokis_brackets.nwk",
-		"/var/www/html/tbas2_1/docs/tests/reroot/ete3_test.nwk",
-		"/var/www/html/tbas2_1/docs/tests/reroot/Lecanoraceae.treefile.TBAS_fauxroot.tre"
+		"/var/www/html/tbas2_1/docs/tests/reroot/reroot_ete.py"
 	],
 	"find":
 	{
@@ -1000,6 +997,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"^<p>$",
+			"<p><hr />",
+			"^",
+			"^<p>$",
+			"<p><hr />",
+			"^",
+			"#",
 			"1",
 			"^<p>$",
 			"^",
@@ -1087,6 +1091,12 @@
 		"regex": true,
 		"replace_history":
 		[
+			"",
+			"<hr>",
+			"<p>",
+			"",
+			"<hr>",
+			"<p>",
 			"",
 			"<p>",
 			"london-wills.php",
@@ -1745,7 +1755,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 257.0,
+	"side_bar_width": 261.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
