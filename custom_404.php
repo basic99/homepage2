@@ -23,7 +23,7 @@ include "menu.php";
 ?>
 
   <div  class='marspic'>
-  <img src='img/mars_wp_hdr.png' />
+  <img src='/img/mars_wp_hdr.png' />
 </div>
 <main class="container">
 <div class="row g-5 bg-light rounded">
