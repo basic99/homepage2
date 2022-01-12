@@ -849,9 +849,15 @@
 	},
 	"expanded_folders":
 	[
+		"/var/www/html/homepage2",
+		"/var/www/html/homepage2/docs",
+		"/var/www/html/homepage2/template"
 	],
 	"file_history":
 	[
+		"/home/jim/Desktop/tasks.txt",
+		"/var/www/html/homepage2/custom_404.php",
+		"/var/www/html/homepage2/custom_404.html",
 		"/var/www/html/homepage2/menu.php",
 		"/var/www/html/homepage2/article/thomas-moore-of-sussex-county.php",
 		"/var/www/html/homepage2/css/homepage2.css",
@@ -976,14 +982,11 @@
 		"/var/www/html/tbas2_1/docs/unroot.sh",
 		"/var/www/html/tbas2_1/pages/submit_email.php",
 		"/var/www/html/tbas2_1/pages/submit_tree.php",
-		"/home/jim/Desktop/iqteee.txt",
-		"/var/www/html/tbas2_1/docs/tests/reroot/test_ete3.py",
-		"/var/www/html/tbas2_1/docs/tests/reroot/unroot.sh",
-		"/var/www/html/tbas2_1/docs/tests/reroot/reroot_ete.py"
+		"/home/jim/Desktop/iqteee.txt"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -1201,7 +1204,7 @@
 	"project": "homepage2.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
