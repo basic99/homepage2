@@ -33,11 +33,34 @@ include "../menu.php";
 
 
         <h2>June 19, 2006</h2>
-        <p><img src="/graphics/stanleycup01.jpg" alt="roll out the carpet"/><br />
-        <img src="/graphics/20hurricanes.3371.jpg" alt="Williams celebrates"/><br />
-        <img src="/graphics/cam_block.jpg" alt="Cam makes save"/><br />
-        <img src="/graphics/388-cup-getty-060619.jpg" width="388" height="230" alt="Rod kisses cup"/><br />
-        <img src="/graphics/06SCChampion_800.jpg" alt="championship banner"/></p>
+        <figure class="figure">
+        <img class="img-fluid" src="/img/stanleycup01.jpg" alt="roll out the carpet"/>
+        <figcaption class="figure-caption text-center">Roll out the carpet</figcaption>
+      </figure>
+
+      <figure class="figure">
+        <img class="img-fluid" src="/img/20hurricanes.3371.jpg" alt="Williams celebrates"/>
+        <figcaption class="figure-caption text-center">Williams celebrates</figcaption>
+
+        </figure>
+
+      <figure class="figure">
+        <img class="img-fluid" src="/img/cam_block.jpg" alt="Cam makes save"/>
+        <figcaption class="figure-caption text-center">Cam makes save</figcaption>
+
+        </figure>
+
+      <figure class="figure">
+        <img class="img-fluid" src="/img/388-cup-getty-060619.jpg"  alt="Rod kisses cup"/>
+        <figcaption class="figure-caption text-center">Rod kisses cup</figcaption>
+
+        </figure>
+
+      <figure class="figure">
+        <img class="img-fluid" src="/img/06SCChampion_800.jpg" alt="championship banner"/>
+        <figcaption class="figure-caption text-center">Championship banner</figcaption>
+
+      </figure>
 
 </main>
 
