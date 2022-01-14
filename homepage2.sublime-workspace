@@ -850,11 +850,13 @@
 	"expanded_folders":
 	[
 		"/var/www/html/homepage2",
-		"/var/www/html/homepage2/docs",
+		"/var/www/html/homepage2/article",
 		"/var/www/html/homepage2/template"
 	],
 	"file_history":
 	[
+		"/var/www/html/homepage2/article/stanley-cup-champions.php",
+		"/var/www/html/homepage2/index.php",
 		"/home/jim/Desktop/tasks.txt",
 		"/var/www/html/homepage2/custom_404.php",
 		"/var/www/html/homepage2/custom_404.html",
@@ -901,7 +903,6 @@
 		"/home/jim/Desktop/us_states.geojson",
 		"/var/www/html/homepage2/map/norfolk.json",
 		"/home/jim/Desktop/mapbox-gl.css",
-		"/var/www/html/homepage2/index.php",
 		"/var/www/html/homepage2/map/norfolk.html",
 		"/var/www/html/homepage2/map/index.php",
 		"/var/www/html/homepage2/map/map.html",
@@ -981,8 +982,7 @@
 		"/var/www/html/tbas2_1/data/fungi_tol/tree.nwk",
 		"/var/www/html/tbas2_1/docs/unroot.sh",
 		"/var/www/html/tbas2_1/pages/submit_email.php",
-		"/var/www/html/tbas2_1/pages/submit_tree.php",
-		"/home/jim/Desktop/iqteee.txt"
+		"/var/www/html/tbas2_1/pages/submit_tree.php"
 	],
 	"find":
 	{
@@ -1000,6 +1000,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Roll out the carpet",
+			"graphics",
+			"<br />",
 			"^<p>$",
 			"<p><hr />",
 			"^",
@@ -1736,7 +1739,7 @@
 		[
 			[
 				"",
-				"/var/www/wsgi/decifr/decifr.sublime-project"
+				"/var/www/html/tbas2_1/tbas2_1.sublime-project"
 			]
 		],
 		"width": 381.0
