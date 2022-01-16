@@ -70,6 +70,7 @@ include "menu.php";
   <li><a href="https://www.ventusky.com/">Ventusky - Wind, Rain and Temperature Maps</a></li>
   <li><a href="http://www.hockeybuzz.com/cap-central/">NHL Salary Cap Info</a></li>
   <li><a href="http://www.watchingdurhambullsbaseball.com">Durham Bulls</a></li>
+  <li><a href="/downloads/LGU-Map-03-18-19.pdf">NIFA Land-grant Colleges And Universities</a></li>
 </ul>
   </div>
   </div>
