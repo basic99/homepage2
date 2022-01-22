@@ -1,18 +1,20 @@
 var gulp = require('gulp'),
     rename = require('gulp-rename'),
-    markdown = require('gulp-markdown'),
+    markdown = require('gulp-markdown')
 
 
 gulp.task('markdown_homepage', function() {
-    return gulp.src('../docs/docker/docker.md')
+    return gulp.src('../blog/markdown/*.md')
         .pipe(rename({
             extname: ".html"
 
         }))
         .pipe(markdown())
-        .pipe(gulp.dest('../pages/'))
+        .pipe(gulp.dest('../blog/'))
 
 });
 
-gulp.task('default', ['markdown_homepage']);
+exports.default = gulp.series(
+    'markdown_homepage'
 
+);
