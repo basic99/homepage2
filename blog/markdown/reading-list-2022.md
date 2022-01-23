@@ -1,3 +1,47 @@
+***
+
+The Rise of the Tudors
+
+January 22, 2022
+
+Chris Skidmore, *The Rise of the Tudors, The Family that Changed English History*, (New York, 2013).
+
+
+***
+Urban Culture in Medieval Wales
+
+January 22, 2022
+
+Helen Fulton, ed., *Urban Culture in Medieval Wales*, (Cardiff, 2012). The book contains 12 essays by historians about different aspects of Welsh Towns.
+
+***
+Storm Warning
+
+January 22, 2022
+
+Robin Brooke-Smith, *Storm Warning, Riding the Crosswinds in the Pakistan-Afghan Borderlands*, (New York, 2018). This book was written by the librarian at the Shrewsbury School library who I
+had emailed for information about students at the school in the 1500s. He had been a headmaster in a school in Pakistan.
+
+
+***
+
+A Stranger Among Saints
+
+January 22, 2022
+
+Jonathan Mack, *A Stranger Among Saints, Stephe Hopkins, The Man Who Survived Jamestown and Saved Plymouth*, (Chicago, 2020)
+
+
+***
+
+The War of 1812
+
+January 22, 2022
+
+Donald R Hickey, *The War of 1812, A Forgotten Conflict*, (Urbana, Ill., 2013).
+
+***
+
 Lion In the Bay
 
 January 22, 2022
