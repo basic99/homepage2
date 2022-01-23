@@ -38,7 +38,7 @@ The War of 1812
 
 January 22, 2022
 
-Donald R Hickey, *The War of 1812, A Forgotten Conflict*, (Urbana, Ill., 2013).
+Donald R Hickey, *The War of 1812, A Forgotten Conflict*, (Urbana, 2013).
 
 ***
 
