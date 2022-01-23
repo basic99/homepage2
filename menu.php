@@ -10,7 +10,7 @@
           <a class="nav-link" aria-current="page" href="/genealogy.php">Genealogy</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Reading List</a>
+          <a class="nav-link" href="/reading-list.php">Reading List</a>
         </li>
          <li class="nav-item">
           <a class="nav-link" href="/blog">Blog</a>
