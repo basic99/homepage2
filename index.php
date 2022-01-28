@@ -49,6 +49,7 @@ include "menu.php";
   <li><a href="https://archives.ncdcr.gov/">North Carolina State Archives</a></li>
   <li><a href="http://docsouth.unc.edu/csr/index.html/volumes">Colonial and State Records of North Carolina</a></li>
   <li><a href="http://www.brantleyassociation.com/southampton_project/southampton_project_list.htm">Southampton Records</a></li>
+  <li><a href="https://www.vgs.org/links.php?sid=1">Virginia Genealogical Society Resources </a></li>
 </ul>
 <h4>Computer and GIS</h4>
 <ul>
