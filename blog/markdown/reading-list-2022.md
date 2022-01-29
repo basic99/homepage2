@@ -20,7 +20,7 @@ The Northern Crusades
 January 29, 2022
 
 Eric Christiansen, *The Northern Crusades*, (London, 1997). After my trip to Denmark for work I
-looked for a book on early modern Danish history. This is what I found, a book about crusading and conversion to Christianity in the Baltic region. Intersting book covering a subject somewhat overlooked in the history of crusading.
+looked for a book on early modern Danish history. This is what I found, a book about crusading and conversion to Christianity in the Baltic region. Interesting book covering a subject somewhat overlooked in the history of crusading.
 
 ***
 
