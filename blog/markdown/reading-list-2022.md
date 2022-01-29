@@ -28,7 +28,7 @@ A Great and Terrible King
 
 January 29, 2022
 
-Marc Morris, *A Great and Terrible King, Edward I nad the Forging of Britain*, (New York, 2009).
+Marc Morris, *A Great and Terrible King, Edward I and the Forging of Britain*, (New York, 2009).
 
 ***
 
