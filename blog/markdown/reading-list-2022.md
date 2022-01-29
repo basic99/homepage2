@@ -1,3 +1,43 @@
+
+The Viking Wars
+
+January 29, 2022
+
+Max Adams, *The Viking Wars, War and Peace in King Alfred's Britain, 789-955*, (New York, 2018). An interesting book about this period but makes reference to a lot of archaelogical studies that refer to place names in England, so may be more interesting to someone who lives in England.
+
+***
+
+The Dark Ages
+
+January 29, 2022
+
+Martin J. Dougherty, *The Dark Ages From the Fall of Rome to teh Battle of Hastings*, (London, 2019). A picture book with some basic descriptive text I found at Barnes and Noble.
+
+***
+
+The Northern Crusades
+
+January 29, 2022
+
+Eric Christiansen, *The Northern Crusades*, (London, 1997). After my trip to Denmark for work I
+looked for a book on early modern Danish history. This is what I found, a book about crusading and conversion to Christianity in the Baltic region. Intersting book covering a subject somewhat overlooked in the history of crusading.
+
+***
+
+A Great and Terrible King
+
+January 29, 2022
+
+Marc Morris, *A Great and Terrible King, Edward I nad the Forging of Britain*, (New York, 2009).
+
+***
+
+Byzantium
+
+January 29, 2022
+
+Judith Herrin, *Byzantium, The Surprising Life of a Medieval Empire*, (Princeton, 2007).
+
 ***
 
 The Rise of the Tudors
