@@ -82,3 +82,10 @@ sudo apt install certbot python3-certbot-nginx
 
 git remote add origin git@github.com:basic99/homepage2.git
 git push -u origin master
+
+https://www.digitalocean.com/community/tutorials/how-to-redirect-www-to-non-www-with-nginx-on-centos-7
+
+server {
+    server_name dev.jimserver.net;
+    return 301 $scheme://jimserver.net$request_uri;
+}
