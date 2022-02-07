@@ -1,4 +1,60 @@
 
+Tree Thinking
+
+February 7, 2022
+
+David A. Baum and Stacey D. Smith, *Tree Thinking, An Introduction to Phylogenetic Biology*, (New York, 2013). The subject of this book covers an important part of my job in the Department of Entomology and Plant Pathalogy which involves constructing trees that show the relationships of mostly fungi based on DNA data.
+
+***
+
+Seals and Society
+
+February 7, 2022
+
+P.R. Schofield & E.A New, eds., *Seals and Society, Medieval Wales, The Welsh Marches and their English Border Region*, (Cardiff, 2016). I found some old deeds from around 1400 concerning property in Shrewsbury with seals attached, hence my interest in this subject. The book consists of 7 short essays on the subject but the majority of the book is a catalog with some photographs of old seals.
+
+***
+
+London's Triumph
+
+February 7, 2022
+
+Stephen Alford, *Londons's Triumph, Merchants, Adventurers, and Money in Shakespeare's City*, (New York, 2017).
+
+***
+
+A Land as God Made It
+
+February 7, 2022
+
+James Horn, *A Land as God Made it, Jamestown and the Birth of America*, (New York, 2004).
+
+***
+
+The English Refomation
+
+February 7, 2022
+
+A.G. Dickens, *The English Reformation, 2nd ed.*, (University Park, PA, 1989). This is the history of the English church covering primarily the reigns of Henry VIII, Edward VI, and Mary when the church in England broke with Rome and its evolution into the Church of England.
+
+***
+
+Karl Marx
+
+February 7, 2022
+
+Isaiah Berlin, *Karl Marx, 5th ed.*, (Princeton, 2013). This book is an introduction to the life and ideas of Karl Marx by a well-known historian. It is probably the first book I have read on this subject.
+
+***
+
+The Shipwreck that Saved Jamestown
+
+February 7, 2022
+
+Lorri Glover and Daniel Blake Smith, *The Shipwreck that Saved Jamestown, The Sea Venture Castaways and the Fate of America*, (New York, 2008). This book tells the story of the ship that sailed in the supply fleet to Jamestown in 1609 and was blown by a hurricane onto Bermuda where they build new ships from scratch and continued to Jamestown.
+
+***
+
 The Viking Wars
 
 January 29, 2022

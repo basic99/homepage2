@@ -89,3 +89,11 @@ server {
     server_name dev.jimserver.net;
     return 301 $scheme://jimserver.net$request_uri;
 }
+
+https://vitux.com/how-to-flush-the-dns-cache-on-ubuntu/
+sudo systemd-resolve --flush-caches
+
+server {
+    server_name norfolkmap.jimserver.net;
+    return 301 http://jimserver.net/map/;
+}
