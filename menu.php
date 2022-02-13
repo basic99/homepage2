@@ -38,10 +38,11 @@
           </ul>
         </li>
       </ul>
-     <!--  <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form> -->
+      <form class="d-flex">
+        <input id='searchBox' class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button id='searchButton' class="btn btn-outline-success" type="submit">Search</button>
+      </form>
     </div>
   </div>
 </nav>
+<script async src="https://js.sitesearch360.com/plugin/bundle/1646.js"></script>
