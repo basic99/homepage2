@@ -1,3 +1,9 @@
 https://developers.google.com/custom-search/docs/tutorial/creatingcse
 
 https://www.googleapis.com/customsearch/v1?[parameters]
+
+https://cse.google.com/cse?cx=9092eff26ae64cc19&query=cook
+
+
+
+<script async src="https://js.sitesearch360.com/plugin/bundle/1646.js"></script>
