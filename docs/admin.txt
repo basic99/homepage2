@@ -97,3 +97,5 @@ server {
     server_name norfolkmap.jimserver.net;
     return 301 http://jimserver.net/map/;
 }
+
+
