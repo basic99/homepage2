@@ -31,7 +31,8 @@ include "menu.php";
   <div class="col-md-8">
     <h1>404 Not Found</h1>
 
-    <p>The website has moved from a WordPress site to plain html</p><p>Some urls have changed.</p>
+    <p>Some urls have changed.</p>
+    <p>If you arrived here from an old link you should still be able to find the same page but with a different url by searching the menu.</p>
 
 
 
