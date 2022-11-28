@@ -3,7 +3,7 @@
 
 November 27, 2022
 
-James Horn, *1619: Jamestown and the Forging of American Democracy*, (New York, 2018). This book was written by the President of the Jamestown Rediscovery Foundation, a foundation involved with archaelogical research at historic Jamestown. I is concerned with events at Jamestown in that year, most importantly the first representative assembly in Virginia and its importance for representative government and also discusses the Africans that first arrived in that year and the beginnings of slavery in Virginia.
+James Horn, *1619: Jamestown and the Forging of American Democracy*, (New York, 2018). This book was written by the President of the Jamestown Rediscovery Foundation, a foundation involved with archaelogical research at historic Jamestown. It is concerned with events at Jamestown in that year, most importantly the first representative assembly in Virginia and its importance for representative government and also discusses the Africans that first arrived in that year and the beginnings of slavery in Virginia.
 
 ***
 
