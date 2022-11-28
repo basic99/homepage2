@@ -1,8 +1,11 @@
+
 Battlegrounds
+
+November 27, 2022
 
 H.R. McMaster, *Battlegrounds, The Fight to Defend the Free World*, (New York, 2021). The writer, a former high ranking goverment official analyzes the US relationship with several countries considered threats to US interests, ie Russia, China, Korea, Iran and others.
 
-November 27, 2022
+
 
 ***
 
