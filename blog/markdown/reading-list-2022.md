@@ -1,3 +1,18 @@
+Battlegrounds
+
+H.R. McMaster, *Battlegrounds, The Fight to Defend the Free World*, (New York, 2021). The writer, a former high ranking goverment official analyzes the US relationship with several countries considered threats to US interests, ie Russia, China, Korea, Iran and others.
+
+November 27, 2022
+
+***
+
+History of Metals
+
+November 27, 2022
+
+James A. Mulholland, *A History of Metals in Colonial America*, (Alabama: University of Alabama Press, 1981). The history of metals production, mostly iron, in America from earliest times through the years immediatly after the Revolution.
+
+***
 
 Tree Thinking
 
