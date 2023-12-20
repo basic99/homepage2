@@ -37,6 +37,10 @@
         width: 100%;
       }
 
+      p {
+        margin-top: 10px !important;
+      }
+
 
 
 
@@ -67,6 +71,8 @@ include "../menu.php";
   </figure>
 
   <p>This Pierce Welsh genealogy is based on my research and the use of <a href='https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project' target='_blank'>Bartrum's Welsh pedigrees</a> to explore the earlier generations. The tribe of Gwenys is descended from Brochwel Ysgythrog, king of Powys in the sixth century and the arms are the three nags pictured above.</p>
+
+  <p>Capt William Peirce and Thomas Pierce who both lived on Mulberry Island  in Virginia are generally considered to be related, although exactly how is not known. I have not been able to find that they were related through the Piers family, although they could have been. Most likely William Peirce's grandfather Piers Reynold of Welshpool, who living in 1535 had connections with Shrewsbury merchants, may have been related to the family of William Peers, Mercer of Shrewsbury and who was grandfather of Thomas of Virginia. More details of my reasearch are in a manuscript <a href='/downloads/Capt_Wm_Peirce.pdf' target='_blank'>The Possible Welsh Ancestry of Captain William Peirce</a>.</p>
 
    <figure>
     <img id='burgedin' src="/img/burgedin.jpg" alt="" />
