@@ -81,6 +81,8 @@ include "../menu.php";
 
   <p>William Peirce's great-grandmother named her sister Mally in her Welshpool will dated 1540. Reynold ap David ap Griffith was her will administrator and was also the subject of a chancery case concerning property owned by Maly ap [sic] David. The use of the 'ap' in a womans Welsh name seems odd, but was evidently not unusual. The exact meaning is unclear. Since Maly was an unusual name and Reynold ap David ap Griffith appeared in both the will and chancery case, then almost certainly Maly was the sister mentioned in the will. The chancery case of Maly named Reynold ap David ap Griffithe and his brother Roger as 'nyghe kynsman'. The page from Bartrum has the genealogy of Reynold and Roger of Burgedin.</p>
 
+  <p>The  list for the hundred of Pole lists for the village of Burgedin Reynald ap David ap Gruffid, Roger ap David ap Gruffid, David ap Gruffid, and Hugh ap David ap Ieuan ap Dio. Since the father of Reynald ap David was still living it is less likely that he was the father of Margaret and Maly, since as the chancery case showed she owned land and she probably would not have inherited from her father if he was still living. Possibly Hugh ap David ap Ieuan ap Dio was the brother of Margaret and Maly, since a later chancery case showed that Margarets grandson disputed land that had been owned by Ieuan ap Dio in the village of Trewern. These fact lead to the conclusion that Margaret verch David was a cousin of Reynold ap David.</p>
+
   <figure>
     <img id='gwenwys' src="/img/Gwenwys.jpg" alt="" />
     <figcaption>Gwenwys tribe</figcaption>
