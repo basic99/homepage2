@@ -66,6 +66,8 @@ include "../menu.php";
     <figcaption>Sable three nags' heads erased, argent (Brochwel Ysgythrog)</figcaption>
   </figure>
 
+  <p>This Pierce Welsh genealogy is based on my research and the use of <a href='https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project' target='_blank'>Bartrum's Welsh pedigrees</a> to explore the earlier generations. The tribe of Gwenys is descended from Brochwel Ysgythrog, king of Powys in the sixth century and the arms are the three nags pictured above.</p>
+
    <figure>
     <img id='burgedin' src="/img/burgedin.jpg" alt="" />
     <figcaption>Genealogy of Reynold ap David ap Griffith of Burgedin</figcaption>
