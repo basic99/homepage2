@@ -24,6 +24,11 @@ body {
   margin-bottom: 55px;
   height: 220px;
   background-image: url('/img/mars_wp_hdr.png');
+
+}
+
+.marspic img {
+  height: 220px;
 }
 
 h1 {
