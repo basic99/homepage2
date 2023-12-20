@@ -70,14 +70,16 @@ include "../menu.php";
     <figcaption>Sable three nags' heads erased, argent (Brochwel Ysgythrog)</figcaption>
   </figure>
 
-  <p>This Pierce Welsh genealogy is based on my research and the use of <a href='https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project' target='_blank'>Bartrum's Welsh pedigrees</a> to explore the earlier generations. The tribe of Gwenys is descended from Brochwel Ysgythrog, king of Powys in the sixth century and the arms are the three nags pictured above.</p>
+  <p>This Pierce Welsh genealogy is based on my research and the use of <a href='https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project' target='_blank'>Bartrum's Welsh pedigrees</a> to explore the earlier generations. The tribe of Gwenys is descended from Brochwel Ysgythrog, king of Powys in the sixth century, and the arms are the three nags pictured above.</p>
 
-  <p>Capt William Peirce and Thomas Pierce who both lived on Mulberry Island  in Virginia are generally considered to be related, although exactly how is not known. I have not been able to find that they were related through the Piers family, although they could have been. Most likely William Peirce's grandfather Piers Reynold of Welshpool, who living in 1535 had connections with Shrewsbury merchants, may have been related to the family of William Peers, Mercer of Shrewsbury and who was grandfather of Thomas of Virginia. More details of my reasearch are in a manuscript <a href='/downloads/Capt_Wm_Peirce.pdf' target='_blank'>The Possible Welsh Ancestry of Captain William Peirce</a>.</p>
+  <p>Capt William Peirce and Thomas Pierce who both lived on Mulberry Island  in Virginia are generally considered to be related, although exactly how is not known. I have not been able to find that they were related through the Piers family, although they could have been. Most likely William Peirce's grandfather Piers Reynold of Welshpool, who living in 1535 had connections with Shrewsbury merchants, may have been related to the family of William Peers, Mercer of Shrewsbury, and who was grandfather of Thomas of Virginia. More details of my reasearch are in a manuscript <a href='/downloads/Capt_Wm_Peirce.pdf' target='_blank'>The Possible Welsh Ancestry of Captain William Peirce</a>.</p>
 
    <figure>
     <img id='burgedin' src="/img/burgedin.jpg" alt="" />
     <figcaption>Genealogy of Reynold ap David ap Griffith of Burgedin</figcaption>
   </figure>
+
+  <p>William Peirce's great-grandmother named her sister Mally in her Welshpool will dated 1540. Reynold ap David ap Griffith was her will administrator and was also the subject of a chancery case concerning property owned by Maly ap [sic] David. The use of the 'ap' in a womans Welsh name seems odd, but was evidently not unusual. The exact meaning is unclear. Since Maly was an unusual name and Reynold ap David ap Griffith appeared in both the will and chancery case, then almost certainly Maly was the sister mentioned in the will. The chancery case of Maly named Reynold ap David ap Griffithe and his brother Roger as 'nyghe kynsman'. The page from Bartrum has the genealogy of Reynold and Roger of Burgedin.</p>
 
   <figure>
     <img id='gwenwys' src="/img/Gwenwys.jpg" alt="" />
