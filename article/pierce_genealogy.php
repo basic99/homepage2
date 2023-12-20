@@ -88,11 +88,12 @@ include "../menu.php";
     <figcaption>Gwenwys tribe</figcaption>
   </figure>
 
-  <p>The Bartrun genealogies show that the mother of Reynold ap David and Roger ap David was named Marsli vch David Goch. Considering the facts, perhaps the best explanation that Reynold ap David and Roger ap David were near kin of Margaret and Maly was that Marsli vch David Goch was their aunt. The name Marsli is a dimunitve of Margaret, so if so Margaret vch David may have been named after her aunt.</p>
+  <p>The Bartrun genealogies show that the mother of Reynold ap David and Roger ap David was named Marsli vch David Goch. Considering the facts, perhaps the best explanation that Reynold ap David and Roger ap David were near kin of Margaret and Maly was that Marsli vch David Goch was their aunt. The name Marsli is a <a href='/img/welsh_names.jpg' target='_blank'>dimunitve</a> of Margaret, so if so Margaret vch David may have been named after her aunt.</p>
+  <p>The genealogy is shown here. In addition to the possible naming of Margaret for her aunt it shows how Captain William Peirce and Thomas Pierce would have been distantly related through the marriage of Thomas's uncle Edward to Elizabeth Lloyd.</p>
 
   <figure>
     <img id='piers' src="/img/piers.svg" alt="" />
-    <figcaption>Gwenwys tribe 2</figcaption>
+    <figcaption>Gwenwys tribe with Pierce's</figcaption>
   </figure>
 
 
