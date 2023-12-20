@@ -25,9 +25,19 @@
 
       figure img {
         display: block;
-        width: 250px;
         margin: 5px auto 5px;
       }
+
+      #arms {
+        width: 250px;
+
+      }
+
+      #burgedin {
+        width: 100%;
+      }
+
+
 
 
 
@@ -52,8 +62,18 @@ include "../menu.php";
   </div>
 
   <figure>
-    <img src="/img/arms_blazon.png" alt="three nags" />
+    <img id='arms' src="/img/arms_blazon.png" alt="three nags" />
     <figcaption>Sable three nags' heads erased, argent (Brochwel Ysgythrog)</figcaption>
+  </figure>
+
+   <figure>
+    <img id='burgedin' src="/img/burgedin.jpg" alt="three nags" />
+    <figcaption>Genealogy of Reynold ap David ap Griffith of Burgedin</figcaption>
+  </figure>
+
+  <figure>
+    <img id='burgedin' src="/img/Gwenwys.jpg" alt="three nags" />
+    <figcaption>Gwenwys tribe</figcaption>
   </figure>
 
 
