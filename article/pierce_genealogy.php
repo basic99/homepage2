@@ -33,7 +33,7 @@
 
       }
 
-      #burgedin, #gwenwys {
+      #burgedin, #gwenwys, #piers {
         width: 100%;
       }
 
@@ -67,13 +67,18 @@ include "../menu.php";
   </figure>
 
    <figure>
-    <img id='burgedin' src="/img/burgedin.jpg" alt="three nags" />
+    <img id='burgedin' src="/img/burgedin.jpg" alt="" />
     <figcaption>Genealogy of Reynold ap David ap Griffith of Burgedin</figcaption>
   </figure>
 
   <figure>
-    <img id='gwenwys' src="/img/Gwenwys.jpg" alt="three nags" />
+    <img id='gwenwys' src="/img/Gwenwys.jpg" alt="" />
     <figcaption>Gwenwys tribe</figcaption>
+  </figure>
+
+  <figure>
+    <img id='piers' src="/img/piers.svg" alt="" />
+    <figcaption>Gwenwys tribe 2</figcaption>
   </figure>
 
 
