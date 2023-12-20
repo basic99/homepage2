@@ -18,6 +18,17 @@
         text-align: center;
       }
 
+      figure {
+        width: 100%;
+        text-align: center;
+      }
+
+      figure img {
+        display: block;
+        width: 250px;
+        margin: 5px auto 5px;
+      }
+
 
 
 
@@ -39,6 +50,11 @@ include "../menu.php";
   <div class="col-md-8">
     <h2>Pierce Genealogy</h2>
   </div>
+
+  <figure>
+    <img src="/img/arms_blazon.png" alt="three nags" />
+    <figcaption>Sable three nags' heads erased, argent (Brochwel Ysgythrog)</figcaption>
+  </figure>
 
 
 
