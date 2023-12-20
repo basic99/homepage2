@@ -33,7 +33,7 @@
 
       }
 
-      #burgedin {
+      #burgedin, #gwenwys {
         width: 100%;
       }
 
@@ -72,7 +72,7 @@ include "../menu.php";
   </figure>
 
   <figure>
-    <img id='burgedin' src="/img/Gwenwys.jpg" alt="three nags" />
+    <img id='gwenwys' src="/img/Gwenwys.jpg" alt="three nags" />
     <figcaption>Gwenwys tribe</figcaption>
   </figure>
 
