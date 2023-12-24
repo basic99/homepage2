@@ -91,12 +91,14 @@ include "../menu.php";
   <p>The Bartrun genealogies show that the mother of Reynold ap David and Roger ap David was named Marsli vch David Goch. Considering the facts, perhaps the best explanation that Reynold ap David and Roger ap David were near kin of Margaret and Maly was that Marsli vch David Goch was their aunt. The name Marsli is a <a href='/img/welsh_names.jpg' target='_blank'>dimunitve</a> of Margaret, so if so Margaret vch David may have been named after her aunt.</p>
 
   <p>The chancery case concerning the property owned in Burgedin by Maly did not indicate that it was a widow's life portion or that it was jointly held with a living or deceased husband or that she was married or a widow. She may have been unmarried. Also, searching in the genealogies did not show any ways she might have been related to Reynold ap David by marriage so it seems she was likely related by blood. The will of Margaret vch David mentioned a neice named Margaret who has been placed as a child of Hugh ap David, but without any proof he had a daughter Margaret.</p>
-  <p>The genealogy is shown here. In addition to the possible naming of Margaret for her aunt it shows how Captain William Peirce and Thomas Pierce would have been distantly related through the marriage of Thomas's uncle Edward to Elizabeth Lloyd.</p>
+
 
   <figure>
     <img id='piers' src="/img/piers.svg" alt="" />
     <figcaption>Gwenwys tribe with Pierce's</figcaption>
   </figure>
+
+  <p>The records show that it is less likely that Margaret and Maly were sisters of Reynold ap David, or that Margaret and Maly's father was related to Reynold ap David or that the relation was by marriage. These possiblities can not be positively excluded but seem less likely. Hence, the most likely way Roger and Reynold ap David were near kinsman was that the mother of Margaret and Maly was the sister of either David ap Griffith or Marsli verch David Goch. In addition to the possible naming of Margaret for her aunt assigning their mother as the sister of Marsli ap David Goch shows how Captain William Peirce and Thomas Pierce would have been distantly related through the marriage of Thomas's uncle Edward to Elizabeth Lloyd and this relationship is shown here as the best explanation.</p>
 
 
 
