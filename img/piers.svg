@@ -224,11 +224,16 @@
       <tspan x="1075" y="834.25">Capt. William Peirce,</tspan>
       <tspan x="1075" y="850.25">d. 1647 Virginia</tspan>
     </text>
-    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="403" y="831">
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="403" y="831">
       <tspan x="403" y="831"></tspan>
     </text>
-    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="405" y="829">
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="405" y="829">
       <tspan x="405" y="829"></tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="488.667" y1="829.667" x2="488.667" y2="875.333"/>
+    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="459.667" y="888">
+      <tspan x="459.667" y="888">LLoyd Piers,</tspan>
+      <tspan x="459.667" y="904">b. 1595</tspan>
     </text>
   </g>
 </svg>
