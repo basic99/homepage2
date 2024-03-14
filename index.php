@@ -72,6 +72,7 @@ include "menu.php";
   <li><a href="http://www.hockeybuzz.com/cap-central/">NHL Salary Cap Info</a></li>
   <li><a href="http://www.watchingdurhambullsbaseball.com">Durham Bulls</a></li>
   <li><a href="/downloads/LGU-Map-03-18-19.pdf">NIFA Land-grant Colleges And Universities</a></li>
+  <li><a href='https://www.nps.gov/whsa/learn/nature/fossilized-footprints.htm'>Fossilized Footprints</a></li>
 </ul>
   </div>
   </div>
