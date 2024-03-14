@@ -49,7 +49,6 @@ include "menu.php";
   <li><a href="https://archives.ncdcr.gov/">North Carolina State Archives</a></li>
   <li><a href="http://docsouth.unc.edu/csr/index.html/volumes">Colonial and State Records of North Carolina</a></li>
   <li><a href="http://www.brantleyassociation.com/southampton_project/southampton_project_list.htm">Southampton Records</a></li>
-  <li><a href="https://www.vgs.org/links.php?sid=1">Virginia Genealogical Society Resources </a></li>
 </ul>
 <h4>Computer and GIS</h4>
 <ul>
@@ -57,7 +56,6 @@ include "menu.php";
   <li><a href="http://www.opengeospatial.org/">The Open Geospatial Consortium, Inc.</a></li>
   <li><a href="http://www.gdal.org/">Geospatial Data Abstraction Library</a></li>
   <li><a href="http://postgis.refractions.net/"> PostGIS</a></li>
-  <li><a href="http://www.epsg-registry.org/">EPSG Geodetic Parameter Registry</a></li>
   <li><a href="http://developer.mozilla.org/en/docs/Main_Page">Mozilla Developer Center</a></li>
   <li><a href="http://fuzzytolerance.info/">Fuzzy Tolerance GIS blog</a></li>
   <li><a href="http://www.zeldman.com/">Zeldman web design</a></li>
