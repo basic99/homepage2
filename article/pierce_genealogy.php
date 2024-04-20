@@ -102,6 +102,11 @@ include "../menu.php";
     <figcaption>Gwenwys tribe with Pierce's</figcaption>
   </figure>
 
+   <figure>
+    <img id='piers' src="/img/piers2.svg" alt="" />
+    <figcaption>Gwenwys tribe with Pierce's</figcaption>
+  </figure>
+
 
 
 
