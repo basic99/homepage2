@@ -95,7 +95,7 @@ include "../menu.php";
 
  <figure>
     <img class='piers' src="/img/piers.svg" alt="" />
-    <figcaption>Gwenwys tribe with Pierce's</figcaption>
+    <figcaption>Gwenwys tribe with Pierces (1)</figcaption>
   </figure>
 
 <p>The second genealogy is a more parsimonious tree that does not require adding any people to fit the known facts. It assumes that Margaret vch David was the aunt of Marsli vch David, hence she was the great aunt of Reynold and Roger. This matches the genealogies and the will of Margaret who names a sister Mally and a neice Margaret. The questions about this is whether the ages match the genealogy.</p>
@@ -104,7 +104,7 @@ include "../menu.php";
 
   <figure>
     <img class='piers' src="/img/piers2.svg" alt="" />
-    <figcaption>Gwenwys tribe with Pierce's</figcaption>
+    <figcaption>Gwenwys tribe with Pierces (2)</figcaption>
   </figure>
 
   <p>
