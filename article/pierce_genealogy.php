@@ -33,7 +33,7 @@
 
       }
 
-      #burgedin, #gwenwys, #piers {
+      #burgedin, #gwenwys, .piers {
         width: 100%;
       }
 
@@ -80,32 +80,37 @@ include "../menu.php";
   </figure>
 
   <p>William Peirce's great-grandmother Margaret vch David named her sister Mally in her Welshpool will dated 1540. Reynold ap David ap Griffith was her will administrator and was also the subject of a <a href='/downloads/pierce_genealogy/chancery_mally.pdf' target='_blank'>chancery case</a> concerning property owned by Maly ap [sic] David. The use of the 'ap' in a woman's Welsh name seems odd, but was evidently not unusual. The exact meaning is unclear. Since Maly was an unusual name and Reynold ap David ap Griffith appeared in both the will and chancery case, then almost certainly Maly was the sister mentioned in the will. The chancery case of Maly named Reynold ap David ap Griffithe and his brother Roger as her 'nyghe kynsman'. The page from Bartrum has the genealogy of Reynold and Roger of Burgedin.</p>
+<p>The chancery case concerning the property owned in Burgedin by Maly did not indicate that it was a widow's life portion or that it was jointly held with a living or deceased husband or that she was married or a widow. She may have been unmarried. Also, searching in the genealogies did not show any ways she might have been related to Reynold ap David by marriage and it seems more likely she was related by common ancestry.</p>
 
-  <p>The <a href='/img/E_179-222-355.jpg' target='_bland'>1546 subsidy</a> list for the hundred of Pole lists for the village of Burgedin Reynald ap David ap Gruffid, Roger ap David ap Gruffid, David ap Gruffid, and Hugh ap David ap Ieuan ap Dio. Since the father of Reynald ap David was still living it is less likely that he was the father of Margaret and Maly, since as the chancery case showed she owned land and she probably would not have inherited from her father if he was still living. Possibly Hugh ap David ap Ieuan ap Dio was the brother of Margaret and Maly, since a later chancery case showed that Margarets's grandson disputed land that had been owned by Ieuan ap Dio in the village of Trewern. </p>
+<p>The fact that the case  called Roger and Reynold Mally's kinsman and not brothers probably means that they were not her brothers. She could  not have been the sister of their father David ap Griffith since her Margaret and Mally's father was named David. Probably she was related to their mother who was named Marsli, which is a <a href='/img/welsh_names.jpg' target='_blank'>dimunitve</a> for Margaret.</p>
 
-   <p>The chancery case concerning the property owned in Burgedin by Maly did not indicate that it was a widow's life portion or that it was jointly held with a living or deceased husband or that she was married or a widow. She may have been unmarried. Also, searching in the genealogies did not show any ways she might have been related to Reynold ap David by marriage and it seems more likely she was  related by common ancestry. The will of Margaret vch David mentioned a neice named Margaret who has been placed as a child of Hugh ap David, but without any proof he had a daughter Margaret.</p>
-
-  <figure>
+<figure>
     <img id='gwenwys' src="/img/Gwenwys.jpg" alt="" />
     <figcaption>Gwenwys tribe</figcaption>
+</figure>
+
+<p>I have made 2 possible genealogies that show how Margaret and Mally might  have been related to Reynold and Roger of Burgedin by their mother Marsli. Since Margaret vch David and Marsli vch David had the same name, probably they were not sisters.</p>
+
+<p>One assumes that Margaret and Mally's father was David ap Ieuan ap Dio and that their mother was an unnamed sister of Marsli. The <a href='/img/E_179-222-355.jpg' target='_blank'>1546 subsidy</a> list for the hundred of Pole lists for the village of Burgedin Reynald ap David ap Gruffid, Roger ap David ap Gruffid, David ap Gruffid, and Hugh ap David ap Ieuan ap Dio. Possibly Hugh ap David ap Ieuan ap Dio was the brother of Margaret and Maly, since a later chancery case showed that Margarets's grandson disputed land that had been owned by Ieuan ap Dio in the village of Trewern. The will of Margaret vch David mentioned a neice named Margaret who has been placed as a child of Hugh ap David, but without any proof he had a daughter Margaret.</p>
+
+ <figure>
+    <img class='piers' src="/img/piers.svg" alt="" />
+    <figcaption>Gwenwys tribe with Pierce's</figcaption>
   </figure>
 
+<p>The second genealogy is a more parsimonious tree that does not require adding any people to fit the known facts. It assumes that Margaret vch David was the aunt of Marsli vch David, hence she was the great aunt of Reynold and Roger. This matches the genealogies and the will of Margaret who names a sister Mally and a neice Margaret. The questions about this is whether the ages match the genealogy.</p>
 
-
-  <p>The Bartrun genealogies show that the mother of Reynold ap David and Roger ap David was named Marsli vch David Goch. Perhaps the best explanation that Reynold ap David and Roger ap David were near kin of Margaret and Maly was that Marsli vch David Goch was their aunt. The name Marsli is a <a href='/img/welsh_names.jpg' target='_blank'>dimunitve</a> of Margaret, so if so Margaret vch David may have been named after her aunt.</p>
-
-<p>The records show that it is less likely that Margaret and Maly were sisters of Reynold ap David, or that Margaret and Maly's father was related to Reynold ap David or that the relation was by marriage. These possiblities can not be positively excluded but seem less likely. Hence, the most likely way Roger and Reynold ap David were near kinsman was that the mother of Margaret and Maly was the sister of either David ap Griffith or Marsli verch David Goch. In addition to the possible naming of Margaret for her aunt assigning their mother as the sister of Marsli ap David Goch shows how Captain William Peirce and Thomas Pierce would have been distantly related through the marriage of Thomas's uncle Edward to Elizabeth Lloyd. For these reasons this connection is considered the best explanation.</p>
-
+<p>The rough guide to the <a href='/img/ages.png' target='_blank'>generations</a> in Bartrums genealogy have the parents of David Goch (and Margaret?) as David LLwyd (12, b. 1400) and Alice f. Gruffud (13, b. 1430). If Margaret vch David was 65 when she died she would have been born 1475. The guide to Bartrun is rough so the ages are possible. The only 2 people in the genealogy who we have a good idea of their age span are Roger ap David (ca. 1510-1586) and Humfrey ap Piers (ca. 1535-1598). In this genealogy they would be second cousins and lived at the same time but one was probably 20-25 years older.</p>
 
   <figure>
-    <img id='piers' src="/img/piers.svg" alt="" />
+    <img class='piers' src="/img/piers2.svg" alt="" />
     <figcaption>Gwenwys tribe with Pierce's</figcaption>
   </figure>
 
-   <figure>
-    <img id='piers' src="/img/piers2.svg" alt="" />
-    <figcaption>Gwenwys tribe with Pierce's</figcaption>
-  </figure>
+  <p>
+     Either of these two genealogiies show how Captain William Peirce and Thomas Pierce would have been distantly related through the marriage of Thomas's uncle Edward to Elizabeth Lloyd.
+
+  </p>
 
 
 
