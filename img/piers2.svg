@@ -240,5 +240,20 @@
       <tspan x="1202.3" y="641.144"></tspan>
     </text>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1256.05" y1="599.302" x2="1239.78" y2="599.302"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="561" y1="516.876" x2="441.884" y2="517.166"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="442.552" y1="515.834" x2="442.552" y2="537.834"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="377.218" y="547.166">
+      <tspan x="377.218" y="547.166">David Lloyd, d. 1489</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="443.218" y1="551.834" x2="443.718" y2="572.75"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="411.218" y="539.166">
+      <tspan x="411.218" y="539.166"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="373.218" y="589.75">
+      <tspan x="373.218" y="589.75">Humffrey Lloyd, d. 1561</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="433.218" y="576.75">
+      <tspan x="433.218" y="576.75"></tspan>
+    </text>
   </g>
 </svg>
