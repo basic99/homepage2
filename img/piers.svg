@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="63cm" height="37cm" viewBox="104 203 1253 738" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="58cm" height="37cm" viewBox="104 203 1156 738" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g id="Background">
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="683" y="215">
       <tspan x="683" y="215">Gwenwys</tspan>
@@ -34,30 +34,57 @@
     </text>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="895.5" y1="427.334" x2="895.5" y2="464.668"/>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="872.168" y="478.668">
-      <tspan x="872.168" y="478.668">Dafydd Llwyd, b. ca. 1425</tspan>
+      <tspan x="872.168" y="478.668">Dafydd Llwyd</tspan>
     </text>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="588.166" y="470.666">
       <tspan x="588.166" y="470.666"></tspan>
     </text>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="896.166" y1="488.666" x2="896.166" y2="520"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="858.5" y="535">
-      <tspan x="858.5" y="535">Dafydd Goch</tspan>
-      <tspan x="858.5" y="551">b. ca. 1460</tspan>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="861.166" y="543">
+      <tspan x="861.166" y="543">Dafydd Goch</tspan>
     </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="898" y1="555.334" x2="898.108" y2="585.666"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="896" y1="552" x2="895.778" y2="574.624"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="832.5" y="601.666">
+      <tspan x="832.5" y="601.666">Marsli</tspan>
+    </text>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="764.834" y="575.166">
       <tspan x="764.834" y="575.166"></tspan>
     </text>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="770.834" y="573.834">
       <tspan x="770.834" y="573.834"></tspan>
     </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="718.834" y="592.166">
+      <tspan x="718.834" y="592.166">Dafydd </tspan>
+      <tspan x="718.834" y="608.166">ap Gruffudd</tspan>
+    </text>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="738.834" y="575.166">
       <tspan x="738.834" y="575.166"></tspan>
     </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="817.834" y1="596.834" x2="817.5" y2="625.832"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="757.834" y1="626.166" x2="877.166" y2="625.5"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="757.834" y1="628.166" x2="757.834" y2="650.166"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="817.5" y1="625.834" x2="817.834" y2="644.834"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="731.166" y="658.166">
+      <tspan x="731.166" y="658.166">Rheinallt</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="802.5" y="657.5">
+      <tspan x="802.5" y="657.5">Roger,</tspan>
+      <tspan x="802.5" y="673.5">d. 1586</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="820.834" y="643.166">
+      <tspan x="820.834" y="643.166"></tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="876.5" y1="628.166" x2="875.834" y2="648.834"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="863.166" y="657.5">
+      <tspan x="863.166" y="657.5">Alice</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="850.528" y1="574.374" x2="964.5" y2="574.25"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="851.278" y1="574.624" x2="851.5" y2="586.25"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="561" y1="500" x2="561" y2="533.75"/>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="532" y="546">
       <tspan x="532" y="546">Cadwaladr</tspan>
     </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="830" y1="596" x2="800" y2="596.25"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="562" y1="550" x2="562" y2="573.75"/>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="548" y="590">
       <tspan x="548" y="590">Huw</tspan>
@@ -100,6 +127,11 @@
       <tspan x="307" y="709">Williiam Peers,</tspan>
       <tspan x="307" y="725">d. 1599</tspan>
     </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="964" y1="574.25" x2="964" y2="594"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="951" y="604">
+      <tspan x="951" y="604">N.N.</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="978.964" y1="598.062" x2="1025.28" y2="598.124"/>
     <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="245" y1="776" x2="245" y2="818"/>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="185" y="831">
       <tspan x="185" y="831">William Piers</tspan>
@@ -123,14 +155,74 @@
       <tspan x="296" y="913.5">Thomas,</tspan>
       <tspan x="296" y="929.5">d. 1622 Virginia</tspan>
     </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1031.5" y="602.25">
+      <tspan x="1031.5" y="602.25">David ap Ieuan ap Dio</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1002.75" y1="597.968" x2="1002.71" y2="625.812"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="932.778" y1="626.374" x2="1088.03" y2="626.624"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="934" y1="626.75" x2="934.278" y2="650.624"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="918" y="659.25">
+      <tspan x="918" y="659.25">Mally,</tspan>
+      <tspan x="918" y="675.25">d. 1547</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1011.5" y1="627.75" x2="1011.5" y2="651.75"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="991" y="658.75">
+      <tspan x="991" y="658.75">Hugh</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1010" y1="662.75" x2="1010.28" y2="680.624"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1007" y="691.25">
+      <tspan x="1007" y="691.25">?</tspan>
+    </text>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="994.5" y="696.75">
       <tspan x="994.5" y="696.75"></tspan>
     </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="985" y="702.25">
+      <tspan x="985" y="702.25">Margaret</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1086.53" y1="626.874" x2="1086.5" y2="651.75"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1063.5" y="660.25">
+      <tspan x="1063.5" y="660.25">Margaret,</tspan>
+      <tspan x="1063.5" y="676.25">d. 1540</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1127" y1="656.75" x2="1145.5" y2="656.75"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1151.5" y="658.75">
+      <tspan x="1151.5" y="658.75">John ap Llewelyn</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1136.25" y1="656.75" x2="1136.53" y2="691.124"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1094.5" y="658.75">
+      <tspan x="1094.5" y="658.75"></tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1082" y1="691.25" x2="1196.5" y2="690.75"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1080.5" y1="691.25" x2="1080.5" y2="726.25"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1137" y1="691.25" x2="1137.03" y2="710.124"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1195.5" y1="692.25" x2="1196" y2="708.25"/>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1064" y="716.25">
       <tspan x="1064" y="716.25"></tspan>
     </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1052" y="739.75">
+      <tspan x="1052" y="739.75">Thomasin</tspan>
+    </text>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1092.5" y="719.75">
       <tspan x="1092.5" y="719.75"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1123.25" y="719.75">
+      <tspan x="1123.25" y="719.75">Anne</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1179" y="719.75">
+      <tspan x="1179" y="719.75">Elizabeth</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1117.5" y1="736.75" x2="1133.5" y2="736.75"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1138" y="741.25">
+      <tspan x="1138" y="741.25">PIers Reynold</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1125.5" y1="736.75" x2="1125.5" y2="770.5"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1080.5" y="786.25">
+      <tspan x="1080.5" y="786.25">Humfrey ap Piers Reynold</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1122.5" y1="789.75" x2="1122.5" y2="816.5"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1075" y="834.25">
+      <tspan x="1075" y="834.25">Capt. William Peirce,</tspan>
+      <tspan x="1075" y="850.25">d. 1647 Virginia</tspan>
     </text>
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="403" y="831">
       <tspan x="403" y="831"></tspan>
@@ -138,152 +230,10 @@
     <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="405" y="829">
       <tspan x="405" y="829"></tspan>
     </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="488.666" y1="829.666" x2="488.666" y2="875.334"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="459.666" y="888">
-      <tspan x="459.666" y="888">LLoyd Piers,</tspan>
-      <tspan x="459.666" y="904">b. 1595</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="994.778" y1="509.374" x2="1096.8" y2="509.644"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="996" y1="509.75" x2="996.164" y2="531.066"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="980" y="542.25">
-      <tspan x="980" y="542.25">Mally,</tspan>
-      <tspan x="980" y="558.25">d. 1547</tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1156.5" y="541.75">
-      <tspan x="1156.5" y="541.75"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="781.166" y="663.166">
-      <tspan x="781.166" y="663.166">Rheinallt</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="995" y1="510" x2="896.166" y2="509.834"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="888.5" y="599.666">
-      <tspan x="888.5" y="599.666">Marsli, b. ca. 1490</tspan>
-      <tspan x="888.5" y="615.666">dim. of Margaret</tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="774.834" y="590.166">
-      <tspan x="774.834" y="590.166">Dafydd </tspan>
-      <tspan x="774.834" y="606.166">ap Gruffudd</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="813.8" y1="627.144" x2="951.3" y2="627.144"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="814.3" y1="625.644" x2="813.834" y2="648.166"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="929" y="653">
-      <tspan x="929" y="653">Roger</tspan>
-      <tspan x="929" y="669">ca. 1510-1586</tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="872.628" y="640.75">
-      <tspan x="872.628" y="640.75"></tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="879.8" y1="648.144" x2="880.3" y2="627.144"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="862.666" y="660">
-      <tspan x="862.666" y="660">Alice</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="886" y1="594" x2="856.834" y2="593.834"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1271" y="643">
-      <tspan x="1271" y="643"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1170.13" y="535.25">
-      <tspan x="1170.13" y="535.25"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="900.628" y="594.25">
-      <tspan x="900.628" y="594.25"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="919.128" y="604.25">
-      <tspan x="919.128" y="604.25"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="879" y="659">
-      <tspan x="879" y="659"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="952.75" y="678.25">
-      <tspan x="952.75" y="678.25"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="948.3" y="651.144">
-      <tspan x="948.3" y="651.144"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1065.5" y="541.75">
-      <tspan x="1065.5" y="541.75">Margaret</tspan>
-      <tspan x="1065.5" y="557.75">b. ca. 1475</tspan>
-      <tspan x="1065.5" y="573.75">d. 1540</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1126.83" y1="538.5" x2="1163.5" y2="538.5"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1171.5" y="541.584">
-      <tspan x="1171.5" y="541.584">John ap Llewelyn</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1146.25" y1="538.916" x2="1146.17" y2="584.5"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1095.75" y1="511.25" x2="1095.8" y2="528.144"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="952.3" y1="626.644" x2="951.8" y2="643.144"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="871.416" y1="593.916" x2="871.3" y2="626.644"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1202.3" y="641.144">
-      <tspan x="1202.3" y="641.144"></tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="561" y1="516.876" x2="441.884" y2="517.166"/>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="442.552" y1="515.834" x2="442.552" y2="537.834"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="377.218" y="547.166">
-      <tspan x="377.218" y="547.166">David Lloyd, d. 1489</tspan>
-    </text>
-    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="443.218" y1="551.834" x2="443.718" y2="572.75"/>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="411.218" y="539.166">
-      <tspan x="411.218" y="539.166"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="373.218" y="589.75">
-      <tspan x="373.218" y="589.75">Humffrey Lloyd, d. 1561</tspan>
-      <tspan x="373.218" y="605.75">Memb. Parl. 1545, 1547 </tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="433.218" y="576.75">
-      <tspan x="433.218" y="576.75"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="895.5" y="475.166">
-      <tspan x="895.5" y="475.166"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="902.166" y="590.5">
-      <tspan x="902.166" y="590.5"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1085.5" y="542.5">
-      <tspan x="1085.5" y="542.5"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1188.17" y="598.5">
-      <tspan x="1188.17" y="598.5"></tspan>
-    </text>
-    <g transform="matrix(0.999446,0,0,1.00446,8.08068,-14.0548)">
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1084" y1="593.416" x2="1198.5" y2="592.916"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1139" y1="593.416" x2="1139.03" y2="612.29"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1197.92" y1="593.098" x2="1198" y2="610.416"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1125.25" y="621.916">
-        <tspan x="1125.25" y="621.916">Anne</tspan>
-      </text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1048" y="624.916">
-        <tspan x="1048" y="624.916">Elizabeth</tspan>
-      </text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1176" y="623.916">
-        <tspan x="1176" y="623.916">Thomasin</tspan>
-        <tspan x="1176" y="639.916">b. ca 1505</tspan>
-      </text>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1262" y="625.416">
-        <tspan x="1262" y="625.416">PIers Reynold</tspan>
-      </text>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1249.21" y1="621.028" x2="1249.21" y2="659.92"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1174" y="673.916">
-        <tspan x="1174" y="673.916">Humfrey ap Piers Reynold</tspan>
-        <tspan x="1174" y="689.916">ca. 1535-1598</tspan>
-      </text>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1249" y1="695.416" x2="1249" y2="722.166"/>
-      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1198.5" y="739.916">
-        <tspan x="1198.5" y="739.916">Capt. William Peirce,</tspan>
-        <tspan x="1198.5" y="755.916">d. 1647 Virginia</tspan>
-      </text>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1084" y1="594.166" x2="1084.08" y2="608.3"/>
-      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="1258.05" y1="619.968" x2="1241.78" y2="619.968"/>
-    </g>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1110.83" y="555.834">
-      <tspan x="1110.83" y="555.834"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="914.834" y="609.166">
-      <tspan x="914.834" y="609.166"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="428.654" y="585.167">
-      <tspan x="428.654" y="585.167"></tspan>
-    </text>
-    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="445.321" y="587.833">
-      <tspan x="445.321" y="587.833"></tspan>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="488.667" y1="829.667" x2="488.667" y2="875.333"/>
+    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="459.667" y="888">
+      <tspan x="459.667" y="888">LLoyd Piers,</tspan>
+      <tspan x="459.667" y="904">b. 1595</tspan>
     </text>
   </g>
 </svg>
