@@ -50,6 +50,7 @@ include "menu.php";
   <li><a href="http://docsouth.unc.edu/csr/index.html/volumes">Colonial and State Records of North Carolina</a></li>
   <li><a href="http://www.brantleyassociation.com/southampton_project/southampton_project_list.htm">Southampton Records</a></li>
   <li><a href="https://directlinesoftware.com/WordPress/index.php/land-record-reference/">Land Record Reference</a></li>
+  <li><a href="https://www.digitalnc.org/">Digital NC (newpapers)</a></li>
 </ul>
 <h4>Computer and GIS</h4>
 <ul>
