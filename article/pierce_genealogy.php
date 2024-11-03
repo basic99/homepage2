@@ -111,7 +111,7 @@
   </figure>
 
   <p>
-     Either of these two genealogiies show how Captain William Peirce and Thomas Pierce would have been distantly related through the marriage of Thomas's uncle Edward to Elizabeth Lloyd.
+     This genealogy shows how Captain William Peirce and Thomas Pierce would have been distantly related through the marriage of Thomas's uncle Edward to Elizabeth Lloyd.
 
   </p>
 
