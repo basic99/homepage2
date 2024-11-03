@@ -52,7 +52,7 @@
   <body>
 
 <?php
-include "../menu.php";
+    include "../menu.php";
 ?>
 
   <div  class='marspic'>
@@ -89,22 +89,25 @@ include "../menu.php";
     <figcaption>Gwenwys tribe</figcaption>
 </figure>
 
-<p>I have made 2 possible genealogies that show how Margaret and Mally might  have been related to Reynold and Roger of Burgedin by their mother Marsli. Since Margaret vch David and Marsli vch David had the same name, probably they were not sisters.</p>
+<!-- <p>I have made 2 possible genealogies that show how Margaret and Mally might  have been related to Reynold and Roger of Burgedin by their mother Marsli. Since Margaret vch David and Marsli vch David had the same name, probably they were not sisters.</p>
 
 <p>One assumes that Margaret and Mally's father was David ap Ieuan ap Dio and that their mother was an unnamed sister of Marsli. The <a href='/img/E_179-222-355.jpg' target='_blank'>1546 subsidy</a> list for the hundred of Pole lists for the village of Burgedin Reynald ap David ap Gruffid, Roger ap David ap Gruffid, David ap Gruffid, and Hugh ap David ap Ieuan ap Dio. Possibly Hugh ap David ap Ieuan ap Dio was the brother of Margaret and Maly, since a later chancery case showed that Margarets's grandson disputed land that had been owned by Ieuan ap Dio in the village of Trewern. The will of Margaret vch David mentioned a neice named Margaret who has been placed as a child of Hugh ap David, but without any proof he had a daughter Margaret.</p>
 
  <figure>
     <img class='piers' src="/img/piers.svg" alt="" />
     <figcaption>Gwenwys tribe with Pierces (1)</figcaption>
-  </figure>
+  </figure> -->
 
-<p>The second genealogy is a more parsimonious tree that does not require adding any people to fit the known facts. It assumes that Margaret vch David was the aunt of Marsli vch David, hence she was the great aunt of Reynold and Roger. This matches the genealogies and the will of Margaret who names a sister Mally and a neice Margaret. The questions about this is whether the ages match the genealogy.</p>
+
+<p>The <a href='/img/E_179-222-355.jpg' target='_blank'>1546 subsidy</a> list for the hundred of Pole lists for the village of Burgedin Reynald ap David ap Gruffid, Roger ap David ap Gruffid, David ap Gruffid, which shows that the father of Reynold and Roger was still living at this time. </p>
+
+<p> A possible genealogy for the Burgedin family is shown - a parsimonious tree that does not require adding any people to fit the known facts. It assumes that Margaret vch David was the aunt of Marsli vch David, hence she was the great aunt of Reynold and Roger. This matches the Bartrum genealogies, the will of Margaret that names a sister Mally and a niece Margaret, and the chancery case concerning the will of Mally that names Roger and Reynold her nigh kinsmen. The questions about this is whether the ages match the genealogy.</p>
 
 <p>The rough guide to the <a href='/img/ages.png' target='_blank'>generations</a> in Bartrums genealogy have the parents of David Goch (and Margaret?) as David LLwyd (12, b. 1400) and Alice f. Gruffud (13, b. 1430). If Margaret vch David was 65 when she died she would have been born 1475. The guide to Bartrun is rough so the ages are possible. The only 2 people in the genealogy who we have a good idea of their age span are Roger ap David (ca. 1510-1586) and Humfrey ap Piers (ca. 1535-1598). In this genealogy they would be second cousins and lived at the same time but one was probably 20-25 years older.</p>
 
   <figure>
     <img class='piers' src="/img/piers2.svg" alt="" />
-    <figcaption>Gwenwys tribe with Pierces (2)</figcaption>
+    <figcaption>Gwenwys tribe with Pierces</figcaption>
   </figure>
 
   <p>
