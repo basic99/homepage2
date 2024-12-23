@@ -32,8 +32,8 @@
     <h2>Home</h2>
 
 <select class="form-select" aria-label="Default select example">
-  <option value="">N</option>
-  <option value="">NxE</option>
+  <option value="0">N</option>
+  <option value="11.25">NxE</option>
   <option value="">NNE</option>
   <option value="">NExN</option>
   <option value=""></option>
