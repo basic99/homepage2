@@ -19,7 +19,7 @@
   <body>
 
 <?php
-include "menu.php";
+    include "menu.php";
 ?>
 
   <div  class='marspic'>
@@ -61,6 +61,7 @@ include "menu.php";
   <li><a href="http://developer.mozilla.org/en/docs/Main_Page">Mozilla Developer Center</a></li>
   <li><a href="http://fuzzytolerance.info/">Fuzzy Tolerance GIS blog</a></li>
   <li><a href="http://www.zeldman.com/">Zeldman web design</a></li>
+  <li><a href="/article/compass-headings.php">Metes and Bounds with QGIS</a></li>
 </ul>
 <h4>Cool Stuff</h4>
 <ul>

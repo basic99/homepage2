@@ -32,7 +32,7 @@
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-8">
-    <h2>Home</h2>
+    <h2>Metes and Bounds with QGIS</h2>
 
     <p><a href='https://www.directlinesoftware.com/metes.htm' target='_blank'>Metes and Bounds Surveys</a></p>
     <p><a href='http://bit.ly/4gltvax' target='_blank'>Create a Polygon in QGIS - GIS Tutorial</a></p>
