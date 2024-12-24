@@ -31,9 +31,12 @@
   <div class="col-md-8">
     <h2>Home</h2>
 
+    <p><a href='https://www.directlinesoftware.com/metes.htm' target='_blank'>Metes and Bounds Surveys</a></p>
+    <p><a href='http://bit.ly/4gltvax' target='_blank'>Create a Polygon in QGIS - GIS Tutorial</a></p>
+
 <select class="form-select" aria-label="Default select example">
-  <option value="0">N</option>
-  <option value="11.25">NxE</option>
+  <option value="">N</option>
+  <option value="">NxE</option>
   <option value="">NNE</option>
   <option value="">NExN</option>
   <option value=""></option>
