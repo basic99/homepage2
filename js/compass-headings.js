@@ -21,5 +21,7 @@ $(document).ready(function() {
         let degrees_counterclockwise =  (450 - parseInt(degrees)) % 360;
         let radians = (degrees_counterclockwise / 180) * Math.PI;
         console.log(radians);
+        let distance = $("#distance").val();
+        console.log(distance)
     })
 })

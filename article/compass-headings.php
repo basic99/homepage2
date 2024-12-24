@@ -99,7 +99,7 @@
   <div class="col-md-4">
       <div class="form-group">
           <label >distance:</label>
-          <input value='0' type="text" class="form-control" id="start_y">
+          <input id='distance' value='100' type="text" class="form-control" id="start_y">
         </div>
   </div>
 </div>
