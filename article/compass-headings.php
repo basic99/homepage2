@@ -13,6 +13,9 @@
 
 
     <style>
+        p {
+            margin-top: 20px;
+        }
     </style>
 
   </head>
@@ -68,6 +71,8 @@
   <option value="">NNW</option>
   <option value="">NxW</option>
 </select>
+
+<p id='degrees'>0</p>
 
 
 
