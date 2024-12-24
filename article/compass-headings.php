@@ -73,6 +73,51 @@
 </select>
 
 <p id='degrees'>0</p>
+</div>
+</div>
+
+<div class="row g-5 bg-light rounded">
+  <div class="col-md-2"></div>
+  <div class="col-md-4">
+      <div class="form-group">
+          <label >start x:</label>
+          <input value='0' type="text" class="form-control" id="start_x">
+        </div>
+  </div>
+  <div class="col-md-4">
+      <div class="form-group">
+          <label >start y:</label>
+          <input value='0' type="text" class="form-control" id="start_y">
+        </div>
+  </div>
+</div>
+<div class="row g-5 bg-light rounded">
+  <div class="col-md-2"></div>
+  <div class="col-md-4">
+      <div class="form-group">
+          <label >distance:</label>
+          <input value='0' type="text" class="form-control" id="start_y">
+        </div>
+  </div>
+</div>
+
+<div class="row g-5 bg-light rounded">
+  <div class="col-md-2"></div>
+  <div class="col-md-4">
+      <div class="form-group">
+          <label >end x:</label>
+          <input value='0' type="text" class="form-control" id="end_x">
+        </div>
+  </div>
+  <div class="col-md-4">
+      <div class="form-group">
+          <label >end y:</label>
+          <input value='0' type="text" class="form-control" id="end_y">
+        </div>
+  </div>
+</div>
+
+
 
 
 
