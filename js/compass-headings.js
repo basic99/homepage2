@@ -18,7 +18,8 @@ $(document).ready(function() {
 
     $("button").click(function() {
         console.log("clicked");
-        let radians =  (450 - parseInt(degrees)) % 360;
+        let degrees_counterclockwise =  (450 - parseInt(degrees)) % 360;
+        let radians = (degrees_counterclockwise / 180) * Math.PI;
         console.log(radians);
     })
 })
