@@ -16,6 +16,9 @@
         p {
             margin-top: 20px;
         }
+        button {
+            margin-top: 20px;
+        }
     </style>
 
   </head>
@@ -115,6 +118,13 @@
           <input value='0' type="text" class="form-control" id="end_y">
         </div>
   </div>
+</div>
+
+<div class="row g-5 bg-light rounded">
+  <div class="col-md-2"></div>
+  <div class="col-md-4">
+<button type="button" class="btn btn-primary">Calculate</button>
+</div>
 </div>
 
 
