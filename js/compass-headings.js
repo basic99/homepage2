@@ -37,10 +37,13 @@ $(document).ready(function() {
         let radians = (degrees_trig / 180) * Math.PI;
         console.log(radians);
         let distance = $("#distance").val();
-        console.log(distance)
-        let end_x = Math.cos(radians) * parseFloat(distance);
+        let start_x = $("#start_x").val();
+        let start_y = $("#start_y").val();
+        // console.log(start_y);
+        // console.log(distance)
+        let end_x = Math.cos(radians) * parseFloat(distance) + parseFloat(start_x);
         $("#end_x").val(end_x.toFixed(5));
-        let end_y = Math.sin(radians) * parseFloat(distance);
+        let end_y = Math.sin(radians) * parseFloat(distance) + parseFloat(start_y);
         $("#end_y").val(end_y.toFixed(5));
 
     })
