@@ -1,3 +1,15 @@
+
+function compass2trig(degrees) {
+
+    if (degrees <= 90) {
+        return 90 - degrees;
+    } else {
+        let val = degrees - 90;
+        return 360 - val;
+    }
+
+}
+
 $(document).ready(function() {
 
     var degrees_compass = 0;
@@ -14,7 +26,8 @@ $(document).ready(function() {
         let x = `selectedIndex: ${index}`;
         console.log(x);
         degrees_compass = index * 11.25;
-        degrees_trig =  (450 - parseInt(degrees_compass)) % 360;
+        degrees_trig = compass2trig(degrees_compass);
+
         $("#degrees_compass").html(`equivalent compass degrees: ${degrees_compass}`);
         $("#degrees_trig").html(`equivalent trigonometry degrees: ${degrees_trig}`);
     });
