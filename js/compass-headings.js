@@ -40,6 +40,8 @@ $(document).ready(function() {
         console.log(distance)
         let end_x = Math.cos(radians) * parseFloat(distance);
         $("#end_x").val(end_x.toFixed(5));
+        let end_y = Math.sin(radians) * parseFloat(distance);
+        $("#end_y").val(end_y.toFixed(5));
 
     })
 })
