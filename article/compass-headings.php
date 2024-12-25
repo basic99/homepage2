@@ -110,7 +110,7 @@
   <div class="col-md-4">
       <div class="form-group">
           <label >end x:</label>
-          <input value='0' type="text" class="form-control" id="end_x">
+          <input style='width:20;' value='0' type="text" class="form-control" id="end_x">
         </div>
   </div>
   <div class="col-md-4">

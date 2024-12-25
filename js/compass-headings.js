@@ -38,5 +38,8 @@ $(document).ready(function() {
         console.log(radians);
         let distance = $("#distance").val();
         console.log(distance)
+        let end_x = Math.cos(radians) * parseFloat(distance);
+        $("#end_x").val(end_x.toFixed(5));
+
     })
 })
