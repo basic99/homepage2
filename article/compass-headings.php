@@ -75,8 +75,8 @@
   <option value="">NxW</option>
 </select>
 
-<p id='degrees_compass'>0</p>
-<p id='degrees_trig'>90</p>
+<p id='degrees_compass'>equivalent compass degrees: 0</p>
+<p id='degrees_trig'>equivalent trigonometry degrees: 90</p>
 </div>
 </div>
 
