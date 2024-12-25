@@ -1,6 +1,7 @@
 $(document).ready(function() {
 
     var degrees = 0;
+    var degrees_counterclockwise = 90;
 
     console.log("ready");
     $("#degrees").html(`equivalent degrees: 0`);
@@ -13,7 +14,9 @@ $(document).ready(function() {
         let x = `selectedIndex: ${index}`;
         console.log(x);
         degrees = index * 11.25;
-        $("#degrees").html(`equivalent degrees: ${degrees}`);
+        degrees_counterclockwise =  (450 - parseInt(degrees)) % 360;
+        $("#degrees_compass").html(`equivalent compass degrees: ${degrees}`);
+        $("#degrees_trig").html(`equivalent trigonometry degrees: ${degrees_counterclockwise}`);
     });
 
     $("button").click(function() {
