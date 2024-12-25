@@ -34,8 +34,7 @@ $(document).ready(function() {
 
     $("button").click(function() {
         console.log("clicked");
-        let degrees_counterclockwise =  (450 - parseInt(degrees)) % 360;
-        let radians = (degrees_counterclockwise / 180) * Math.PI;
+        let radians = (degrees_trig / 180) * Math.PI;
         console.log(radians);
         let distance = $("#distance").val();
         console.log(distance)
