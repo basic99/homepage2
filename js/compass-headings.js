@@ -32,7 +32,7 @@ $(document).ready(function() {
         $("#degrees_trig").html(`equivalent trigonometry degrees: ${degrees_trig}`);
     });
 
-    $("button").click(function() {
+    $("#calculate").click(function() {
         console.log("clicked");
         let radians = (degrees_trig / 180) * Math.PI;
         console.log(radians);
@@ -46,5 +46,12 @@ $(document).ready(function() {
         let end_y = Math.sin(radians) * parseFloat(distance) + parseFloat(start_y);
         $("#end_y").val(end_y.toFixed(5));
 
-    })
-})
+    });
+
+    $("#reset").click(function() {
+        window.location.reload();
+    });
+
+
+
+});

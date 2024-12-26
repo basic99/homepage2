@@ -124,7 +124,10 @@
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
   <div class="col-md-4">
-<button type="button" class="btn btn-primary">Calculate</button>
+<button id='calculate' type="button" class="btn btn-primary">Calculate</button>
+</div>
+<div class="col-md-4">
+<button id='reset' type="button" class="btn btn-primary">reset</button>
 </div>
 </div>
 
