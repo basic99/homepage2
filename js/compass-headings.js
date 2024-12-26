@@ -42,9 +42,9 @@ $(document).ready(function() {
         // console.log(start_y);
         // console.log(distance)
         let end_x = Math.cos(radians) * parseFloat(distance) + parseFloat(start_x);
-        $("#end_x").val(end_x.toFixed(5));
+        $("#end_x").val(end_x.toFixed(3));
         let end_y = Math.sin(radians) * parseFloat(distance) + parseFloat(start_y);
-        $("#end_y").val(end_y.toFixed(5));
+        $("#end_y").val(end_y.toFixed(3));
 
     });
 
