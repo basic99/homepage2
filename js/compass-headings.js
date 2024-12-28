@@ -55,7 +55,7 @@ $(document).ready(function() {
         points_list_fn = function(points_list) {
             let text = '';
             points_list.forEach((el) => {
-                text += `${el[0]},${el[1]}\n`
+                text += `${el[0]}  ${el[1]}\n`
             });
             return text;
         }
