@@ -126,7 +126,9 @@
   <div class="col-md-4">
 <button id='calculate' type="button" class="btn btn-primary">Calculate</button>
 </div>
-<div class="col-md-4">
+<div class="col-md-2">
+<button id='add_point' type="button" class="btn btn-primary">add point</button>
+</div><div class="col-md-2">
 <button id='reset' type="button" class="btn btn-primary">reset</button>
 </div>
 </div>
