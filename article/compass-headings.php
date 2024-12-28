@@ -34,7 +34,7 @@
 <main class="container">
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
-  <div class="col-md-8">
+  <div class="col-md-6">
     <h2>Metes and Bounds with QGIS</h2>
 
     <p><a href='https://www.directlinesoftware.com/metes.htm' target='_blank'>Metes and Bounds Surveys</a></p>
@@ -85,7 +85,7 @@
   <div class="col-md-6">
     <div class="form-group">
       <label for="comment">Points table:</label>
-      <textarea class="form-control" rows="5" id="comment"></textarea>
+      <textarea class="form-control" rows="5" id="points_table"></textarea>
     </div>
     </div>
     </div>

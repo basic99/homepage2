@@ -14,6 +14,7 @@ $(document).ready(function() {
 
     var degrees_compass = 0;
     var degrees_trig = 90;
+    var points_list = [];
 
     console.log("ready");
     $("#degrees").html(`equivalent degrees: 0`);
@@ -45,6 +46,15 @@ $(document).ready(function() {
         $("#end_x").val(end_x.toFixed(3));
         let end_y = Math.sin(radians) * parseFloat(distance) + parseFloat(start_y);
         $("#end_y").val(end_y.toFixed(3));
+
+        points_list.push([start_x, start_y]);
+        points_list.push([end_x.toFixed(3), end_y.toFixed(3)]);
+        console.log(points_list);
+
+        $("#points_table").val(points_list);
+
+
+
 
     });
 
