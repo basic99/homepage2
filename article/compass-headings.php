@@ -82,6 +82,16 @@
 
 <div class="row g-5 bg-light rounded">
   <div class="col-md-2"></div>
+  <div class="col-md-6">
+    <div class="form-group">
+      <label for="comment">Points table:</label>
+      <textarea class="form-control" rows="5" id="comment"></textarea>
+    </div>
+    </div>
+    </div>
+
+<div class="row g-5 bg-light rounded">
+  <div class="col-md-2"></div>
   <div class="col-md-4">
       <div class="form-group">
           <label >start x:</label>
