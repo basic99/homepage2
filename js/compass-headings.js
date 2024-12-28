@@ -51,6 +51,9 @@ $(document).ready(function() {
     $("#reset").click(function() {
         window.location.reload();
     });
+    $("#add_point").click(function() {
+       console.log("add point")
+    });
 
 
 
