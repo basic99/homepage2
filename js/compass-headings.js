@@ -9,6 +9,14 @@ function compass2trig(degrees) {
 
 }
 
+var points_list_fn = function(points_list) {
+    let text = '';
+    points_list.forEach((el) => {
+        text += `${el[0]}  ${el[1]}\n`
+    });
+    return text;
+}
+
 $(document).ready(function() {
 
     var degrees_compass = 0;
@@ -52,13 +60,7 @@ $(document).ready(function() {
         points_list.push([end_x.toFixed(3), end_y.toFixed(3)]);
         console.log(points_list);
 
-        points_list_fn = function(points_list) {
-            let text = '';
-            points_list.forEach((el) => {
-                text += `${el[0]}  ${el[1]}\n`
-            });
-            return text;
-        }
+
 
         let points_list_text = points_list_fn(points_list);
 
