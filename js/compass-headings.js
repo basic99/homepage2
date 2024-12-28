@@ -52,7 +52,14 @@ $(document).ready(function() {
         window.location.reload();
     });
     $("#add_point").click(function() {
-       console.log("add point")
+       console.log("add point");
+       let start_x = $("#end_x").val();
+       $("#end_x").val('0');
+       $("#start_x").val(start_x);
+
+       let start_y = $("#end_y").val();
+       $("#end_y").val('0');
+       $("#start_y").val(start_y);
     });
 
 
