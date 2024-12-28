@@ -65,6 +65,7 @@ $(document).ready(function() {
         let points_list_text = points_list_fn(points_list);
 
         $("#points_table").val(points_list_text);
+        $("#calculate").attr('disabled', 'disabled');
 
 
 
@@ -72,6 +73,7 @@ $(document).ready(function() {
 
     $("#reset").click(function() {
         window.location.reload();
+        $("#calculate").removeAttr('disabled');
     });
     $("#add_point").click(function() {
         console.log("add point");
@@ -82,6 +84,8 @@ $(document).ready(function() {
         let start_y = $("#end_y").val();
         $("#end_y").val('0');
         $("#start_y").val(start_y);
+        $("#calculate").removeAttr('disabled');
+
     });
 
 
