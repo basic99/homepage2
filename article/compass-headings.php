@@ -150,9 +150,14 @@
             <ol>
                 <li>Download historic topo maps for the area of interest from <a href='https://www.usgs.gov/the-national-map-data-delivery/topographic-map-access-points'> usgs</a></li>
                 <li>Crop topos the remove border material</li>
-                <li></li>
-                <li></li>
+                <li>Use the QGIS georeferencer to reference the topo maps. They will be saved with updated name ending _modified.tif. Import the georeferenced raster files into QGIS. They should line up, ie, roads, rivers, etc. should be continuous even if maps are styled differently.</li>
+                <li>Update the project CRS from WGS 84 to a state plane. I used the Virginia state plane ESRI:102747.</li>
+                <li>Watch the tutorial to see how to create polygons and edit the vertices. It is easiest to first create a rough outline of the deeds or grants and then use this app to calculate more precise bearings. Use the atrribute table field calculator to check that the areas drawn correspond at least roughly to the area cited in the deed or grant. You can add an acres column with this formula: area($geometry) / 43560.</li>
             </ol>
+            <figure>
+              <img src="/img/warwick_qgis.png" alt="Trulli" style="width:100%">
+              <figcaption>Three land grants in Warwick County, Virginia.</figcaption>
+            </figure>
         </div>
     </div>
 
