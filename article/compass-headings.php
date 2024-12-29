@@ -143,7 +143,18 @@
 </div>
 </div>
 
-
+    <div class="row g-5 bg-light rounded">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <h4 style='padding-top: 25px;'>Notes</h4>
+            <ol>
+                <li>Download historic topo maps for the area of interest from <a href='https://www.usgs.gov/the-national-map-data-delivery/topographic-map-access-points'> usgs</a></li>
+                <li>Crop topos the remove border material</li>
+                <li></li>
+                <li></li>
+            </ol>
+        </div>
+    </div>
 
 
 
