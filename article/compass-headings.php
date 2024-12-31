@@ -158,6 +158,8 @@
               <img src="/img/warwick_qgis.png" alt="Trulli" style="width:100%">
               <figcaption>Three land grants in Warwick County, Virginia.</figcaption>
             </figure>
+
+            <!-- <h4 style='padding-top: 25px;'>Warwick County grants</h4> -->
         </div>
     </div>
 
