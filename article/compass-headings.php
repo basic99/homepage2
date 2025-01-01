@@ -38,7 +38,7 @@
     <h2>Metes and Bounds with QGIS</h2>
 
     <p><a href='https://www.directlinesoftware.com/metes.htm' target='_blank'>Metes and Bounds Surveys</a></p>
-    <p><a href='http://bit.ly/4gltvax' target='_blank'>Create a Polygon in QGIS - GIS Tutorial</a></p>
+    <p><a href='https://www.youtube.com/watch?v=knD2S89FV04' target='_blank'>Create a Polygon in QGIS - GIS Tutorial</a></p>
 
 <select id='headings' class="form-select" aria-label="Default select example">
   <option value="">N</option>
