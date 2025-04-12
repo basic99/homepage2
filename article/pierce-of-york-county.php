@@ -19,7 +19,7 @@
   <body>
 
 <?php
-include "../menu.php";
+    include "../menu.php";
 ?>
 
   <div  class='marspic'>
@@ -36,7 +36,9 @@ include "../menu.php";
 
 <blockquote>Matthew Pierce of Bruton Parish, York Co. 4 Sept. 1737. To my wife on condition she relinquished her right of dower to all my estate all the estate real &amp; personal which she had when I intermarried with her and also all the profits there of which estate &amp; profits is in the hands of Henry Tyler and she may keep my younger dau and have the use of the chamber &amp; shed in my house until she is married or otherwise provided for. I desire Henry Tyler may be paid 50 pounds. I desire my son John Pierce may be paid 103 pounds it being the balance of my grandfather John Steward's estate. I give to my daughter Mitchell a ring of pistole valsue. I give to my dau Marrable a ring of pistole value. I give to my son Matthew Poerce all my lansds and four Negoes, to wit , Matt, Charles, John &amp; Old Aylce, and 1/7 pt of my personal estate. My will is that my youngest children may choose their guardians, and that they be educated and maintained out of the profits of their estate. I desire that all the rest of my estate be divided amongst my six children, to wit, John, Anne, Susanna, Richard, William, &amp; Mildred. I desire my good friends Richard Booker, Robert Goodrich &amp; my son in law Willam Marrable to be directors, assistants, and trustees with my executores. I appoint my sons Matthew Pierce and John Pierce executors. Wit Richard Booker, Robert Goodrich, Thomas Leigh. Proved 20 Mar 1737.</blockquote>
 
-<p>Matthew Pierce, son of above, died in 1755 when his estate was recorded in York County. A son of this Matthew Pierce was <a href="https://www.georgiaencyclopedia.org/articles/history-archaeology/william-pierce-1753-1789">William Pierce </a>(1753-1789) who was an officer in the Revolutionary War, was member of the Continental Congress for Georgia and attended the Constitutional Convention in 1787.
+<p>Matthew Pierce, son of above, died in 1755 when his estate was recorded in York County. A son of this Matthew Pierce was <a href="https://www.georgiaencyclopedia.org/articles/history-archaeology/william-pierce-1753-1789">William Pierce </a>(1753-1789) who was an officer in the Revolutionary War, was member of the Continental Congress for Georgia and attended the Constitutional Convention in 1787.</p>
+
+<p>A court order in York County dated 20 July 1724 says that the inventory of the estate of Rebecca Bee was returned by Matthew Pierce, Joseph Pierce and Robert Crawley [Kathleen Ingram, York County, Virginia, Deeds, Orders, Wills, etc 1722-1725]. This record shows that Joseph Peirce Sr. and Jr. who were in Warwick County records in 1713 were likely members of this presumably unrelated family living in York County.</p>
 
 
 

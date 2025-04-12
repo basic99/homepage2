@@ -25,6 +25,7 @@
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
             <li><a class="dropdown-item" href="/article/pierce_genealogy.php">Pierce Genealogy</a></li>
             <li><a class="dropdown-item" href="/article/rice-bolton-pierce-of-halifax-county-n-c.php">Rice Bolton Pierce Of Halifax County</a></li>
+            <li><a class="dropdown-item" href="/article/pierce-of-york-county.php">Pierce of York County</a></li>
 
             <li> <div class="dropdown-divider"></div></li>
 
