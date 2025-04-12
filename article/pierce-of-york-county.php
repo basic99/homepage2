@@ -38,7 +38,7 @@
 
 <p>Matthew Pierce, son of above, died in 1755 when his estate was recorded in York County. A son of this Matthew Pierce was <a href="https://www.georgiaencyclopedia.org/articles/history-archaeology/william-pierce-1753-1789">William Pierce </a>(1753-1789) who was an officer in the Revolutionary War, was member of the Continental Congress for Georgia and attended the Constitutional Convention in 1787.</p>
 
-<p>A court order in York County dated 20 July 1724 says that the inventory of the estate of Rebecca Bee was returned by Matthew Pierce, Joseph Pierce and Robert Crawley [Kathleen Ingram, York County, Virginia, Deeds, Orders, Wills, etc 1722-1725]. This record shows that Joseph Peirce Sr. and Jr. who were in Warwick County records in 1713 were likely members of this presumably unrelated family living in York County.</p>
+<p>A court order in York County dated 20 July 1724 says that the inventory of the estate of Rebecca Bee was returned by Matthew Pierce, Joseph Pierce and Robert Crawley [Kathleen Ingram, York County, Virginia, Deeds, Orders, Wills, etc 1722-1725]. This record shows that Joseph Peirce Sr. and Jr. who were in Warwick County records in 1713 were likely members of this family which was presumably unrelated to the family of Capt. Wm. Pierce.</p>
 
 
 
