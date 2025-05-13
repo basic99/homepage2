@@ -19,7 +19,7 @@
   <body>
 
 <?php
-    include "menu.php";
+include "menu.php";
 ?>
 
   <div  class='marspic'>
@@ -44,7 +44,7 @@
   <li><a href="http://www.medievalgenealogy.org.uk/index.html">Medieval English Genealogy</a></li>
   <li><a href="http://www.genuki.org.uk/big/eng/">GENUKI UK and Ireland Genealogy</a></li>
   <li><a href="https://www.familysearch.org/search/">International Genealogical Index</a></li>
-  <li><a href="http://www.virginiamemory.com/collections/collections_by_topic">Library of Virginia </a></li>
+  <li><a href="https://lva-virginia.libguides.com/">Library of Virginia </a></li>
   <li><a href="https://statelibrary.ncdcr.gov/research/genealogy-and-family-history">North Carolina Genealogy Library</a></li>
   <li><a href="https://archives.ncdcr.gov/">North Carolina State Archives</a></li>
   <li><a href="http://docsouth.unc.edu/csr/index.html/volumes">Colonial and State Records of North Carolina</a></li>
