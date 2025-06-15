@@ -19,6 +19,9 @@
         button {
             margin-top: 20px;
         }
+        html {
+          scroll-padding-top: 5rem;
+        }
     </style>
 
   </head>
@@ -154,12 +157,13 @@ include "../menu.php";
                 <li>Update the project CRS from WGS 84 to a state plane. I used the Virginia state plane ESRI:102747.</li>
                 <li>Watch the tutorial to see how to create polygons and edit the vertices. It is easiest to first create a rough outline of the deeds or grants and then use this app to calculate more precise bearings. Use the atrribute table field calculator to check that the areas drawn correspond at least roughly to the area cited in the deed or grant. You can add an acres column with this formula: area($geometry) / 43560.</li>
             </ol>
+            <h4  id="warwick_map" >The Warwick County Grants</h4>
             <figure>
               <img src="/img/warwick_qgis.png" alt="Trulli" style="width:100%">
               <figcaption>Three land grants in Warwick County, Virginia.</figcaption>
             </figure>
 
-            <h4 style='padding-top: 25px;'>The Warwick County Grants</h4>
+            <h4 style='padding-top: 25px;'>Notes</h4>
             <p>The 1668 grant to William Pierce ran NExE along George Harwoods line to a marked marked pohickory. The 1669 grant to Thomas Iken ran along the river and followed the bounds of the grant to William Pierce and at George Harwoods line ran to 'marked pohickory standining nere George Harwooods lyne and bounded on these two by the land of John Basse'. The grant to William Peirce fits perfectly against the grant to Thomas Iken. The 1674 grant placement to Thomas Pierce is also aided by its alignment to the Iken grant, by which time Iken had died and his lands escheated.</p>
             <p>The calculations of acres plotted with QGIS give William Pierce 102 acres, Thomas Pierce 161 acres and Thomas Iken 1876 acres. The acreage given in the grants is 100 acres for William Pierce and 155 acres for Thomas Pierce - so close matchs. The marginal entry for the Iken grant is 1350 acres which is not close the value given by the bounds plotted with QGIS. However, a closer reading of the grant seems to indicate that 1350 is not the correct total but just that part that was part of a grant to Capt. Wm. Pierce in 1643 of 2100 acres. The grant also includes 150 acres granted by the county court and 400 acres for transport of 8 person. Adding these in would give 1900 acres which is close agreement with the area given by QGIS.</p>
             <p>The interesting question raised by the Iken and William Pierce grant is the contradiction between the 1668 grant to William Pierce and the 1669 grant to Iken that said this property was owned by John Basse. There was a John Basse who lived in Virginia and there is some controversy about when he died but probably before 1654 in which case the reference may be to a previous owner before it was granted to William Pierce. It could also be that William Pierce was granted that land and immediately resold it to a John Basse.</p>
