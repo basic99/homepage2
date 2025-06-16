@@ -70,7 +70,7 @@ include "menu.php";
   <li><a href="http://app.typrx.com/">typrX Typing Races</a></li>
   <li><a href="http://www.encyclopediavirginia.org/White_John_d_1593">John White (d. 1593)</a></li>
   <li><a href="https://www.ventusky.com/">Ventusky - Wind, Rain and Temperature Maps</a></li>
-  <li><a href="http://www.hockeybuzz.com/cap-central/">NHL Salary Cap Info</a></li>
+  <li><a href="https://puckpedia.com/teams">NHL Salary Cap Info</a></li>
   <li><a href="http://www.watchingdurhambullsbaseball.com">Durham Bulls</a></li>
   <li><a href="/downloads/LGU-Map-03-18-19.pdf">NIFA Land-grant Colleges And Universities</a></li>
   <li><a href='https://www.nps.gov/whsa/learn/nature/fossilized-footprints.htm'>Fossilized Footprints</a></li>
