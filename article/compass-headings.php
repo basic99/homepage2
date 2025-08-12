@@ -169,7 +169,7 @@ include "../menu.php";
             <p>The interesting question raised by the Iken and William Pierce grant is the contradiction between the 1668 grant to William Pierce and the 1669 grant to Iken that said this property was owned by John Basse. There was a John Basse who lived in Virginia and there is some controversy about when he died but probably before 1654 in which case the reference may be to a previous owner before it was granted to William Pierce. It could also be that William Pierce was granted that land and immediately resold it to a John Basse.</p>
             <!-- <p>An updated <a href='/downloads/pierce_genealogy/grantsandnotes.pdf' download >map and notes</a>.</p> -->
             <figure>
-              <img src="/img/grants_mulberry.png" alt="grants mulberry" style="width:100%">
+              <img src="/img/grants_mulberry.jpg" alt="grants mulberry" style="width:100%">
               <figcaption>Other land grants in Warwick County, Virginia.</figcaption>
             </figure>
              <h4 style='padding-top: 25px;'>Additional notes</h4>
