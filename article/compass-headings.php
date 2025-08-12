@@ -173,7 +173,7 @@ include "../menu.php";
               <figcaption>Other land grants in Warwick County, Virginia.</figcaption>
             </figure>
              <h4 style='padding-top: 25px;'>Additional notes</h4>
-             <p>This map adds 4 grants to the firts map. Three are to John and Emanuel Wills mostly covering land that was granted to Thomas Iken and was escheated. The 1643 grant to William Pierce  became Barham land and then Filmer. The location of Capt. Wm. Peirce's house is noted and also a change in the line length on one grant from 520 to 320 poles</p>
+             <p>This map adds 4 grants to the first map. Three are to John and Emanuel Wills mostly covering land that was granted to Thomas Iken and was escheated. The 1643 grant to William Pierce  became Barham land and then Filmer. The location of Capt. Wm. Peirce's house is noted and also a change in the line length on one grant from 520 to 320 poles</p>
              <p>The grant to William Pierce - 1668 is of special interest as it is possible to follow its ownership or occupation over 200 years.</p>
              <ul>
                  <li>Capt. Wm. Peirce, John Rolfe and others</li>
