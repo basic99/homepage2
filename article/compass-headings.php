@@ -167,7 +167,30 @@ include "../menu.php";
             <p>The 1668 grant to William Pierce ran NExE along George Harwoods line to a marked marked pohickory. The 1669 grant to Thomas Iken ran along the river and followed the bounds of the grant to William Pierce and at George Harwoods line ran to 'marked pohickory standining nere George Harwooods lyne and bounded on these two by the land of John Basse'. The grant to William Peirce fits perfectly against the grant to Thomas Iken. The 1674 grant placement to Thomas Pierce is also aided by its alignment to the Iken grant, by which time Iken had died and his lands escheated.</p>
             <p>The calculations of acres plotted with QGIS give William Pierce 102 acres, Thomas Pierce 161 acres and Thomas Iken 1876 acres. The acreage given in the grants is 100 acres for William Pierce and 155 acres for Thomas Pierce - so close matchs. The marginal entry for the Iken grant is 1350 acres which is not close the value given by the bounds plotted with QGIS. However, a closer reading of the grant seems to indicate that 1350 is not the correct total but just that part that was part of a grant to Capt. Wm. Pierce in 1643 of 2100 acres. The grant also includes 150 acres granted by the county court and 400 acres for transport of 8 person. Adding these in would give 1900 acres which is close agreement with the area given by QGIS.</p>
             <p>The interesting question raised by the Iken and William Pierce grant is the contradiction between the 1668 grant to William Pierce and the 1669 grant to Iken that said this property was owned by John Basse. There was a John Basse who lived in Virginia and there is some controversy about when he died but probably before 1654 in which case the reference may be to a previous owner before it was granted to William Pierce. It could also be that William Pierce was granted that land and immediately resold it to a John Basse.</p>
-            <p>An updated <a href='/downloads/pierce_genealogy/grantsandnotes.pdf' download >map and notes</a>.</p>
+            <!-- <p>An updated <a href='/downloads/pierce_genealogy/grantsandnotes.pdf' download >map and notes</a>.</p> -->
+            <figure>
+              <img src="/img/grants_mulberry.png" alt="grants mulberry" style="width:100%">
+              <figcaption>Other land grants in Warwick County, Virginia.</figcaption>
+            </figure>
+             <h4 style='padding-top: 25px;'>Additional notes</h4>
+             <p>This map adds 4 grants to the firts map. Three are to John and Emanuel Wills mostly covering land that was granted to Thomas Iken and was escheated. The 1643 grant to William Pierce  became Barham land and then Filmer. The location of Capt. Wm. Peirce's house is noted and also a change in the line length on one grant from 520 to 320 poles</p>
+             <p>The grant to William Pierce - 1668 is of special interest as it is possible to follow its ownership or occupation over 200 years.</p>
+             <ul>
+                 <li>Capt. Wm. Peirce, John Rolfe and others</li>
+                 <li>1668 - William Pierce</li>
+                 <li>1669 -  John Bass</li>
+                 <li>1673 - Henry Norton / Jeremiah Peirce</li>
+                 <li>1704 - John Hansel</li>
+                 <li>1713 - John Hansel</li>
+                 <li>between 1713 and 1750 - Spencer Pierce</li>
+                 <li>before 1750 - Matthew Wills</li>
+                 <li>before 1750 - John George Wills</li>
+                 <li>before 1768 to 1775 - William Wills</li>
+                 <li>1775 to 1787 -  Matthew Noblin </li>
+                 <li>1787 to 1798 - John Chisman and Thomas Wills</li>
+                 <li>1798 and after - Carter Crafford</li>
+             </ul>
+             
         </div>
     </div>
 
