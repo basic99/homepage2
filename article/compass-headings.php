@@ -182,9 +182,9 @@ include "../menu.php";
                  <li>1673 - Henry Norton / Jeremiah Peirce</li>
                  <li>1704 - John Hansel</li>
                  <li>1713 - John Hansel</li>
-                 <li>between 1713 and 1750 - Spencer Pierce</li>
-                 <li>before 1750 - Matthew Wills</li>
-                 <li>before 1750 - John George Wills</li>
+                 <li>between 1713 and 1760 - Spencer Pierce</li>
+                 <li>before 1760 - Matthew Wills</li>
+                 <li>before 1760 - John George Wills</li>
                  <li>before 1768 to 1775 - William Wills</li>
                  <li>1775 to 1787 -  Matthew Noblin </li>
                  <li>1787 to 1798 - John Chisman and Thomas Wills</li>
