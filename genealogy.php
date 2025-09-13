@@ -35,7 +35,7 @@ include "menu.php";
   <li><a title="The White Family of Norfolk County" href="/article/the-white-family-of-norfolk-county.php">The White Family of Norfolk County, Virginia</a></li>
   <li><a title="Thomas Manning of Calvert County" href="/article/thomas-manning-of-calvert-county-2.php">Thomas Manning of Calvert County, Maryland</a></li>
   <li><a title="The White Family" href="/downloads/White_Family.pdf">The White Family (unpublished, 1991)</a></li>
-  <li><a href="/downloads/Capt_Wm_Peirce.pdf">The Possible Welsh Ancestry of Captain William Peirce of Jamestown and Mulberry Island, Virginia (unpublished manuscript, 2021)</a></li>
+  <li><a href="/downloads/Capt_Wm_Peirce.pdf">The Possible Welsh Ancestry of Captain William Peirce of Jamestown and Mulberry Island, Virginia (unpublished manuscript, 2021; updated 2025)</a></li>
 </ul>
 <p>I have also written several shorter unpublished articles and lists of transcriptions I made about my White and related families genealogy. In addition there is a map of land grants in Lower Norfolk County in the 1600s I made with the <a href="http://www.directlinesoftware.com/">DeedMapper</a> program. Current research indicates that Thomas White may have been born in Essex. Possibly his family was originally from the manors of Willingale Doe and Shelley. I had some <a title="Essex Manor Records" href="/article/essex-manor-records.php">records</a> in Latin that might be relevant translated.
 
