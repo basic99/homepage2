@@ -51,11 +51,11 @@ include "../menu.php";
 
 </ol>
 
-<h3>notes</h3>
+<h3>Notes</h3>
 
 <ol>
 
-<li>https://en.wikipedia.org/wiki/Madog_ap_Maredudd; Dr P. C. Bartrum, Welsh Genealogies, Bleddyn ap Cynfyn 3, https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project; Carl Boyer, Medieval Welsh Ancestors of Certain Americans, 3rd ed. (Santa Clarita, 2004), 14.</li>
+<li>https://en.wikipedia.org/wiki/Madog_ap_Maredudd; Dr P. C. Bartrum, <i>Welsh Genealogies</i>, Bleddyn ap Cynfyn 3, https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project; Carl Boyer, <i>Medieval Welsh Ancestors of Certain Americans</i>, 3rd ed. (Santa Clarita, 2004), 14.</li>
 <li>Bartrum, Bleddyn ap Cynfyn 7; Boyer, 16.</li>
 <li>Bartrum Bleddyn ap Cynfyn 7; Boyer, 20.</li>
 <li>Bartrum Bleddyn ap Cynfyn 7; Boyer, 24.</li>
