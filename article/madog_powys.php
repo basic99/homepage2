@@ -65,8 +65,8 @@ include "../menu.php";
 <li>Bartrum, <a href='/img/Bleddyn_ap_Cynfyn_9.jpg'>Bleddyn ap Cynfyn 9</a>; Boyer, 33.</li>
 <li>Bartrum, <a href='/img/Bleddyn_ap_Cynfyn_10.jpg'>Bleddyn ap Cynfyn 10</a></li>
 <li>Bartrum, Bleddyn ap Cynfyn 10, <a href='/img/Gwenwys.jpg'>Gwenwys 1</a>.</li>
-<li>Bartrum, Gwenwys 10.</li>
-<li>James White, “The Possible Welsh Ancestry of Captain William Peirce of Jamestown and Mulberry Island, Virginia” (unpublished manuscript, 2021; updated 2025), http://jimserver.net/downloads/Capt_Wm_Peirce.pdf.</li>
+<li>Bartrum, Gwenwys 1.</li>
+<li>James White, “The Possible Welsh Ancestry of Captain William Peirce of Jamestown and Mulberry Island, Virginia” (unpublished manuscript, 2021; updated 2025), <a href='/downloads/Capt_Wm_Peirce.pdf'>http://jimserver.net/downloads/Capt_Wm_Peirce.pdf</a>.</li>
 
 
 
