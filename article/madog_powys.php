@@ -56,15 +56,15 @@ include "../menu.php";
 <ol>
 
 <li><a href='https://en.wikipedia.org/wiki/Madog_ap_Maredudd'>https://en.wikipedia.org/wiki/Madog_ap_Maredudd</a>; Dr P. C. Bartrum, <i>Welsh Genealogies</i>, <a href='/img/Bleddyn_ap_Cynfyn_3.jpg'>Bleddyn&nbsp;ap&nbsp;Cynfyn&nbsp;3</a>, https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project; Carl Boyer, <i>Medieval Welsh Ancestors of Certain Americans</i>, 3rd ed. (Santa Clarita, 2004), 14.</li>
-<li>Bartrum, Bleddyn ap Cynfyn 7; Boyer, 16.</li>
+<li>Bartrum, <a href='/img/Bleddyn_ap_Cynfyn_7.jpg'>Bleddyn ap Cynfyn 7</a>; Boyer, 16.</li>
 <li>Bartrum Bleddyn ap Cynfyn 7; Boyer, 20.</li>
 <li>Bartrum Bleddyn ap Cynfyn 7; Boyer, 24.</li>
-<li>Bartrum, Bleddyn ap Cynfyn 8; Boyer, 26.</li>
+<li>Bartrum, <a href='/img/Bleddyn_ap_Cynfyn_8.jpg'>Bleddyn ap Cynfyn 8</a>; Boyer, 26.</li>
 <li>Bartrum, Bleddyn ap Cynfyn 8; Boyer, 29.</li>
 <li>Bartrum, Bleddyn ap Cynfyn 8; Boyer, 31.</li>
-<li>Bartrum, Bleddyn ap Cynfyn 9; Boyer, 33.</li>
-<li>Bartrum, Bleddyn ap Cynfyn 10</li>
-<li>Bartrum, Bleddyn ap Cynfyn 10, Gwenwys 10.</li>
+<li>Bartrum, <a href='/img/Bleddyn_ap_Cynfyn_9.jpg'>Bleddyn ap Cynfyn 9</a>; Boyer, 33.</li>
+<li>Bartrum, <a href='/img/Bleddyn_ap_Cynfyn_10.jpg'>Bleddyn ap Cynfyn 10</a></li>
+<li>Bartrum, Bleddyn ap Cynfyn 10, <a href='/img/Gwenwys.jpg'>Gwenwys 10</a>.</li>
 <li>Bartrum, Gwenwys 10.</li>
 <li>James White, “The Possible Welsh Ancestry of Captain William Peirce of Jamestown and Mulberry Island, Virginia” (unpublished manuscript, 2021; updated 2025), http://jimserver.net/downloads/Capt_Wm_Peirce.pdf.</li>
 
