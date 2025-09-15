@@ -55,7 +55,7 @@ include "../menu.php";
 
 <ol>
 
-<li>https://en.wikipedia.org/wiki/Madog_ap_Maredudd; Dr P. C. Bartrum, <i>Welsh Genealogies</i>, Bleddyn ap Cynfyn 3, https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project; Carl Boyer, <i>Medieval Welsh Ancestors of Certain Americans</i>, 3rd ed. (Santa Clarita, 2004), 14.</li>
+<li><a href='https://en.wikipedia.org/wiki/Madog_ap_Maredudd'>https://en.wikipedia.org/wiki/Madog_ap_Maredudd</a>; Dr P. C. Bartrum, <i>Welsh Genealogies</i>, <a href='/img/Bleddyn_ap_Cynfyn_3.jpg'>Bleddyn&nbsp;ap&nbsp;Cynfyn&nbsp;3</a>, https://research.aber.ac.uk/en/datasets/bartrum-genealogical-project; Carl Boyer, <i>Medieval Welsh Ancestors of Certain Americans</i>, 3rd ed. (Santa Clarita, 2004), 14.</li>
 <li>Bartrum, Bleddyn ap Cynfyn 7; Boyer, 16.</li>
 <li>Bartrum Bleddyn ap Cynfyn 7; Boyer, 20.</li>
 <li>Bartrum Bleddyn ap Cynfyn 7; Boyer, 24.</li>
