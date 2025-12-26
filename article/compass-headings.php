@@ -28,7 +28,7 @@
   <body>
 
 <?php
-include "../menu.php";
+    include "../menu.php";
 ?>
 
   <div  class='marspic'>
@@ -166,7 +166,7 @@ include "../menu.php";
             <h4 style='padding-top: 25px;'>Notes</h4>
             <p>The 1668 grant to William Pierce ran NExE along George Harwoods line to a marked marked pohickory. The 1669 grant to Thomas Iken ran along the river and followed the bounds of the grant to William Pierce and at George Harwoods line ran to 'marked pohickory standining nere George Harwooods lyne and bounded on these two by the land of John Basse'. The grant to William Peirce fits perfectly against the grant to Thomas Iken. The 1674 grant placement to Thomas Pierce is also aided by its alignment to the Iken grant, by which time Iken had died and his lands escheated.</p>
             <p>The calculations of acres plotted with QGIS give William Pierce 102 acres, Thomas Pierce 161 acres and Thomas Iken 1876 acres. The acreage given in the grants is 100 acres for William Pierce and 155 acres for Thomas Pierce - so close matchs. The marginal entry for the Iken grant is 1350 acres which is not close the value given by the bounds plotted with QGIS. However, a closer reading of the grant seems to indicate that 1350 is not the correct total but just that part that was part of a grant to Capt. Wm. Pierce in 1643 of 2100 acres. The grant also includes 150 acres granted by the county court and 400 acres for transport of 8 person. Adding these in would give 1900 acres which is close agreement with the area given by QGIS.</p>
-            <p>The interesting question raised by the Iken and William Pierce grant is the contradiction between the 1668 grant to William Pierce and the 1669 grant to Iken that said this property was owned by John Basse. There was a John Basse who lived in Virginia and there is some controversy about when he died but probably before 1654 in which case the reference may be to a previous owner before it was granted to William Pierce. It could also be that William Pierce was granted that land and immediately resold it to a John Basse.</p>
+            <p>The interesting question raised by the Iken and William Pierce grant is the contradiction between the 1668 grant to William Pierce and the 1669 grant to Iken that said this property was owned by John Basse. Possibly John Bass leased the land from William Peirce. There was a connection between John Bass and Henry Norton who was living on the land in 1673 as evidenced by a York County record dated 4 January 1677/8 of a suit between John Bass and Henry Norton.</p>
             <!-- <p>An updated <a href='/downloads/pierce_genealogy/grantsandnotes.pdf' download >map and notes</a>.</p> -->
             <figure>
               <img src="/img/grants_mulberry.jpg" alt="grants mulberry" style="width:100%">
@@ -190,7 +190,7 @@ include "../menu.php";
                  <li>1787 to 1798 - John Chisman and Thomas Wills</li>
                  <li>1798 and after - Carter Crafford</li>
              </ul>
-             
+
         </div>
     </div>
 
