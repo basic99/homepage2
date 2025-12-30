@@ -5,12 +5,15 @@ December 30, 2025
 
 Edward Gibbon, *The History of the Decline and Fall of the Roman Empire, Edited and abridged by David Wormersly*, (London, 1788; abridged, 2001). I had many years ago read a different abrdiged version. This version was different in that it did not abridge each chapter, but included some of the chapters as they were written and some just a brief summary of the others.
 
+***
 
 Margaret Pole, Counter of Salisbury, 1473-1541.
 
 December 30, 2025
 
 Hazel Pierce, *Margaret Pole, Counter of Salisbury, 1473-1541*, (Cardiff, 2003). During my genealogy research I contacted Hazel Pierce to look for some  reccords in Wales. Afterwards I saw she had written a book, so I read it. I was not familiar with the subject matter, but was interested that Margaret and more importantly her son Reginald were  central figures in politics during the reigh of Henry VIII, and appeared in the historical drama Wolf Hall.
+
+***
 
 The Return of Lafayette
 
