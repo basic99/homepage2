@@ -1,9 +1,22 @@
 
+The Devils's Element
+
+Dan Egan, *The Devils's Element*, (New York, 2024). This book is about the essential element phosophorous for food production and how it is produced and some of the bad effects of pollution by phosophorous in fertilizer.
+
+
+***
+
+The World of Late Antiquity
+
+Peter Brown, *The World of Late Antiquity*, (London, 1971). This book covers the period centered about 500 AD for several hundred years, with empasis on the conversion of paganism to Christianity and the religion of Islam. It has a lot of color plates of ancient art.
+
+***
+
 The History of the Decline and Fall of the Roman Empire.
 
 December 30, 2025
 
-Edward Gibbon, *The History of the Decline and Fall of the Roman Empire, Edited and abridged by David Wormersly*, (London, 1788; abridged, 2001). I had many years ago read a different abrdiged version. This version was different in that it did not abridge each chapter, but included some of the chapters as they were written and some just a brief summary of the others.
+Edward Gibbon, *The History of the Decline and Fall of the Roman Empire, Edited and abridged by David Wormersly*, (London, 1788; abridged, 2001). I had many years ago read a different abridged version. This version was different in that it did not abridge each chapter, but included some of the chapters as they were written and some just a brief summary.
 
 ***
 
