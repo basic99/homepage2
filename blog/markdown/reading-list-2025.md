@@ -1,12 +1,16 @@
 
 The Devils's Element
 
+December 30, 2025
+
 Dan Egan, *The Devils's Element*, (New York, 2024). This book is about the essential element phosophorous for food production and how it is produced and some of the bad effects of pollution by phosophorous in fertilizer.
 
 
 ***
 
 The World of Late Antiquity
+
+December 30, 2025
 
 Peter Brown, *The World of Late Antiquity*, (London, 1971). This book covers the period centered about 500 AD for several hundred years, with empasis on the conversion of paganism to Christianity and the religion of Islam. It has a lot of color plates of ancient art.
 
