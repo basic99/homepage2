@@ -24,11 +24,11 @@ Edward Gibbon, *The History of the Decline and Fall of the Roman Empire, Edited 
 
 ***
 
-Margaret Pole, Counter of Salisbury, 1473-1541.
+Margaret Pole, Countess of Salisbury, 1473-1541.
 
 December 30, 2025
 
-Hazel Pierce, *Margaret Pole, Counter of Salisbury, 1473-1541*, (Cardiff, 2003). During my genealogy research I contacted Hazel Pierce to look for some  reccords in Wales. Afterwards I saw she had written a book, so I read it. I was not familiar with the subject matter, but was interested that Margaret and more importantly her son Reginald were  central figures in politics during the reigh of Henry VIII, and appeared in the historical drama Wolf Hall.
+Hazel Pierce, *Margaret Pole, Countess of Salisbury, 1473-1541*, (Cardiff, 2003). During my genealogy research I contacted Hazel Pierce to look for some  reccords in Wales. Afterwards I saw she had written a book, so I read it. I was not familiar with the subject matter, but was interested that Margaret and more importantly her son Reginald were  central figures in politics during the reigh of Henry VIII, and appeared in the historical drama Wolf Hall.
 
 ***
 
