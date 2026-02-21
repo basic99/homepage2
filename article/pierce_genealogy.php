@@ -33,12 +33,16 @@
 
       }
 
-      #burgedin, #gwenwys, .piers {
+      #burgedin, #gwenwys, .piers, #gwenwys2, #rogers {
         width: 100%;
       }
 
       p {
         margin-top: 10px !important;
+      }
+
+      figcaption {
+        font-size: 1.2rem !important;
       }
 
 
@@ -86,17 +90,9 @@
 
 <figure>
     <img id='gwenwys' src="/img/Gwenwys.jpg" alt="" />
-    <figcaption>Gwenwys tribe</figcaption>
+    <figcaption>Gwenwys 1</figcaption>
 </figure>
 
-<!-- <p>I have made 2 possible genealogies that show how Margaret and Mally might  have been related to Reynold and Roger of Burgedin by their mother Marsli. Since Margaret vch David and Marsli vch David had the same name, probably they were not sisters.</p>
-
-<p>One assumes that Margaret and Mally's father was David ap Ieuan ap Dio and that their mother was an unnamed sister of Marsli. The <a href='/img/E_179-222-355.jpg' target='_blank'>1546 subsidy</a> list for the hundred of Pole lists for the village of Burgedin Reynald ap David ap Gruffid, Roger ap David ap Gruffid, David ap Gruffid, and Hugh ap David ap Ieuan ap Dio. Possibly Hugh ap David ap Ieuan ap Dio was the brother of Margaret and Maly, since a later chancery case showed that Margarets's grandson disputed land that had been owned by Ieuan ap Dio in the village of Trewern. The will of Margaret vch David mentioned a neice named Margaret who has been placed as a child of Hugh ap David, but without any proof he had a daughter Margaret.</p>
-
- <figure>
-    <img class='piers' src="/img/piers.svg" alt="" />
-    <figcaption>Gwenwys tribe with Pierces (1)</figcaption>
-  </figure> -->
 
 
 <p>The <a href='/img/E_179-222-355.jpg' target='_blank'>1546 subsidy</a> list for the hundred of Pole lists for the village of Burgedin Reynald ap David ap Gruffid, Roger ap David ap Gruffid, David ap Gruffid, which shows that the father of Reynold and Roger was still living at this time. </p>
@@ -114,6 +110,22 @@
      This genealogy shows how Captain William Peirce and Thomas Pierce would have been distantly related through the marriage of Thomas's uncle Edward to Elizabeth Lloyd.
 
   </p>
+
+  <h4>Further observations</h4>
+
+  <p>The British Library has a volume of pedigrees published in 1716 by John Davies. There are some pages for the Rogers family of Burgedin. One page shown here has that the mother of Roger and Reynold was named Margery vz David Goch ap David LLoyd ap Evan ap Griffith. This matches the entry in Bartrum pedigrees as far as it goes. </p>
+
+  <figure>
+    <img id='rogers' src="/img/rogers_genealogy.png" alt="" />
+    <figcaption>Rogers of Burgedin</figcaption>
+</figure>
+
+  <figure>
+    <img id='gwenwys2' src="/img/Gwenwys2.jpg" alt="" />
+    <figcaption>Gwenwys 2</figcaption>
+</figure>
+
+
 
 
 
