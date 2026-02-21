@@ -113,7 +113,9 @@
 
   <h4>Further observations</h4>
 
-  <p>The British Library has a volume of pedigrees published in 1716 by John Davies. There are some pages for the Rogers family of Burgedin. One page shown here has that the mother of Roger and Reynold was named Margery vz David Goch ap David LLoyd ap Evan ap Griffith. This matches the entry in Bartrum pedigrees as far as it goes. </p>
+  <p>The British Library has a volume of pedigrees published in 1716 by John Davies. There are some pages for the Rogers family of Burgedin. One page shown here has that the mother of Roger and Reynold was named Margery vz David Goch ap David LLoyd ap Evan ap Griffith. This matches the entry in Bartrum pedigrees as far as it goes. There is a note on the Gwenwys 1 page for Ieuan ap Gruddud that this person is ofter confused on some one on page 2. Gwenys 2 Has the corresponding note for Ieuan ap Gruffudd ap Ieuan. Unfortunately the 1716 pedigree did not go back one further generation that would distinguish which is the correct placement for the Burgedin family.</p>
+
+  <p>If David Goch ap David LLoyd were placed instead on the Gwenys 2 page that would work out better for the age of David Lloyd since he would have been a nephew of Sir Gruffud Vaughan (c. 1395-1447) to place his date of birth to around 1440.</p>
 
   <figure>
     <img id='rogers' src="/img/rogers_genealogy.png" alt="" />
