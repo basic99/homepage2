@@ -115,7 +115,11 @@
 
   <p>The British Library has a volume of pedigrees published in 1716 by John Davies. There are some pages for the Rogers family of Burgedin (Manuscripts, ADD 9865). One page shown here has that the mother of Roger and Reynold was named Margery vz David Goch ap David LLoyd ap Evan ap Griffith. This matches the entry in Bartrum pedigrees as far as it goes. There is a note on the Gwenwys 1 page for Ieuan ap Gruddud that this person is ofter confused on some one on page 2. Gwenys 2 has the corresponding note for Ieuan ap Gruffudd ap Ieuan. Unfortunately the 1716 pedigree did not go back one further generation that would distinguish which is the correct placement for the Burgedin family.</p>
 
-  <p>If David Goch ap David LLoyd were placed instead on the Gwenys 2 page that would work out better for the age of David Lloyd since he would have been a nephew of Sir Gruffud Vaughan (c. 1395-1447) to place his date of birth to around 1440.</p>
+  <p>There are at least 2 sources that place David Lloyd ap Evan ap Griffith as the nephew of Sir Griffith Vaughn. The article "An Appreciation of ..." by W.A. Griffiths in Montgomeryshire Collections v. 53, shows this David LLoyd in a record dated 1444. This article says that David Lloyd ap Evan ap Griffith married Maud Hanmer and had at least 3 children and the daughter Maud married Evan Lloyd.</p>
+  <p>The entry in Sheriffs of Montgomeryshire for Thomas Tanat 1570 also give this conflicting account for David Lloyd. It says that Maud, daughter of David Lloyd ap Ieuan ap Griffith ap Ieuan ap Madoc married Ieuan Lloyd and that the mother of this Maud was Maud daughter of Griffith Hamner.
+</p>
+  <p>There is agreement that David Lloyd ap Ieuan ap Griffith married a daughter of Griffith Hanmer and had a daughter Maud who married Ieuan Lloyd between the 2 articles and Bartrum. However, Bartrum places them as descendants of Gruffith ap Madog and the 2 cited references as descendants of Ieuan ap Madog.
+</p>
 
   <figure>
     <img id='rogers' src="/img/rogers_genealogy.png" alt="" />
