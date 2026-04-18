@@ -46,6 +46,7 @@ include "menu.php";
       <li class="list-group-item"><a href='blog/reading-list-2023.php'>reading list 2023</a></li>
       <li class="list-group-item"><a href='blog/reading-list-2024.php'>reading list 2024</a></li>
       <li class="list-group-item"><a href='blog/reading-list-2025.php'>reading list 2025</a></li>
+      <li class="list-group-item"><a href='blog/reading-list-2026.php'>reading list 2026</a></li>
     </ul>
 
 
