@@ -31,6 +31,13 @@ include "../menu.php";
   <div class="col-md-8">
     <h2>Stanley Cup Champions</h2>
 
+        <h2>Eastern conference champions 2026</h2>
+
+       <figure class="figure">
+        <img class="img-fluid" src="/img/trophy_2026.png" alt="roll out the carpet"/>
+        <figcaption class="figure-caption text-center">Also Stanley cup champs</figcaption>
+      </figure>
+
 
         <h2>June 19, 2006</h2>
         <figure class="figure">
