@@ -13,6 +13,16 @@
 
 
     <style>
+        figure {
+            width: 100%;
+            padding: 0px 80px 0px;
+        }
+        img {
+            width: 100%;
+        }
+        h2 {
+            text-align: center;
+        }
     </style>
 
   </head>
@@ -31,7 +41,7 @@ include "../menu.php";
   <div class="col-md-8">
 
 
-        <h2>Eastern conference champions 2026</h2>
+        <h2>Eastern Conference Champions 2026</h2>
        <figure class="figure">
         <img class="img-fluid" src="/img/trophy_2026.png" alt="roll out the carpet"/>
         <figcaption class="figure-caption text-center">Also Stanley cup champs</figcaption>
