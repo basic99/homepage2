@@ -41,10 +41,10 @@ include "../menu.php";
   <div class="col-md-8">
 
 
-        <h2>Eastern Conference Champions 2026</h2>
+        <h2>Stanley Cup Champions  2026</h2>
        <figure class="figure">
         <img class="img-fluid" src="/img/trophy_2026.png" alt="conference champs"/>
-        <figcaption class="figure-caption text-center">Also Stanley cup champs</figcaption>
+        <figcaption class="figure-caption text-center">Eastern Conference Champions</figcaption>
       </figure>
 
         <figure class="figure">
@@ -54,8 +54,7 @@ include "../menu.php";
 
 
 
-       <h2>Stanley Cup Champions</h2>
-        <h2>June 19, 2006</h2>
+       <h2>Stanley Cup Champions 2006</h2>
         <figure class="figure">
         <img class="img-fluid" src="/img/stanleycup01.jpg" alt="roll out the carpet"/>
         <figcaption class="figure-caption text-center">Roll out the carpet</figcaption>
