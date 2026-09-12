@@ -43,9 +43,15 @@ include "../menu.php";
 
         <h2>Eastern Conference Champions 2026</h2>
        <figure class="figure">
-        <img class="img-fluid" src="/img/trophy_2026.png" alt="roll out the carpet"/>
+        <img class="img-fluid" src="/img/trophy_2026.png" alt="conference champs"/>
         <figcaption class="figure-caption text-center">Also Stanley cup champs</figcaption>
       </figure>
+
+        <figure class="figure">
+        <img class="img-fluid" src="/img/parade.jpg" alt="parade"/>
+        <figcaption class="figure-caption text-center">Parade</figcaption>
+      </figure>
+
 
 
        <h2>Stanley Cup Champions</h2>
