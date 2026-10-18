@@ -19,6 +19,6 @@ Oct 17, 2026
 
 The Path Between the Seas
 
-David McCullough, *The Path Between the Seas. The Createion of the Panama Canal 1870-1914*, (New York, 1977). The Panama canal was something I had not given much thougt, but was a big story while it was being built. It was finished just as the World War was starting and the official opening was overshadowed by the news of war. 
+David McCullough, *The Path Between the Seas. The Creation of the Panama Canal 1870-1914*, (New York, 1977). The Panama canal was something I had not given much thougt, but was a big story while it was being built. It was finished just as the World War was starting and the official opening was overshadowed by the news of war. 
 The creation of the Panama state from part of Columbia by President Roosevelt is seen as the start of distrust of South American countries of the USA.
 
